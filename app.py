@@ -17,18 +17,54 @@ div[data-testid="stVerticalBlockBorderWrapper"] {background:white;border:1px sol
 </style>
 """, unsafe_allow_html=True)
 
+
 @st.cache_data
 def load_data():
     connection = sqlite3.connect("shopsense.db")
-    df = pd.read_sql_query("SELECT * FROM orders", connection)
-    connection.close()
+
+    try:
+        table_exists = pd.read_sql_query(
+            "SELECT name FROM sqlite_master WHERE type='table' AND name='orders'",
+            connection
+        )
+
+        if table_exists.empty:
+            df_source = pd.read_csv("shopsense_sample_ecommerce.csv")
+            df_source.to_sql(
+                "orders",
+                connection,
+                if_exists="replace",
+                index=False
+            )
+
+        df = pd.read_sql_query("SELECT * FROM orders", connection)
+
+    finally:
+        connection.close()
+
     df["OrderDate"] = pd.to_datetime(df["OrderDate"], errors="coerce")
+
     for col in ["Quantity", "UnitPrice", "UnitCost", "Sales", "Profit"]:
         df[col] = pd.to_numeric(df[col], errors="coerce")
-    df = df.dropna(subset=["OrderID","OrderDate","CustomerID","Product","Category","Country","Quantity","Sales","Profit"])
+
+    df = df.dropna(
+        subset=[
+            "OrderID", "OrderDate", "CustomerID", "Product",
+            "Category", "Country", "Quantity", "Sales", "Profit"
+        ]
+    )
+
     df = df[(df["Quantity"] > 0) & (df["Sales"] >= 0)].copy()
     df["YearMonth"] = df["OrderDate"].dt.to_period("M").astype(str)
+
     return df
+
+
+
+
+
+
+
 
 try:
     df = load_data()
