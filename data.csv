@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Sales,Profit
+1001,Laptop,Electronics,2,50000,100000,12000
+1002,Mouse,Electronics,5,500,2500,500
+1003,Chair,Furniture,3,3000,9000,1500
+1004,Keyboard,Electronics,4,1200,4800,800
+1005,Desk,Furniture,2,7000,14000,2000
+1006,Headphones,Electronics,3,2000,6000,1200
+1007,Notebook,Stationery,10,100,1000,200
+1008,Monitor,Electronics,2,12000,24000,4000
+1009,Pen,Stationery,20,20,400,100
+1010,Table,Furniture,1,8000,8000,1000

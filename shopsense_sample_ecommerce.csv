@@ -1,0 +1,1501 @@
+OrderID,OrderDate,CustomerID,Product,Category,Country,Quantity,UnitPrice,UnitCost,Sales,Profit,PaymentMethod,SalesChannel
+ORD00001,2025-04-15,CUST0280,Headphones,Electronics,United States,1,51.13,30.01,51.13,21.12,Net Banking,Mobile App
+ORD00002,2025-01-28,CUST0367,Wireless Mouse,Electronics,UAE,1,17.03,11.44,17.03,5.59,Credit Card,Mobile App
+ORD00003,2025-06-13,CUST0175,Cookware Set,Home & Kitchen,Australia,1,135.62,101.4,135.62,34.22,Credit Card,Website
+ORD00004,2025-12-19,CUST0414,Backpack,Accessories,India,1,35.86,22.51,35.86,13.35,PayPal,Marketplace
+ORD00005,2026-10-06,CUST0186,Headphones,Electronics,Canada,5,60.96,41.79,304.8,95.85,UPI,Website
+ORD00006,2025-04-14,CUST0233,Bookshelf,Furniture,Germany,3,158.45,123.05,475.35,106.2,Credit Card,Mobile App
+ORD00007,2025-03-15,CUST0088,Water Bottle,Accessories,Canada,1,11.07,8.87,11.07,2.2,Credit Card,Mobile App
+ORD00008,2025-08-13,CUST0394,Running Shoes,Sports,India,1,104.4,75.84,104.4,28.56,Credit Card,Website
+ORD00009,2026-08-04,CUST0162,Backpack,Accessories,Canada,1,21.11,16.76,21.11,4.35,PayPal,Mobile App
+ORD00010,2026-07-06,CUST0300,Coffee Maker,Home & Kitchen,UAE,1,39.77,29.57,39.77,10.2,Net Banking,Mobile App
+ORD00011,2025-04-04,CUST0057,Water Bottle,Accessories,United Kingdom,1,24.95,16.79,24.95,8.16,Credit Card,Marketplace
+ORD00012,2026-04-25,CUST0284,Yoga Mat,Sports,India,2,22.77,15.91,45.54,13.72,UPI,Marketplace
+ORD00013,2025-10-28,CUST0233,USB Drive,Electronics,India,3,24.68,15.35,74.04,27.99,Debit Card,Marketplace
+ORD00014,2026-06-04,CUST0079,Office Chair,Furniture,Germany,2,90.43,63.99,180.86,52.88,Credit Card,Marketplace
+ORD00015,2025-04-25,CUST0414,Phone Case,Accessories,Australia,4,15.18,10.12,60.72,20.24,Credit Card,Website
+ORD00016,2026-05-13,CUST0390,Bookshelf,Furniture,United Kingdom,3,154.43,84.27,463.29,210.48,Credit Card,Marketplace
+ORD00017,2026-09-14,CUST0277,Desk Lamp,Home & Kitchen,Canada,4,15.78,10.7,63.12,20.32,Debit Card,Mobile App
+ORD00018,2025-08-19,CUST0011,Water Bottle,Accessories,Canada,1,15.83,8.81,15.83,7.02,Net Banking,Website
+ORD00019,2025-02-02,CUST0037,Laptop,Electronics,Canada,1,702.44,413.51,702.44,288.93,Debit Card,Marketplace
+ORD00020,2026-08-08,CUST0125,Desk Lamp,Home & Kitchen,Singapore,1,14.63,11.71,14.63,2.92,PayPal,Website
+ORD00021,2026-04-24,CUST0028,Headphones,Electronics,United States,1,65.95,42.67,65.95,23.28,UPI,Mobile App
+ORD00022,2026-07-04,CUST0217,Backpack,Accessories,United Kingdom,3,23.14,13.36,69.42,29.34,Debit Card,Mobile App
+ORD00023,2026-07-18,CUST0334,Bookshelf,Furniture,India,3,62.92,47.97,188.76,44.85,UPI,Website
+ORD00024,2025-03-02,CUST0002,Office Chair,Furniture,UAE,1,144.8,112.86,144.8,31.94,Debit Card,Mobile App
+ORD00025,2026-07-24,CUST0250,Pen Set,Stationery,United Kingdom,1,11.62,9.51,11.62,2.11,Credit Card,Mobile App
+ORD00026,2025-11-18,CUST0300,Study Desk,Furniture,Singapore,5,211.63,144.47,1058.15,335.8,Net Banking,Marketplace
+ORD00027,2025-03-12,CUST0346,Office Chair,Furniture,Canada,1,148.64,115.26,148.64,33.38,PayPal,Website
+ORD00028,2026-03-06,CUST0290,Cookware Set,Home & Kitchen,Germany,1,105.4,74.39,105.4,31.01,Debit Card,Website
+ORD00029,2025-11-04,CUST0385,Backpack,Accessories,United States,1,36.6,26.41,36.6,10.19,UPI,Mobile App
+ORD00030,2025-08-07,CUST0068,Dumbbell Set,Sports,Germany,5,84.75,45.93,423.75,194.1,UPI,Website
+ORD00031,2025-11-06,CUST0335,Water Bottle,Accessories,India,1,14.33,9.79,14.33,4.54,Net Banking,Mobile App
+ORD00032,2025-04-20,CUST0080,Headphones,Electronics,Australia,4,37.76,20.94,151.04,67.28,Debit Card,Marketplace
+ORD00033,2025-09-28,CUST0129,Study Desk,Furniture,India,2,132.76,94.3,265.52,76.92,UPI,Marketplace
+ORD00034,2025-05-14,CUST0083,Yoga Mat,Sports,Singapore,3,13.23,8.2,39.69,15.09,Net Banking,Marketplace
+ORD00035,2025-06-02,CUST0190,Yoga Mat,Sports,United Kingdom,2,15.13,12.16,30.26,5.94,PayPal,Website
+ORD00036,2025-02-10,CUST0108,Wireless Mouse,Electronics,Canada,1,32.68,24.8,32.68,7.88,UPI,Mobile App
+ORD00037,2025-06-08,CUST0122,USB Drive,Electronics,United Kingdom,4,16.35,11.55,65.4,19.2,Credit Card,Mobile App
+ORD00038,2026-02-26,CUST0377,Laptop,Electronics,Canada,1,819.79,618.71,819.79,201.08,Debit Card,Website
+ORD00039,2025-07-24,CUST0236,Headphones,Electronics,Germany,1,28.68,18.96,28.68,9.72,Debit Card,Website
+ORD00040,2025-03-13,CUST0180,Bookshelf,Furniture,UAE,1,75.28,46.56,75.28,28.72,Net Banking,Mobile App
+ORD00041,2025-09-29,CUST0306,Laptop,Electronics,UAE,1,838.16,480.74,838.16,357.42,Debit Card,Marketplace
+ORD00042,2026-08-14,CUST0023,Backpack,Accessories,UAE,1,64.26,35.64,64.26,28.62,UPI,Marketplace
+ORD00043,2025-07-21,CUST0036,USB Drive,Electronics,Germany,2,28.63,21.22,57.26,14.82,Net Banking,Mobile App
+ORD00044,2026-02-23,CUST0357,Headphones,Electronics,Australia,2,53.53,32.8,107.06,41.46,Net Banking,Website
+ORD00045,2025-06-28,CUST0155,Study Desk,Furniture,UAE,1,287.48,207.9,287.48,79.58,Net Banking,Website
+ORD00046,2025-11-26,CUST0227,Pen Set,Stationery,Canada,1,6.87,4.77,6.87,2.1,Net Banking,Mobile App
+ORD00047,2026-09-27,CUST0420,Office Chair,Furniture,Canada,2,116.15,83.53,232.3,65.24,Debit Card,Website
+ORD00048,2026-09-18,CUST0038,Study Desk,Furniture,Singapore,1,99.7,81.27,99.7,18.43,PayPal,Marketplace
+ORD00049,2025-09-07,CUST0353,Cookware Set,Home & Kitchen,India,1,116.6,77.93,116.6,38.67,UPI,Mobile App
+ORD00050,2025-02-21,CUST0063,Bookshelf,Furniture,Singapore,1,155.59,105.08,155.59,50.51,Credit Card,Mobile App
+ORD00051,2026-03-30,CUST0369,Phone Case,Accessories,UAE,5,15.12,12.17,75.6,14.75,Net Banking,Mobile App
+ORD00052,2025-09-11,CUST0142,Office Chair,Furniture,Singapore,3,143.83,85.98,431.49,173.55,Credit Card,Mobile App
+ORD00053,2025-11-24,CUST0042,Coffee Maker,Home & Kitchen,United Kingdom,1,50.0,30.08,50.0,19.92,Credit Card,Website
+ORD00054,2026-02-22,CUST0239,Running Shoes,Sports,UAE,2,87.98,47.44,175.96,81.08,UPI,Website
+ORD00055,2025-01-21,CUST0392,Yoga Mat,Sports,UAE,1,33.55,26.97,33.55,6.58,PayPal,Website
+ORD00056,2026-03-06,CUST0377,Water Bottle,Accessories,Canada,1,13.41,10.56,13.41,2.85,PayPal,Website
+ORD00057,2026-02-19,CUST0240,Notebook Pack,Stationery,United Kingdom,1,4.32,2.68,4.32,1.64,Net Banking,Marketplace
+ORD00058,2025-03-27,CUST0070,Laptop,Electronics,Singapore,4,686.76,493.71,2747.04,772.2,Credit Card,Website
+ORD00059,2026-01-24,CUST0216,Notebook Pack,Stationery,Australia,1,6.33,3.91,6.33,2.42,UPI,Mobile App
+ORD00060,2025-08-18,CUST0400,Laptop,Electronics,India,3,470.83,379.29,1412.49,274.62,UPI,Website
+ORD00061,2026-04-30,CUST0289,Study Desk,Furniture,Canada,3,220.48,130.43,661.44,270.15,PayPal,Marketplace
+ORD00062,2025-04-28,CUST0084,Notebook Pack,Stationery,Australia,3,5.85,4.11,17.55,5.22,UPI,Marketplace
+ORD00063,2026-01-20,CUST0102,Laptop,Electronics,United States,4,680.32,539.09,2721.28,564.92,Net Banking,Marketplace
+ORD00064,2026-09-07,CUST0408,Bookshelf,Furniture,India,1,136.11,105.5,136.11,30.61,Debit Card,Marketplace
+ORD00065,2025-01-13,CUST0251,Yoga Mat,Sports,United States,2,13.93,9.95,27.86,7.96,PayPal,Mobile App
+ORD00066,2025-10-04,CUST0276,Coffee Maker,Home & Kitchen,Singapore,2,60.48,44.76,120.96,31.44,PayPal,Mobile App
+ORD00067,2025-03-30,CUST0231,Cookware Set,Home & Kitchen,Canada,1,133.69,102.84,133.69,30.85,PayPal,Marketplace
+ORD00068,2025-11-29,CUST0109,Dumbbell Set,Sports,Germany,2,41.87,27.98,83.74,27.78,Debit Card,Mobile App
+ORD00069,2025-01-11,CUST0044,Notebook Pack,Stationery,Canada,4,11.71,7.06,46.84,18.6,PayPal,Mobile App
+ORD00070,2026-05-18,CUST0009,USB Drive,Electronics,United States,3,22.88,16.33,68.64,19.65,Debit Card,Website
+ORD00071,2026-04-30,CUST0177,Running Shoes,Sports,UAE,2,57.97,40.26,115.94,35.42,Net Banking,Mobile App
+ORD00072,2025-05-04,CUST0162,Water Bottle,Accessories,United States,2,11.15,6.64,22.3,9.02,Net Banking,Marketplace
+ORD00073,2026-08-27,CUST0306,Office Chair,Furniture,Australia,1,182.1,109.8,182.1,72.3,UPI,Website
+ORD00074,2026-07-01,CUST0024,Pen Set,Stationery,India,1,4.61,2.42,4.61,2.19,Net Banking,Mobile App
+ORD00075,2025-01-13,CUST0241,Monitor,Electronics,Singapore,2,237.97,131.07,475.94,213.8,PayPal,Mobile App
+ORD00076,2025-04-27,CUST0206,Office Chair,Furniture,Singapore,5,111.61,86.89,558.05,123.6,UPI,Marketplace
+ORD00077,2025-03-29,CUST0286,Wireless Mouse,Electronics,UAE,1,30.66,24.67,30.66,5.99,Net Banking,Marketplace
+ORD00078,2026-03-30,CUST0302,Dumbbell Set,Sports,UAE,1,53.97,35.36,53.97,18.61,Debit Card,Marketplace
+ORD00079,2025-08-01,CUST0136,Dumbbell Set,Sports,United States,1,82.41,45.31,82.41,37.1,Credit Card,Website
+ORD00080,2026-09-01,CUST0017,Office Chair,Furniture,Canada,2,97.7,62.78,195.4,69.84,Debit Card,Marketplace
+ORD00081,2025-09-28,CUST0321,Pen Set,Stationery,Canada,2,7.09,5.15,14.18,3.88,PayPal,Website
+ORD00082,2025-05-26,CUST0085,USB Drive,Electronics,Australia,1,10.43,6.25,10.43,4.18,Net Banking,Marketplace
+ORD00083,2025-11-08,CUST0140,Cookware Set,Home & Kitchen,Singapore,4,88.31,58.34,353.24,119.88,PayPal,Website
+ORD00084,2025-09-14,CUST0118,Dumbbell Set,Sports,India,1,48.08,29.65,48.08,18.43,Debit Card,Marketplace
+ORD00085,2026-03-29,CUST0093,Wireless Mouse,Electronics,UAE,3,16.03,10.83,48.09,15.6,PayPal,Website
+ORD00086,2025-06-14,CUST0356,Desk Lamp,Home & Kitchen,Singapore,1,21.67,15.62,21.67,6.05,Debit Card,Marketplace
+ORD00087,2025-11-19,CUST0060,Running Shoes,Sports,UAE,3,76.26,50.06,228.78,78.6,Net Banking,Website
+ORD00088,2026-09-30,CUST0321,USB Drive,Electronics,Singapore,2,8.25,5.57,16.5,5.36,UPI,Website
+ORD00089,2026-05-12,CUST0323,Notebook Pack,Stationery,Canada,2,14.2,9.25,28.4,9.9,Credit Card,Mobile App
+ORD00090,2025-04-27,CUST0332,USB Drive,Electronics,United Kingdom,1,16.38,9.62,16.38,6.76,PayPal,Marketplace
+ORD00091,2026-04-29,CUST0283,Pen Set,Stationery,United Kingdom,2,5.46,4.21,10.92,2.5,PayPal,Website
+ORD00092,2025-10-10,CUST0213,Dumbbell Set,Sports,Germany,2,77.16,60.12,154.32,34.08,Net Banking,Mobile App
+ORD00093,2026-05-17,CUST0229,Laptop,Electronics,Singapore,1,569.42,396.36,569.42,173.06,Debit Card,Mobile App
+ORD00094,2025-07-13,CUST0293,USB Drive,Electronics,UAE,3,15.68,12.54,47.04,9.42,Credit Card,Mobile App
+ORD00095,2026-01-26,CUST0406,Wireless Mouse,Electronics,United Kingdom,1,22.88,18.17,22.88,4.71,PayPal,Website
+ORD00096,2026-03-27,CUST0234,Monitor,Electronics,India,2,210.33,164.25,420.66,92.16,Credit Card,Mobile App
+ORD00097,2026-10-01,CUST0333,Monitor,Electronics,United States,1,242.86,145.6,242.86,97.26,Debit Card,Marketplace
+ORD00098,2026-05-15,CUST0019,USB Drive,Electronics,United States,1,14.28,10.5,14.28,3.78,Credit Card,Marketplace
+ORD00099,2025-04-11,CUST0361,Pen Set,Stationery,United States,5,9.72,6.32,48.6,17.0,PayPal,Website
+ORD00100,2025-10-28,CUST0221,Pen Set,Stationery,United Kingdom,4,3.41,2.59,13.64,3.28,Credit Card,Marketplace
+ORD00101,2025-03-22,CUST0196,Yoga Mat,Sports,Canada,2,34.19,19.52,68.38,29.34,PayPal,Marketplace
+ORD00102,2025-01-10,CUST0239,Monitor,Electronics,Australia,1,218.44,143.71,218.44,74.73,Net Banking,Website
+ORD00103,2026-03-11,CUST0234,Keyboard,Electronics,Australia,1,39.01,27.16,39.01,11.85,Credit Card,Mobile App
+ORD00104,2025-10-30,CUST0012,Desk Lamp,Home & Kitchen,UAE,1,23.35,14.66,23.35,8.69,Debit Card,Website
+ORD00105,2026-09-13,CUST0147,Cookware Set,Home & Kitchen,Canada,3,125.61,102.01,376.83,70.8,Net Banking,Mobile App
+ORD00106,2025-05-21,CUST0322,Bookshelf,Furniture,India,2,120.19,86.94,240.38,66.5,Debit Card,Mobile App
+ORD00107,2025-10-30,CUST0213,Wireless Mouse,Electronics,United Kingdom,2,28.84,15.78,57.68,26.12,Credit Card,Website
+ORD00108,2025-10-07,CUST0132,USB Drive,Electronics,Singapore,3,15.41,10.33,46.23,15.24,Debit Card,Marketplace
+ORD00109,2025-08-20,CUST0371,Backpack,Accessories,UAE,3,40.01,21.71,120.03,54.9,Net Banking,Mobile App
+ORD00110,2026-04-11,CUST0384,Keyboard,Electronics,Australia,3,20.77,14.14,62.31,19.89,Net Banking,Mobile App
+ORD00111,2026-07-29,CUST0313,Water Bottle,Accessories,Canada,1,10.44,5.51,10.44,4.93,UPI,Marketplace
+ORD00112,2025-05-24,CUST0156,Coffee Maker,Home & Kitchen,Singapore,4,51.15,32.86,204.6,73.16,UPI,Website
+ORD00113,2026-07-08,CUST0381,Bookshelf,Furniture,United Kingdom,4,69.24,45.43,276.96,95.24,PayPal,Marketplace
+ORD00114,2025-10-14,CUST0190,Headphones,Electronics,Canada,3,83.49,66.94,250.47,49.65,PayPal,Mobile App
+ORD00115,2026-07-12,CUST0184,Bookshelf,Furniture,India,3,65.43,47.48,196.29,53.85,PayPal,Mobile App
+ORD00116,2025-04-04,CUST0329,Study Desk,Furniture,India,5,289.29,221.96,1446.45,336.65,UPI,Mobile App
+ORD00117,2026-07-22,CUST0111,Bookshelf,Furniture,Canada,5,137.63,80.04,688.15,287.95,Debit Card,Website
+ORD00118,2025-05-14,CUST0409,Dumbbell Set,Sports,United Kingdom,1,75.8,42.71,75.8,33.09,UPI,Marketplace
+ORD00119,2026-08-26,CUST0090,Laptop,Electronics,Australia,1,593.3,448.85,593.3,144.45,UPI,Website
+ORD00120,2026-01-06,CUST0056,Yoga Mat,Sports,Singapore,2,32.88,21.8,65.76,22.16,Net Banking,Website
+ORD00121,2026-06-18,CUST0330,Dumbbell Set,Sports,India,1,70.91,55.32,70.91,15.59,UPI,Mobile App
+ORD00122,2026-03-31,CUST0042,Running Shoes,Sports,Germany,1,43.1,31.62,43.1,11.48,Net Banking,Website
+ORD00123,2025-11-29,CUST0272,Keyboard,Electronics,Australia,1,54.34,37.8,54.34,16.54,PayPal,Marketplace
+ORD00124,2026-07-19,CUST0111,Dumbbell Set,Sports,UAE,1,71.55,39.66,71.55,31.89,PayPal,Website
+ORD00125,2025-04-08,CUST0161,Yoga Mat,Sports,Australia,1,24.7,15.93,24.7,8.77,Debit Card,Website
+ORD00126,2025-04-09,CUST0191,Desk Lamp,Home & Kitchen,United Kingdom,1,39.11,21.43,39.11,17.68,Net Banking,Website
+ORD00127,2026-02-25,CUST0341,Cookware Set,Home & Kitchen,UAE,4,101.79,73.39,407.16,113.6,UPI,Mobile App
+ORD00128,2025-06-08,CUST0115,Dumbbell Set,Sports,United States,1,26.73,17.97,26.73,8.76,Debit Card,Marketplace
+ORD00129,2026-03-16,CUST0393,Water Bottle,Accessories,India,1,11.29,6.64,11.29,4.65,Net Banking,Marketplace
+ORD00130,2025-12-14,CUST0093,Notebook Pack,Stationery,United Kingdom,1,7.01,5.25,7.01,1.76,Net Banking,Marketplace
+ORD00131,2025-04-04,CUST0111,Running Shoes,Sports,UAE,1,90.57,73.5,90.57,17.07,PayPal,Mobile App
+ORD00132,2026-08-05,CUST0027,Backpack,Accessories,United Kingdom,1,32.65,20.16,32.65,12.49,Credit Card,Marketplace
+ORD00133,2026-05-13,CUST0213,Wireless Mouse,Electronics,Australia,2,18.26,13.12,36.52,10.28,Credit Card,Marketplace
+ORD00134,2026-08-31,CUST0342,Headphones,Electronics,Australia,1,35.53,25.7,35.53,9.83,UPI,Website
+ORD00135,2025-08-05,CUST0392,Running Shoes,Sports,Australia,5,39.11,22.74,195.55,81.85,Debit Card,Mobile App
+ORD00136,2026-01-25,CUST0118,Headphones,Electronics,Germany,1,95.97,54.96,95.97,41.01,UPI,Mobile App
+ORD00137,2025-11-17,CUST0294,Wireless Mouse,Electronics,UAE,1,22.57,12.26,22.57,10.31,PayPal,Mobile App
+ORD00138,2026-09-25,CUST0354,Headphones,Electronics,Germany,1,116.79,66.75,116.79,50.04,UPI,Mobile App
+ORD00139,2026-02-10,CUST0382,Headphones,Electronics,Germany,1,80.94,54.81,80.94,26.13,Credit Card,Mobile App
+ORD00140,2025-07-18,CUST0179,Office Chair,Furniture,Germany,1,166.82,113.3,166.82,53.52,Credit Card,Website
+ORD00141,2025-03-19,CUST0322,Headphones,Electronics,Singapore,1,43.74,30.65,43.74,13.09,PayPal,Marketplace
+ORD00142,2026-10-13,CUST0322,Cookware Set,Home & Kitchen,Germany,1,141.66,97.65,141.66,44.01,Credit Card,Mobile App
+ORD00143,2026-08-29,CUST0260,Keyboard,Electronics,United States,2,54.73,41.53,109.46,26.4,Debit Card,Mobile App
+ORD00144,2025-04-03,CUST0260,Coffee Maker,Home & Kitchen,UAE,1,55.81,33.83,55.81,21.98,PayPal,Marketplace
+ORD00145,2026-08-09,CUST0165,USB Drive,Electronics,Singapore,4,24.0,12.78,96.0,44.88,Net Banking,Website
+ORD00146,2025-03-28,CUST0089,Wireless Mouse,Electronics,India,2,30.65,23.64,61.3,14.02,Credit Card,Marketplace
+ORD00147,2026-01-08,CUST0145,Coffee Maker,Home & Kitchen,UAE,5,66.68,46.87,333.4,99.05,PayPal,Mobile App
+ORD00148,2025-12-04,CUST0348,Dumbbell Set,Sports,UAE,1,61.01,37.85,61.01,23.16,Debit Card,Mobile App
+ORD00149,2025-05-25,CUST0159,Dumbbell Set,Sports,UAE,3,41.67,28.95,125.01,38.16,Credit Card,Marketplace
+ORD00150,2025-05-11,CUST0379,Keyboard,Electronics,United States,1,40.72,30.85,40.72,9.87,PayPal,Marketplace
+ORD00151,2025-12-16,CUST0099,Water Bottle,Accessories,Canada,1,11.87,9.56,11.87,2.31,Credit Card,Website
+ORD00152,2026-07-07,CUST0270,Keyboard,Electronics,India,1,63.35,42.59,63.35,20.76,Debit Card,Marketplace
+ORD00153,2026-10-02,CUST0085,Monitor,Electronics,Singapore,2,136.22,78.22,272.44,116.0,UPI,Mobile App
+ORD00154,2025-10-19,CUST0402,Water Bottle,Accessories,Singapore,2,10.51,6.87,21.02,7.28,Credit Card,Marketplace
+ORD00155,2025-07-18,CUST0293,Bookshelf,Furniture,Singapore,1,139.91,92.44,139.91,47.47,PayPal,Mobile App
+ORD00156,2025-07-24,CUST0071,Running Shoes,Sports,Australia,2,66.4,37.76,132.8,57.28,UPI,Marketplace
+ORD00157,2026-06-13,CUST0146,Desk Lamp,Home & Kitchen,United States,3,29.41,16.2,88.23,39.63,Credit Card,Mobile App
+ORD00158,2025-08-16,CUST0179,Coffee Maker,Home & Kitchen,India,4,40.31,26.25,161.24,56.24,PayPal,Website
+ORD00159,2026-01-19,CUST0164,Running Shoes,Sports,United States,2,52.68,43.11,105.36,19.14,Debit Card,Website
+ORD00160,2025-05-23,CUST0241,Monitor,Electronics,Singapore,1,265.96,176.0,265.96,89.96,Net Banking,Website
+ORD00161,2026-09-16,CUST0057,Keyboard,Electronics,Australia,1,31.86,18.0,31.86,13.86,Credit Card,Mobile App
+ORD00162,2026-04-14,CUST0256,Headphones,Electronics,India,1,64.88,49.19,64.88,15.69,Net Banking,Marketplace
+ORD00163,2025-12-28,CUST0214,Bookshelf,Furniture,United Kingdom,2,85.58,44.54,171.16,82.08,UPI,Marketplace
+ORD00164,2026-06-04,CUST0200,Water Bottle,Accessories,Singapore,1,16.0,10.76,16.0,5.24,UPI,Marketplace
+ORD00165,2025-03-11,CUST0376,Running Shoes,Sports,United States,5,54.02,28.35,270.1,128.35,Net Banking,Marketplace
+ORD00166,2025-06-29,CUST0351,Backpack,Accessories,Singapore,1,34.56,21.48,34.56,13.08,PayPal,Marketplace
+ORD00167,2026-04-14,CUST0104,Office Chair,Furniture,India,3,84.15,63.35,252.45,62.4,Credit Card,Website
+ORD00168,2026-07-11,CUST0019,Backpack,Accessories,Canada,4,42.22,34.48,168.88,30.96,Debit Card,Mobile App
+ORD00169,2026-01-12,CUST0205,Wireless Mouse,Electronics,Singapore,3,19.63,10.94,58.89,26.07,PayPal,Mobile App
+ORD00170,2026-06-16,CUST0043,Office Chair,Furniture,UAE,2,147.14,117.31,294.28,59.66,UPI,Mobile App
+ORD00171,2025-04-16,CUST0339,Dumbbell Set,Sports,Australia,5,31.73,19.3,158.65,62.15,Debit Card,Mobile App
+ORD00172,2026-04-03,CUST0181,Dumbbell Set,Sports,UAE,2,30.83,20.14,61.66,21.38,Debit Card,Marketplace
+ORD00173,2025-06-13,CUST0312,Wireless Mouse,Electronics,Singapore,1,26.66,16.77,26.66,9.89,UPI,Website
+ORD00174,2026-08-04,CUST0079,Keyboard,Electronics,Singapore,1,55.48,34.88,55.48,20.6,Debit Card,Mobile App
+ORD00175,2026-02-12,CUST0143,Coffee Maker,Home & Kitchen,Canada,3,70.17,47.63,210.51,67.62,UPI,Website
+ORD00176,2025-09-26,CUST0361,Office Chair,Furniture,Singapore,2,131.11,90.27,262.22,81.68,Credit Card,Marketplace
+ORD00177,2025-05-19,CUST0232,Pen Set,Stationery,United Kingdom,2,11.99,6.95,23.98,10.08,PayPal,Website
+ORD00178,2025-10-25,CUST0081,Backpack,Accessories,United Kingdom,2,51.35,35.17,102.7,32.36,Debit Card,Marketplace
+ORD00179,2026-05-21,CUST0284,Bookshelf,Furniture,Germany,1,76.1,42.74,76.1,33.36,PayPal,Marketplace
+ORD00180,2026-05-06,CUST0394,Monitor,Electronics,UAE,2,124.66,76.39,249.32,96.54,Net Banking,Website
+ORD00181,2026-06-14,CUST0400,Monitor,Electronics,United Kingdom,5,219.2,143.57,1096.0,378.15,Credit Card,Mobile App
+ORD00182,2025-06-06,CUST0083,Phone Case,Accessories,Germany,4,5.94,3.31,23.76,10.52,Credit Card,Mobile App
+ORD00183,2026-10-13,CUST0065,Phone Case,Accessories,Australia,4,19.38,11.53,77.52,31.4,Net Banking,Marketplace
+ORD00184,2025-06-07,CUST0320,Keyboard,Electronics,Germany,2,29.27,23.49,58.54,11.56,Net Banking,Website
+ORD00185,2025-09-29,CUST0393,Laptop,Electronics,UAE,1,829.42,623.15,829.42,206.27,Net Banking,Marketplace
+ORD00186,2025-11-06,CUST0413,Laptop,Electronics,UAE,2,700.87,425.36,1401.74,551.02,Debit Card,Mobile App
+ORD00187,2026-04-21,CUST0311,Keyboard,Electronics,United Kingdom,2,28.69,18.5,57.38,20.38,Debit Card,Marketplace
+ORD00188,2025-05-14,CUST0264,Backpack,Accessories,United States,3,58.46,47.51,175.38,32.85,Debit Card,Website
+ORD00189,2025-02-21,CUST0316,Coffee Maker,Home & Kitchen,UAE,1,61.47,34.56,61.47,26.91,Credit Card,Website
+ORD00190,2025-06-13,CUST0240,Backpack,Accessories,Singapore,4,51.89,29.94,207.56,87.8,Debit Card,Mobile App
+ORD00191,2025-09-04,CUST0181,Laptop,Electronics,India,1,607.3,399.1,607.3,208.2,UPI,Mobile App
+ORD00192,2025-10-20,CUST0056,Desk Lamp,Home & Kitchen,UAE,2,39.5,28.51,79.0,21.98,Credit Card,Mobile App
+ORD00193,2026-08-07,CUST0186,Water Bottle,Accessories,Australia,3,12.95,8.29,38.85,13.98,UPI,Mobile App
+ORD00194,2026-10-01,CUST0061,Phone Case,Accessories,United Kingdom,2,14.35,11.01,28.7,6.68,UPI,Mobile App
+ORD00195,2025-05-28,CUST0261,Water Bottle,Accessories,UAE,3,12.44,9.97,37.32,7.41,Net Banking,Website
+ORD00196,2026-06-16,CUST0311,Wireless Mouse,Electronics,United Kingdom,1,28.41,21.63,28.41,6.78,Debit Card,Marketplace
+ORD00197,2025-11-03,CUST0260,Backpack,Accessories,Singapore,1,64.56,47.89,64.56,16.67,Net Banking,Mobile App
+ORD00198,2026-03-03,CUST0408,Desk Lamp,Home & Kitchen,India,3,22.89,16.53,68.67,19.08,Net Banking,Mobile App
+ORD00199,2026-08-15,CUST0027,Notebook Pack,Stationery,Singapore,5,12.61,9.49,63.05,15.6,Credit Card,Marketplace
+ORD00200,2025-09-06,CUST0359,Dumbbell Set,Sports,United States,3,44.71,34.27,134.13,31.32,Credit Card,Website
+ORD00201,2026-02-25,CUST0314,Coffee Maker,Home & Kitchen,Singapore,1,40.6,29.52,40.6,11.08,UPI,Marketplace
+ORD00202,2026-05-05,CUST0161,Monitor,Electronics,United Kingdom,2,205.35,168.27,410.7,74.16,PayPal,Marketplace
+ORD00203,2025-09-28,CUST0099,Backpack,Accessories,Canada,2,49.77,38.84,99.54,21.86,Debit Card,Marketplace
+ORD00204,2025-10-23,CUST0354,Pen Set,Stationery,Singapore,1,11.76,7.17,11.76,4.59,Debit Card,Mobile App
+ORD00205,2025-10-22,CUST0347,Water Bottle,Accessories,UAE,2,23.76,17.5,47.52,12.52,PayPal,Mobile App
+ORD00206,2025-12-21,CUST0336,Monitor,Electronics,Australia,1,158.9,116.67,158.9,42.23,PayPal,Website
+ORD00207,2025-10-06,CUST0316,Study Desk,Furniture,Canada,3,146.94,101.18,440.82,137.28,Credit Card,Website
+ORD00208,2025-12-05,CUST0052,Phone Case,Accessories,United Kingdom,1,8.96,4.93,8.96,4.03,UPI,Marketplace
+ORD00209,2026-05-04,CUST0388,Office Chair,Furniture,Australia,1,210.58,164.99,210.58,45.59,Debit Card,Mobile App
+ORD00210,2026-07-02,CUST0020,Wireless Mouse,Electronics,United Kingdom,4,14.06,9.73,56.24,17.32,PayPal,Website
+ORD00211,2025-10-24,CUST0005,Wireless Mouse,Electronics,Australia,5,21.13,14.13,105.65,35.0,Net Banking,Marketplace
+ORD00212,2026-07-11,CUST0069,Headphones,Electronics,Singapore,4,56.83,37.3,227.32,78.12,Debit Card,Website
+ORD00213,2025-07-10,CUST0173,Headphones,Electronics,Australia,1,94.46,67.49,94.46,26.97,Net Banking,Marketplace
+ORD00214,2026-03-14,CUST0045,Study Desk,Furniture,UAE,1,269.79,212.89,269.79,56.9,UPI,Website
+ORD00215,2026-01-28,CUST0386,Monitor,Electronics,Australia,2,269.09,140.48,538.18,257.22,Debit Card,Mobile App
+ORD00216,2025-08-30,CUST0061,Cookware Set,Home & Kitchen,Singapore,2,41.26,29.55,82.52,23.42,Debit Card,Website
+ORD00217,2025-11-15,CUST0328,Running Shoes,Sports,Australia,2,104.23,81.96,208.46,44.54,Debit Card,Marketplace
+ORD00218,2026-09-13,CUST0360,Bookshelf,Furniture,Singapore,1,69.02,39.06,69.02,29.96,Net Banking,Marketplace
+ORD00219,2025-03-25,CUST0271,Study Desk,Furniture,Germany,3,232.87,162.72,698.61,210.45,UPI,Marketplace
+ORD00220,2026-08-10,CUST0085,Headphones,Electronics,Germany,1,77.03,51.74,77.03,25.29,Net Banking,Mobile App
+ORD00221,2026-06-07,CUST0029,Headphones,Electronics,Singapore,2,93.11,62.07,186.22,62.08,Credit Card,Marketplace
+ORD00222,2025-11-12,CUST0203,Yoga Mat,Sports,Australia,2,13.62,8.97,27.24,9.3,UPI,Marketplace
+ORD00223,2025-03-07,CUST0036,Study Desk,Furniture,Singapore,2,99.51,62.03,199.02,74.96,UPI,Mobile App
+ORD00224,2026-03-07,CUST0196,Yoga Mat,Sports,Singapore,1,15.79,11.25,15.79,4.54,PayPal,Mobile App
+ORD00225,2025-12-23,CUST0276,Keyboard,Electronics,UAE,2,56.4,38.45,112.8,35.9,Net Banking,Website
+ORD00226,2026-04-20,CUST0279,Bookshelf,Furniture,UAE,3,134.4,109.34,403.2,75.18,Net Banking,Mobile App
+ORD00227,2025-04-26,CUST0339,Bookshelf,Furniture,UAE,1,91.35,55.06,91.35,36.29,Net Banking,Website
+ORD00228,2026-09-05,CUST0025,Bookshelf,Furniture,Canada,1,65.59,34.77,65.59,30.82,UPI,Mobile App
+ORD00229,2025-02-27,CUST0149,Coffee Maker,Home & Kitchen,Canada,1,45.21,35.22,45.21,9.99,Net Banking,Mobile App
+ORD00230,2025-11-06,CUST0339,Cookware Set,Home & Kitchen,Canada,2,113.98,70.23,227.96,87.5,PayPal,Mobile App
+ORD00231,2025-06-29,CUST0219,Notebook Pack,Stationery,Singapore,1,14.43,11.31,14.43,3.12,UPI,Mobile App
+ORD00232,2025-06-02,CUST0095,Running Shoes,Sports,Singapore,3,58.91,37.99,176.73,62.76,Credit Card,Website
+ORD00233,2025-03-01,CUST0214,Pen Set,Stationery,United Kingdom,3,4.3,2.83,12.9,4.41,PayPal,Website
+ORD00234,2026-01-15,CUST0371,Notebook Pack,Stationery,Canada,1,11.11,8.85,11.11,2.26,UPI,Mobile App
+ORD00235,2025-07-12,CUST0301,Running Shoes,Sports,Canada,2,80.22,62.74,160.44,34.96,PayPal,Website
+ORD00236,2025-07-14,CUST0383,Backpack,Accessories,Singapore,1,60.72,35.43,60.72,25.29,Credit Card,Marketplace
+ORD00237,2025-11-26,CUST0195,Dumbbell Set,Sports,Singapore,2,45.78,27.09,91.56,37.38,Net Banking,Marketplace
+ORD00238,2026-04-23,CUST0370,Water Bottle,Accessories,Singapore,1,12.83,10.07,12.83,2.76,Debit Card,Website
+ORD00239,2025-05-30,CUST0284,Water Bottle,Accessories,UAE,1,6.87,5.35,6.87,1.52,Debit Card,Website
+ORD00240,2026-05-27,CUST0351,Study Desk,Furniture,Germany,1,169.77,130.72,169.77,39.05,Debit Card,Mobile App
+ORD00241,2025-05-24,CUST0251,Desk Lamp,Home & Kitchen,United Kingdom,2,35.65,22.3,71.3,26.7,Net Banking,Marketplace
+ORD00242,2025-02-19,CUST0212,Wireless Mouse,Electronics,United Kingdom,2,31.3,16.97,62.6,28.66,Credit Card,Website
+ORD00243,2026-09-25,CUST0316,Monitor,Electronics,Singapore,1,195.97,123.85,195.97,72.12,PayPal,Website
+ORD00244,2025-10-09,CUST0009,Laptop,Electronics,UAE,2,614.54,322.64,1229.08,583.8,Credit Card,Website
+ORD00245,2025-09-16,CUST0137,Headphones,Electronics,UAE,2,47.89,33.81,95.78,28.16,UPI,Mobile App
+ORD00246,2025-11-04,CUST0042,Running Shoes,Sports,India,2,53.24,38.82,106.48,28.84,UPI,Mobile App
+ORD00247,2025-06-25,CUST0223,Running Shoes,Sports,Germany,1,70.7,50.27,70.7,20.43,Net Banking,Website
+ORD00248,2026-08-04,CUST0024,Phone Case,Accessories,United States,4,8.91,7.04,35.64,7.48,Debit Card,Marketplace
+ORD00249,2025-01-17,CUST0074,Cookware Set,Home & Kitchen,UAE,2,59.73,46.3,119.46,26.86,UPI,Mobile App
+ORD00250,2026-07-08,CUST0387,Office Chair,Furniture,United Kingdom,2,157.17,121.78,314.34,70.78,UPI,Marketplace
+ORD00251,2025-12-15,CUST0315,Water Bottle,Accessories,UAE,1,14.3,11.03,14.3,3.27,Debit Card,Website
+ORD00252,2026-07-21,CUST0096,Notebook Pack,Stationery,UAE,3,8.96,5.27,26.88,11.07,UPI,Marketplace
+ORD00253,2025-06-07,CUST0402,Pen Set,Stationery,United Kingdom,3,9.42,5.13,28.26,12.87,PayPal,Mobile App
+ORD00254,2026-01-04,CUST0053,Water Bottle,Accessories,United Kingdom,1,6.1,3.74,6.1,2.36,UPI,Website
+ORD00255,2025-01-27,CUST0284,Yoga Mat,Sports,United States,1,27.53,17.69,27.53,9.84,Net Banking,Marketplace
+ORD00256,2025-03-28,CUST0287,Backpack,Accessories,Canada,3,18.58,11.97,55.74,19.83,Net Banking,Marketplace
+ORD00257,2025-10-02,CUST0033,Office Chair,Furniture,United Kingdom,2,99.58,59.82,199.16,79.52,PayPal,Mobile App
+ORD00258,2025-09-10,CUST0254,Yoga Mat,Sports,Canada,1,33.91,21.31,33.91,12.6,PayPal,Website
+ORD00259,2026-09-28,CUST0169,Monitor,Electronics,Singapore,1,271.3,168.12,271.3,103.18,Debit Card,Mobile App
+ORD00260,2025-07-25,CUST0091,Dumbbell Set,Sports,UAE,1,40.84,32.84,40.84,8.0,Debit Card,Mobile App
+ORD00261,2025-10-15,CUST0202,Desk Lamp,Home & Kitchen,Germany,5,37.37,23.09,186.85,71.4,UPI,Marketplace
+ORD00262,2026-07-18,CUST0237,Study Desk,Furniture,Canada,2,204.58,148.22,409.16,112.72,PayPal,Mobile App
+ORD00263,2026-05-27,CUST0156,Keyboard,Electronics,Canada,3,63.76,40.98,191.28,68.34,Debit Card,Marketplace
+ORD00264,2026-09-05,CUST0206,Monitor,Electronics,UAE,2,244.14,132.37,488.28,223.54,Net Banking,Website
+ORD00265,2025-03-29,CUST0128,Water Bottle,Accessories,Germany,2,21.43,14.96,42.86,12.94,Credit Card,Marketplace
+ORD00266,2026-02-14,CUST0408,Dumbbell Set,Sports,UAE,1,83.93,60.7,83.93,23.23,UPI,Website
+ORD00267,2026-08-18,CUST0114,Headphones,Electronics,Singapore,1,73.51,49.67,73.51,23.84,Debit Card,Mobile App
+ORD00268,2025-12-20,CUST0054,Coffee Maker,Home & Kitchen,Australia,3,71.2,47.71,213.6,70.47,PayPal,Website
+ORD00269,2025-12-18,CUST0106,Headphones,Electronics,Singapore,3,94.36,58.93,283.08,106.29,Debit Card,Mobile App
+ORD00270,2025-11-04,CUST0364,Headphones,Electronics,United States,1,91.19,56.14,91.19,35.05,UPI,Mobile App
+ORD00271,2025-09-07,CUST0283,Headphones,Electronics,United Kingdom,2,40.61,33.1,81.22,15.02,Debit Card,Marketplace
+ORD00272,2025-07-08,CUST0337,Yoga Mat,Sports,UAE,4,18.49,11.86,73.96,26.52,PayPal,Website
+ORD00273,2025-01-05,CUST0106,Dumbbell Set,Sports,Australia,4,49.22,31.94,196.88,69.12,UPI,Marketplace
+ORD00274,2025-07-21,CUST0135,Headphones,Electronics,Singapore,3,76.0,47.86,228.0,84.42,Net Banking,Marketplace
+ORD00275,2025-12-23,CUST0235,Backpack,Accessories,United Kingdom,2,46.73,32.53,93.46,28.4,Debit Card,Marketplace
+ORD00276,2025-11-09,CUST0192,Cookware Set,Home & Kitchen,United Kingdom,1,54.73,30.39,54.73,24.34,Net Banking,Mobile App
+ORD00277,2026-05-14,CUST0356,Yoga Mat,Sports,United Kingdom,2,28.09,18.17,56.18,19.84,Net Banking,Website
+ORD00278,2026-09-27,CUST0184,Desk Lamp,Home & Kitchen,India,1,16.55,12.79,16.55,3.76,PayPal,Website
+ORD00279,2026-05-22,CUST0252,Study Desk,Furniture,UAE,3,292.4,196.39,877.2,288.03,PayPal,Mobile App
+ORD00280,2025-10-27,CUST0116,Office Chair,Furniture,Australia,1,79.47,59.47,79.47,20.0,Credit Card,Mobile App
+ORD00281,2025-04-26,CUST0138,Cookware Set,Home & Kitchen,Germany,3,124.25,85.1,372.75,117.45,Net Banking,Website
+ORD00282,2025-09-11,CUST0017,Coffee Maker,Home & Kitchen,Singapore,2,99.28,54.68,198.56,89.2,Debit Card,Mobile App
+ORD00283,2025-08-31,CUST0378,Keyboard,Electronics,Germany,1,74.67,56.2,74.67,18.47,Net Banking,Marketplace
+ORD00284,2025-07-31,CUST0292,Yoga Mat,Sports,Germany,1,15.9,9.25,15.9,6.65,Net Banking,Mobile App
+ORD00285,2025-10-24,CUST0264,Dumbbell Set,Sports,United States,2,41.04,30.01,82.08,22.06,Credit Card,Mobile App
+ORD00286,2025-05-16,CUST0365,Wireless Mouse,Electronics,Germany,5,31.94,17.82,159.7,70.6,Credit Card,Marketplace
+ORD00287,2026-03-01,CUST0039,Running Shoes,Sports,United States,2,78.31,47.03,156.62,62.56,PayPal,Marketplace
+ORD00288,2026-05-15,CUST0002,Notebook Pack,Stationery,United States,2,13.65,8.96,27.3,9.38,PayPal,Marketplace
+ORD00289,2026-03-16,CUST0254,Water Bottle,Accessories,Australia,3,21.12,13.5,63.36,22.86,Debit Card,Mobile App
+ORD00290,2025-12-18,CUST0391,Backpack,Accessories,India,2,24.14,18.73,48.28,10.82,UPI,Website
+ORD00291,2026-04-13,CUST0104,Coffee Maker,Home & Kitchen,United Kingdom,1,95.06,53.94,95.06,41.12,Debit Card,Website
+ORD00292,2025-06-19,CUST0321,Notebook Pack,Stationery,Australia,1,7.96,4.34,7.96,3.62,Credit Card,Mobile App
+ORD00293,2025-05-16,CUST0266,Keyboard,Electronics,Singapore,2,20.06,13.3,40.12,13.52,UPI,Website
+ORD00294,2025-05-16,CUST0118,Backpack,Accessories,UAE,3,64.44,41.67,193.32,68.31,UPI,Marketplace
+ORD00295,2026-01-27,CUST0386,Headphones,Electronics,United Kingdom,1,59.92,36.54,59.92,23.38,Credit Card,Website
+ORD00296,2025-12-26,CUST0322,Phone Case,Accessories,United Kingdom,2,15.38,8.75,30.76,13.26,PayPal,Marketplace
+ORD00297,2025-05-07,CUST0197,Coffee Maker,Home & Kitchen,Germany,3,36.07,19.84,108.21,48.69,PayPal,Mobile App
+ORD00298,2026-09-08,CUST0312,Monitor,Electronics,Australia,1,219.59,130.54,219.59,89.05,UPI,Marketplace
+ORD00299,2026-02-06,CUST0028,Pen Set,Stationery,Canada,1,8.46,4.88,8.46,3.58,PayPal,Mobile App
+ORD00300,2025-01-13,CUST0163,Headphones,Electronics,United Kingdom,1,85.62,46.35,85.62,39.27,PayPal,Marketplace
+ORD00301,2025-03-16,CUST0035,Yoga Mat,Sports,India,1,31.12,23.3,31.12,7.82,Debit Card,Website
+ORD00302,2025-10-21,CUST0257,Wireless Mouse,Electronics,UAE,4,33.82,21.62,135.28,48.8,PayPal,Marketplace
+ORD00303,2025-10-12,CUST0041,Running Shoes,Sports,Canada,1,75.24,53.03,75.24,22.21,Credit Card,Marketplace
+ORD00304,2025-03-09,CUST0224,Backpack,Accessories,Canada,1,47.81,36.83,47.81,10.98,UPI,Website
+ORD00305,2025-02-26,CUST0380,Keyboard,Electronics,United Kingdom,4,26.38,18.56,105.52,31.28,UPI,Website
+ORD00306,2026-06-20,CUST0370,Monitor,Electronics,Australia,2,137.85,111.09,275.7,53.52,Credit Card,Mobile App
+ORD00307,2025-05-01,CUST0016,Monitor,Electronics,Germany,3,258.49,191.25,775.47,201.72,PayPal,Mobile App
+ORD00308,2025-03-20,CUST0262,Phone Case,Accessories,Germany,1,17.11,11.86,17.11,5.25,UPI,Mobile App
+ORD00309,2026-08-11,CUST0060,Cookware Set,Home & Kitchen,Canada,1,57.3,43.09,57.3,14.21,Net Banking,Website
+ORD00310,2026-01-08,CUST0077,Wireless Mouse,Electronics,United Kingdom,3,12.28,6.55,36.84,17.19,UPI,Marketplace
+ORD00311,2025-11-24,CUST0040,Yoga Mat,Sports,Germany,1,18.95,15.06,18.95,3.89,UPI,Marketplace
+ORD00312,2026-02-15,CUST0239,Wireless Mouse,Electronics,Australia,1,30.5,24.84,30.5,5.66,Debit Card,Mobile App
+ORD00313,2026-08-01,CUST0379,Keyboard,Electronics,Canada,2,20.44,11.86,40.88,17.16,PayPal,Mobile App
+ORD00314,2026-07-14,CUST0126,Cookware Set,Home & Kitchen,United Kingdom,5,149.76,112.73,748.8,185.15,UPI,Mobile App
+ORD00315,2025-01-10,CUST0389,Laptop,Electronics,UAE,1,588.57,454.3,588.57,134.27,Debit Card,Website
+ORD00316,2025-03-03,CUST0144,Study Desk,Furniture,United States,2,140.02,93.48,280.04,93.08,UPI,Website
+ORD00317,2025-03-28,CUST0259,Phone Case,Accessories,United Kingdom,1,20.22,13.3,20.22,6.92,PayPal,Website
+ORD00318,2025-08-31,CUST0162,Cookware Set,Home & Kitchen,UAE,2,87.85,71.09,175.7,33.52,Debit Card,Mobile App
+ORD00319,2026-08-22,CUST0055,Coffee Maker,Home & Kitchen,United Kingdom,1,35.23,20.46,35.23,14.77,PayPal,Mobile App
+ORD00320,2025-08-01,CUST0238,Backpack,Accessories,Australia,1,43.19,34.96,43.19,8.23,UPI,Website
+ORD00321,2026-09-10,CUST0168,Office Chair,Furniture,United Kingdom,3,119.11,87.12,357.33,95.97,UPI,Marketplace
+ORD00322,2025-11-03,CUST0090,Bookshelf,Furniture,India,5,96.61,51.66,483.05,224.75,PayPal,Mobile App
+ORD00323,2025-05-24,CUST0032,USB Drive,Electronics,Canada,3,12.75,8.4,38.25,13.05,Credit Card,Website
+ORD00324,2026-08-20,CUST0417,Running Shoes,Sports,United States,1,82.27,58.69,82.27,23.58,UPI,Website
+ORD00325,2025-12-06,CUST0237,Study Desk,Furniture,India,4,183.12,102.3,732.48,323.28,Credit Card,Marketplace
+ORD00326,2026-03-13,CUST0110,Yoga Mat,Sports,United Kingdom,3,23.06,12.2,69.18,32.58,Debit Card,Mobile App
+ORD00327,2025-09-09,CUST0256,Coffee Maker,Home & Kitchen,UAE,4,32.43,22.89,129.72,38.16,Net Banking,Mobile App
+ORD00328,2026-06-23,CUST0411,Wireless Mouse,Electronics,India,1,20.81,13.44,20.81,7.37,PayPal,Marketplace
+ORD00329,2026-08-03,CUST0199,Water Bottle,Accessories,Australia,2,20.85,12.99,41.7,15.72,Credit Card,Website
+ORD00330,2025-10-15,CUST0242,Backpack,Accessories,Germany,2,19.38,14.79,38.76,9.18,Net Banking,Website
+ORD00331,2025-02-27,CUST0295,Office Chair,Furniture,UAE,1,170.25,102.14,170.25,68.11,Debit Card,Website
+ORD00332,2026-01-03,CUST0015,Office Chair,Furniture,Germany,1,121.11,89.79,121.11,31.32,Net Banking,Marketplace
+ORD00333,2026-05-20,CUST0090,Monitor,Electronics,Singapore,2,142.0,115.93,284.0,52.14,UPI,Website
+ORD00334,2025-01-01,CUST0315,Wireless Mouse,Electronics,Canada,1,17.03,11.55,17.03,5.48,Credit Card,Mobile App
+ORD00335,2025-01-23,CUST0361,Office Chair,Furniture,United Kingdom,4,197.42,121.82,789.68,302.4,UPI,Marketplace
+ORD00336,2026-02-10,CUST0173,Water Bottle,Accessories,Australia,5,13.1,10.51,65.5,12.95,Debit Card,Website
+ORD00337,2026-05-14,CUST0090,Office Chair,Furniture,Germany,3,138.35,98.47,415.05,119.64,Credit Card,Marketplace
+ORD00338,2025-10-29,CUST0374,Cookware Set,Home & Kitchen,India,3,81.62,60.42,244.86,63.6,Net Banking,Mobile App
+ORD00339,2026-09-19,CUST0290,Cookware Set,Home & Kitchen,United States,1,106.26,84.62,106.26,21.64,PayPal,Website
+ORD00340,2025-06-21,CUST0046,Backpack,Accessories,Germany,3,29.19,23.78,87.57,16.23,PayPal,Website
+ORD00341,2025-04-21,CUST0025,Notebook Pack,Stationery,UAE,1,11.62,7.26,11.62,4.36,PayPal,Marketplace
+ORD00342,2026-01-23,CUST0193,Yoga Mat,Sports,United States,5,36.77,24.56,183.85,61.05,PayPal,Marketplace
+ORD00343,2025-10-29,CUST0134,Bookshelf,Furniture,United States,1,62.74,48.54,62.74,14.2,UPI,Mobile App
+ORD00344,2025-04-06,CUST0315,Office Chair,Furniture,Singapore,4,98.33,53.34,393.32,179.96,UPI,Mobile App
+ORD00345,2025-12-06,CUST0210,Office Chair,Furniture,Australia,2,137.96,73.96,275.92,128.0,Debit Card,Mobile App
+ORD00346,2026-05-18,CUST0185,Bookshelf,Furniture,India,1,96.25,65.92,96.25,30.33,PayPal,Website
+ORD00347,2025-04-10,CUST0088,Pen Set,Stationery,Australia,3,8.63,5.73,25.89,8.7,UPI,Mobile App
+ORD00348,2025-09-29,CUST0279,Headphones,Electronics,UAE,1,62.76,41.84,62.76,20.92,Credit Card,Mobile App
+ORD00349,2026-04-22,CUST0138,Running Shoes,Sports,India,1,68.43,40.99,68.43,27.44,Credit Card,Marketplace
+ORD00350,2026-08-27,CUST0032,Headphones,Electronics,UAE,1,57.66,39.35,57.66,18.31,Net Banking,Mobile App
+ORD00351,2025-08-30,CUST0041,USB Drive,Electronics,UAE,2,28.54,19.74,57.08,17.6,UPI,Marketplace
+ORD00352,2026-09-28,CUST0388,Cookware Set,Home & Kitchen,Singapore,4,128.05,92.61,512.2,141.76,Credit Card,Website
+ORD00353,2026-03-22,CUST0322,Study Desk,Furniture,United Kingdom,3,116.5,75.38,349.5,123.36,Net Banking,Mobile App
+ORD00354,2026-02-02,CUST0283,Backpack,Accessories,Germany,4,60.97,32.93,243.88,112.16,Debit Card,Marketplace
+ORD00355,2026-08-25,CUST0215,Coffee Maker,Home & Kitchen,United States,4,30.87,22.54,123.48,33.32,PayPal,Website
+ORD00356,2025-04-13,CUST0289,Monitor,Electronics,United States,2,209.06,169.22,418.12,79.68,Debit Card,Marketplace
+ORD00357,2026-08-09,CUST0020,Water Bottle,Accessories,United Kingdom,3,11.02,7.9,33.06,9.36,Debit Card,Mobile App
+ORD00358,2026-02-10,CUST0170,Monitor,Electronics,Canada,2,225.74,144.59,451.48,162.3,UPI,Marketplace
+ORD00359,2025-11-07,CUST0252,Desk Lamp,Home & Kitchen,United States,4,41.4,21.78,165.6,78.48,Credit Card,Website
+ORD00360,2025-10-03,CUST0310,Pen Set,Stationery,United States,5,6.99,5.37,34.95,8.1,Credit Card,Mobile App
+ORD00361,2026-06-13,CUST0029,Study Desk,Furniture,United Kingdom,4,175.51,116.77,702.04,234.96,UPI,Mobile App
+ORD00362,2026-08-06,CUST0099,Phone Case,Accessories,Canada,1,18.27,12.37,18.27,5.9,UPI,Website
+ORD00363,2025-10-08,CUST0238,Wireless Mouse,Electronics,UAE,2,33.11,24.22,66.22,17.78,UPI,Marketplace
+ORD00364,2026-05-01,CUST0180,Laptop,Electronics,Germany,1,645.51,422.05,645.51,223.46,Credit Card,Mobile App
+ORD00365,2026-08-09,CUST0114,Keyboard,Electronics,Canada,1,41.26,23.47,41.26,17.79,Credit Card,Mobile App
+ORD00366,2025-01-10,CUST0068,Yoga Mat,Sports,United Kingdom,2,36.21,29.34,72.42,13.74,Net Banking,Website
+ORD00367,2025-10-09,CUST0193,Bookshelf,Furniture,Germany,1,139.53,85.34,139.53,54.19,PayPal,Mobile App
+ORD00368,2026-02-11,CUST0004,Study Desk,Furniture,Germany,2,232.21,178.17,464.42,108.08,Net Banking,Marketplace
+ORD00369,2025-03-07,CUST0328,Dumbbell Set,Sports,Germany,2,39.4,21.77,78.8,35.26,Debit Card,Mobile App
+ORD00370,2025-02-28,CUST0411,Pen Set,Stationery,UAE,1,7.66,4.54,7.66,3.12,Debit Card,Marketplace
+ORD00371,2025-09-23,CUST0208,Monitor,Electronics,UAE,2,221.42,181.4,442.84,80.04,UPI,Marketplace
+ORD00372,2026-07-02,CUST0244,Cookware Set,Home & Kitchen,Germany,3,77.75,57.07,233.25,62.04,Net Banking,Mobile App
+ORD00373,2025-04-10,CUST0380,Office Chair,Furniture,Australia,3,202.09,116.07,606.27,258.06,Net Banking,Website
+ORD00374,2025-11-11,CUST0170,Backpack,Accessories,Germany,2,28.45,16.7,56.9,23.5,Debit Card,Marketplace
+ORD00375,2026-10-12,CUST0318,Pen Set,Stationery,United States,2,4.06,2.18,8.12,3.76,PayPal,Website
+ORD00376,2026-02-28,CUST0078,Phone Case,Accessories,United Kingdom,1,16.57,11.25,16.57,5.32,Credit Card,Mobile App
+ORD00377,2025-05-27,CUST0367,Yoga Mat,Sports,United Kingdom,5,37.0,30.19,185.0,34.05,UPI,Mobile App
+ORD00378,2025-01-05,CUST0108,Backpack,Accessories,United Kingdom,2,26.31,18.69,52.62,15.24,Net Banking,Website
+ORD00379,2026-03-21,CUST0207,Desk Lamp,Home & Kitchen,UAE,3,37.29,20.84,111.87,49.35,PayPal,Mobile App
+ORD00380,2025-01-15,CUST0388,Laptop,Electronics,Canada,1,529.77,334.78,529.77,194.99,UPI,Marketplace
+ORD00381,2025-12-19,CUST0053,Laptop,Electronics,UAE,2,549.53,400.09,1099.06,298.88,Net Banking,Marketplace
+ORD00382,2025-10-25,CUST0267,Pen Set,Stationery,Germany,1,10.41,6.34,10.41,4.07,PayPal,Marketplace
+ORD00383,2025-07-12,CUST0416,Monitor,Electronics,UAE,1,263.24,165.26,263.24,97.98,UPI,Website
+ORD00384,2026-08-27,CUST0064,Bookshelf,Furniture,Germany,2,68.78,50.91,137.56,35.74,UPI,Mobile App
+ORD00385,2025-02-19,CUST0335,Notebook Pack,Stationery,India,3,10.85,7.58,32.55,9.81,UPI,Marketplace
+ORD00386,2026-05-01,CUST0106,Headphones,Electronics,India,1,61.12,41.82,61.12,19.3,Debit Card,Mobile App
+ORD00387,2025-05-21,CUST0054,Headphones,Electronics,United States,2,50.65,35.54,101.3,30.22,Debit Card,Website
+ORD00388,2026-06-20,CUST0361,Headphones,Electronics,UAE,2,82.86,62.43,165.72,40.86,Debit Card,Website
+ORD00389,2026-05-08,CUST0002,Wireless Mouse,Electronics,India,2,32.94,23.93,65.88,18.02,UPI,Website
+ORD00390,2026-06-08,CUST0371,Cookware Set,Home & Kitchen,United States,2,56.41,30.86,112.82,51.1,Debit Card,Marketplace
+ORD00391,2025-02-21,CUST0090,Bookshelf,Furniture,India,2,157.62,94.45,315.24,126.34,Debit Card,Mobile App
+ORD00392,2025-02-16,CUST0071,Backpack,Accessories,United Kingdom,1,23.45,18.18,23.45,5.27,Debit Card,Mobile App
+ORD00393,2026-01-17,CUST0094,Coffee Maker,Home & Kitchen,United States,4,48.78,36.09,195.12,50.76,PayPal,Mobile App
+ORD00394,2026-03-08,CUST0409,Coffee Maker,Home & Kitchen,United Kingdom,1,57.0,44.19,57.0,12.81,UPI,Website
+ORD00395,2026-08-28,CUST0292,Wireless Mouse,Electronics,Singapore,5,31.42,17.32,157.1,70.5,Credit Card,Marketplace
+ORD00396,2025-05-14,CUST0250,Running Shoes,Sports,United States,3,80.85,62.96,242.55,53.67,PayPal,Mobile App
+ORD00397,2026-06-22,CUST0296,Wireless Mouse,Electronics,Canada,1,27.06,14.17,27.06,12.89,Debit Card,Marketplace
+ORD00398,2025-09-12,CUST0340,Phone Case,Accessories,UAE,2,15.51,10.08,31.02,10.86,Credit Card,Marketplace
+ORD00399,2026-04-26,CUST0085,Dumbbell Set,Sports,United States,1,61.82,35.06,61.82,26.76,PayPal,Mobile App
+ORD00400,2026-07-18,CUST0207,Bookshelf,Furniture,Canada,1,84.21,56.6,84.21,27.61,UPI,Mobile App
+ORD00401,2026-04-03,CUST0255,Coffee Maker,Home & Kitchen,India,3,61.37,47.68,184.11,41.07,UPI,Mobile App
+ORD00402,2026-09-11,CUST0156,Yoga Mat,Sports,Canada,1,27.37,21.01,27.37,6.36,PayPal,Mobile App
+ORD00403,2025-12-06,CUST0318,Water Bottle,Accessories,Singapore,3,21.52,16.64,64.56,14.64,Debit Card,Marketplace
+ORD00404,2025-12-16,CUST0325,Coffee Maker,Home & Kitchen,Australia,1,83.15,48.77,83.15,34.38,Net Banking,Marketplace
+ORD00405,2025-05-24,CUST0381,Water Bottle,Accessories,UAE,2,6.87,3.91,13.74,5.92,UPI,Mobile App
+ORD00406,2025-08-09,CUST0401,Dumbbell Set,Sports,Canada,1,27.85,21.6,27.85,6.25,Debit Card,Website
+ORD00407,2025-05-07,CUST0231,Yoga Mat,Sports,Singapore,1,29.73,21.45,29.73,8.28,Net Banking,Marketplace
+ORD00408,2026-07-21,CUST0300,Monitor,Electronics,Singapore,5,110.74,82.04,553.7,143.5,Net Banking,Website
+ORD00409,2026-09-07,CUST0165,Cookware Set,Home & Kitchen,UAE,1,129.68,71.46,129.68,58.22,PayPal,Marketplace
+ORD00410,2026-04-09,CUST0071,Bookshelf,Furniture,UAE,1,156.18,126.69,156.18,29.49,Net Banking,Marketplace
+ORD00411,2026-07-21,CUST0103,Phone Case,Accessories,Canada,1,16.93,13.18,16.93,3.75,Net Banking,Marketplace
+ORD00412,2025-07-02,CUST0356,Pen Set,Stationery,Germany,2,11.29,6.32,22.58,9.94,UPI,Mobile App
+ORD00413,2026-03-04,CUST0274,USB Drive,Electronics,Australia,2,20.12,14.49,40.24,11.26,PayPal,Website
+ORD00414,2025-02-27,CUST0385,Phone Case,Accessories,United Kingdom,1,11.47,6.15,11.47,5.32,Debit Card,Marketplace
+ORD00415,2025-07-28,CUST0017,Notebook Pack,Stationery,Germany,1,4.68,3.53,4.68,1.15,PayPal,Website
+ORD00416,2026-07-29,CUST0262,Dumbbell Set,Sports,Australia,3,68.07,53.06,204.21,45.03,UPI,Mobile App
+ORD00417,2026-07-20,CUST0381,Running Shoes,Sports,Australia,1,94.11,68.28,94.11,25.83,Credit Card,Marketplace
+ORD00418,2026-01-12,CUST0280,Coffee Maker,Home & Kitchen,Canada,3,93.8,68.6,281.4,75.6,Credit Card,Mobile App
+ORD00419,2025-06-27,CUST0062,Coffee Maker,Home & Kitchen,UAE,1,77.79,44.81,77.79,32.98,UPI,Mobile App
+ORD00420,2025-09-19,CUST0239,Notebook Pack,Stationery,United Kingdom,2,5.43,3.77,10.86,3.32,UPI,Website
+ORD00421,2025-11-05,CUST0294,Backpack,Accessories,Germany,2,54.36,38.47,108.72,31.78,UPI,Marketplace
+ORD00422,2026-06-02,CUST0279,Backpack,Accessories,UAE,2,62.98,42.59,125.96,40.78,UPI,Mobile App
+ORD00423,2025-10-28,CUST0317,Bookshelf,Furniture,Singapore,4,124.65,77.2,498.6,189.8,Net Banking,Marketplace
+ORD00424,2026-09-21,CUST0125,Laptop,Electronics,India,1,588.4,348.39,588.4,240.01,Debit Card,Mobile App
+ORD00425,2026-06-14,CUST0192,Headphones,Electronics,Singapore,1,76.32,46.16,76.32,30.16,PayPal,Website
+ORD00426,2025-04-09,CUST0276,Pen Set,Stationery,India,4,4.73,3.19,18.92,6.16,UPI,Website
+ORD00427,2026-07-05,CUST0380,Study Desk,Furniture,UAE,3,179.08,98.7,537.24,241.14,UPI,Marketplace
+ORD00428,2025-03-17,CUST0407,Monitor,Electronics,Australia,1,231.87,123.21,231.87,108.66,Net Banking,Website
+ORD00429,2026-04-07,CUST0222,Cookware Set,Home & Kitchen,Germany,3,140.21,90.06,420.63,150.45,UPI,Mobile App
+ORD00430,2026-08-23,CUST0038,Headphones,Electronics,Germany,2,85.94,60.63,171.88,50.62,Net Banking,Website
+ORD00431,2026-03-25,CUST0339,Pen Set,Stationery,India,3,5.71,3.12,17.13,7.77,PayPal,Website
+ORD00432,2026-07-13,CUST0074,USB Drive,Electronics,Australia,1,24.18,18.35,24.18,5.83,Debit Card,Website
+ORD00433,2026-08-10,CUST0276,USB Drive,Electronics,United States,3,10.25,5.46,30.75,14.37,Debit Card,Website
+ORD00434,2025-05-26,CUST0114,Water Bottle,Accessories,Australia,1,23.21,18.0,23.21,5.21,Credit Card,Website
+ORD00435,2026-07-17,CUST0282,Office Chair,Furniture,United States,2,157.26,84.34,314.52,145.84,Debit Card,Marketplace
+ORD00436,2025-12-05,CUST0344,Keyboard,Electronics,Canada,1,30.86,21.42,30.86,9.44,UPI,Mobile App
+ORD00437,2025-12-03,CUST0157,Dumbbell Set,Sports,United Kingdom,1,32.58,21.69,32.58,10.89,Net Banking,Marketplace
+ORD00438,2025-11-17,CUST0114,Water Bottle,Accessories,UAE,3,24.21,13.81,72.63,31.2,Debit Card,Mobile App
+ORD00439,2026-04-02,CUST0157,Monitor,Electronics,Singapore,2,166.37,110.47,332.74,111.8,Net Banking,Website
+ORD00440,2025-05-24,CUST0101,Office Chair,Furniture,Australia,2,86.89,52.5,173.78,68.78,UPI,Marketplace
+ORD00441,2026-08-19,CUST0394,Keyboard,Electronics,Canada,4,66.73,47.34,266.92,77.56,UPI,Marketplace
+ORD00442,2025-06-02,CUST0115,Notebook Pack,Stationery,Australia,2,14.99,9.92,29.98,10.14,Credit Card,Mobile App
+ORD00443,2025-09-02,CUST0315,Phone Case,Accessories,United Kingdom,2,11.75,7.88,23.5,7.74,Net Banking,Website
+ORD00444,2025-05-30,CUST0248,Coffee Maker,Home & Kitchen,Germany,1,69.65,48.04,69.65,21.61,UPI,Website
+ORD00445,2025-07-31,CUST0406,Desk Lamp,Home & Kitchen,Germany,1,19.25,11.36,19.25,7.89,PayPal,Mobile App
+ORD00446,2025-04-16,CUST0325,Coffee Maker,Home & Kitchen,Australia,4,32.79,23.43,131.16,37.44,Debit Card,Marketplace
+ORD00447,2026-08-25,CUST0040,USB Drive,Electronics,Australia,2,15.66,9.92,31.32,11.48,PayPal,Website
+ORD00448,2026-05-09,CUST0004,Phone Case,Accessories,United Kingdom,1,18.89,11.78,18.89,7.11,PayPal,Website
+ORD00449,2025-07-11,CUST0309,Bookshelf,Furniture,United States,1,122.57,71.51,122.57,51.06,Credit Card,Mobile App
+ORD00450,2025-08-04,CUST0332,Backpack,Accessories,UAE,2,40.63,26.96,81.26,27.34,UPI,Website
+ORD00451,2026-06-09,CUST0294,Wireless Mouse,Electronics,United Kingdom,1,25.62,14.36,25.62,11.26,UPI,Website
+ORD00452,2026-08-01,CUST0369,Notebook Pack,Stationery,Australia,4,9.68,6.21,38.72,13.88,UPI,Website
+ORD00453,2025-08-13,CUST0308,Coffee Maker,Home & Kitchen,United Kingdom,2,63.0,41.86,126.0,42.28,Net Banking,Website
+ORD00454,2025-12-17,CUST0306,Dumbbell Set,Sports,United States,2,37.19,27.42,74.38,19.54,Credit Card,Mobile App
+ORD00455,2026-06-01,CUST0077,Running Shoes,Sports,United States,1,36.24,24.53,36.24,11.71,Credit Card,Mobile App
+ORD00456,2025-05-01,CUST0338,Dumbbell Set,Sports,United Kingdom,2,77.05,52.35,154.1,49.4,Net Banking,Marketplace
+ORD00457,2026-06-19,CUST0023,Laptop,Electronics,UAE,4,759.95,543.19,3039.8,867.04,Credit Card,Mobile App
+ORD00458,2026-08-13,CUST0069,Running Shoes,Sports,Australia,1,95.35,75.55,95.35,19.8,PayPal,Website
+ORD00459,2025-07-13,CUST0381,Keyboard,Electronics,India,1,68.22,43.84,68.22,24.38,Net Banking,Marketplace
+ORD00460,2025-11-20,CUST0055,Headphones,Electronics,United Kingdom,2,60.63,35.26,121.26,50.74,PayPal,Marketplace
+ORD00461,2026-01-10,CUST0349,Cookware Set,Home & Kitchen,UAE,1,134.05,86.74,134.05,47.31,Credit Card,Mobile App
+ORD00462,2026-07-23,CUST0158,USB Drive,Electronics,Germany,3,18.1,11.42,54.3,20.04,PayPal,Marketplace
+ORD00463,2026-04-03,CUST0083,Monitor,Electronics,United States,3,222.08,165.3,666.24,170.34,Credit Card,Marketplace
+ORD00464,2025-02-23,CUST0326,Running Shoes,Sports,India,3,95.06,66.94,285.18,84.36,UPI,Website
+ORD00465,2025-08-16,CUST0312,Desk Lamp,Home & Kitchen,India,4,25.24,13.61,100.96,46.52,PayPal,Mobile App
+ORD00466,2025-02-28,CUST0090,Dumbbell Set,Sports,Singapore,2,38.62,31.25,77.24,14.74,PayPal,Website
+ORD00467,2025-07-19,CUST0307,Study Desk,Furniture,Canada,3,285.46,192.81,856.38,277.95,Net Banking,Website
+ORD00468,2025-03-30,CUST0205,Wireless Mouse,Electronics,Germany,1,27.07,22.0,27.07,5.07,PayPal,Mobile App
+ORD00469,2025-04-03,CUST0372,Cookware Set,Home & Kitchen,Germany,1,41.69,30.48,41.69,11.21,Debit Card,Mobile App
+ORD00470,2026-08-12,CUST0090,Bookshelf,Furniture,UAE,2,75.43,60.26,150.86,30.34,Net Banking,Website
+ORD00471,2026-06-10,CUST0276,USB Drive,Electronics,Australia,1,13.77,11.07,13.77,2.7,PayPal,Mobile App
+ORD00472,2026-04-15,CUST0301,Cookware Set,Home & Kitchen,India,2,66.76,41.52,133.52,50.48,PayPal,Website
+ORD00473,2025-08-24,CUST0212,Notebook Pack,Stationery,Germany,1,10.97,8.98,10.97,1.99,Net Banking,Marketplace
+ORD00474,2026-02-13,CUST0176,Laptop,Electronics,United States,2,555.34,336.64,1110.68,437.4,Net Banking,Website
+ORD00475,2025-07-07,CUST0098,Desk Lamp,Home & Kitchen,Singapore,1,17.65,12.22,17.65,5.43,Credit Card,Website
+ORD00476,2025-09-13,CUST0183,Bookshelf,Furniture,United Kingdom,3,76.71,44.56,230.13,96.45,UPI,Website
+ORD00477,2026-07-09,CUST0247,Keyboard,Electronics,Germany,2,56.49,39.78,112.98,33.42,Net Banking,Mobile App
+ORD00478,2025-10-09,CUST0392,Desk Lamp,Home & Kitchen,Australia,4,40.83,28.27,163.32,50.24,PayPal,Website
+ORD00479,2026-07-08,CUST0178,Cookware Set,Home & Kitchen,UAE,1,97.83,63.29,97.83,34.54,Credit Card,Mobile App
+ORD00480,2025-01-13,CUST0195,Headphones,Electronics,United States,2,68.71,49.94,137.42,37.54,Debit Card,Mobile App
+ORD00481,2025-10-03,CUST0176,Dumbbell Set,Sports,Germany,3,32.16,19.26,96.48,38.7,Credit Card,Mobile App
+ORD00482,2026-02-15,CUST0093,Yoga Mat,Sports,United Kingdom,1,31.62,19.97,31.62,11.65,Net Banking,Marketplace
+ORD00483,2026-07-23,CUST0196,Bookshelf,Furniture,Canada,3,130.69,99.48,392.07,93.63,Credit Card,Marketplace
+ORD00484,2025-05-18,CUST0323,Monitor,Electronics,Germany,2,111.66,72.18,223.32,78.96,PayPal,Mobile App
+ORD00485,2025-06-17,CUST0417,Notebook Pack,Stationery,Australia,2,10.25,6.56,20.5,7.38,PayPal,Marketplace
+ORD00486,2026-07-28,CUST0415,Headphones,Electronics,Australia,1,56.79,35.68,56.79,21.11,Debit Card,Website
+ORD00487,2025-07-23,CUST0333,Yoga Mat,Sports,United Kingdom,1,36.29,29.36,36.29,6.93,Debit Card,Mobile App
+ORD00488,2025-03-22,CUST0147,Backpack,Accessories,Singapore,2,40.91,30.31,81.82,21.2,Credit Card,Website
+ORD00489,2025-03-15,CUST0176,Backpack,Accessories,Canada,1,46.78,30.01,46.78,16.77,Debit Card,Mobile App
+ORD00490,2026-04-01,CUST0186,Pen Set,Stationery,Singapore,2,8.45,5.4,16.9,6.1,PayPal,Website
+ORD00491,2025-09-15,CUST0384,Office Chair,Furniture,United States,3,93.13,54.98,279.39,114.45,Credit Card,Website
+ORD00492,2026-07-16,CUST0395,Running Shoes,Sports,UAE,1,39.78,31.17,39.78,8.61,Net Banking,Website
+ORD00493,2026-02-04,CUST0127,Headphones,Electronics,Australia,1,39.75,28.48,39.75,11.27,PayPal,Marketplace
+ORD00494,2026-01-01,CUST0167,Monitor,Electronics,Singapore,1,252.55,133.49,252.55,119.06,PayPal,Marketplace
+ORD00495,2026-07-07,CUST0306,Notebook Pack,Stationery,Singapore,2,5.49,4.42,10.98,2.14,Net Banking,Mobile App
+ORD00496,2026-05-09,CUST0413,Phone Case,Accessories,United States,2,14.07,11.15,28.14,5.84,PayPal,Mobile App
+ORD00497,2026-06-20,CUST0070,Water Bottle,Accessories,Germany,1,8.96,4.69,8.96,4.27,Debit Card,Mobile App
+ORD00498,2026-05-04,CUST0393,USB Drive,Electronics,UAE,1,28.21,22.68,28.21,5.53,Debit Card,Marketplace
+ORD00499,2026-07-29,CUST0128,Bookshelf,Furniture,United Kingdom,3,112.56,64.9,337.68,142.98,PayPal,Mobile App
+ORD00500,2026-09-20,CUST0351,Bookshelf,Furniture,Australia,1,99.34,58.8,99.34,40.54,Debit Card,Marketplace
+ORD00501,2025-07-06,CUST0057,USB Drive,Electronics,Singapore,3,16.5,12.8,49.5,11.1,Net Banking,Mobile App
+ORD00502,2025-06-05,CUST0012,Notebook Pack,Stationery,United Kingdom,2,9.41,5.8,18.82,7.22,UPI,Mobile App
+ORD00503,2025-04-03,CUST0253,Notebook Pack,Stationery,Canada,1,8.82,4.61,8.82,4.21,Debit Card,Mobile App
+ORD00504,2025-02-02,CUST0385,Pen Set,Stationery,United Kingdom,3,7.49,4.73,22.47,8.28,UPI,Mobile App
+ORD00505,2025-09-14,CUST0007,Running Shoes,Sports,United States,1,70.26,40.59,70.26,29.67,Credit Card,Mobile App
+ORD00506,2025-04-07,CUST0107,Coffee Maker,Home & Kitchen,Singapore,1,99.62,57.76,99.62,41.86,PayPal,Marketplace
+ORD00507,2026-07-17,CUST0130,Pen Set,Stationery,Singapore,4,4.43,3.27,17.72,4.64,Debit Card,Website
+ORD00508,2025-04-26,CUST0223,Water Bottle,Accessories,Germany,4,22.41,13.12,89.64,37.16,UPI,Website
+ORD00509,2025-02-13,CUST0354,Notebook Pack,Stationery,Singapore,2,8.35,4.95,16.7,6.8,Net Banking,Website
+ORD00510,2026-09-26,CUST0389,Water Bottle,Accessories,India,3,10.73,7.19,32.19,10.62,UPI,Mobile App
+ORD00511,2025-08-27,CUST0404,Monitor,Electronics,Germany,2,244.55,136.4,489.1,216.3,PayPal,Marketplace
+ORD00512,2025-09-14,CUST0249,Study Desk,Furniture,Singapore,1,169.33,124.85,169.33,44.48,Net Banking,Mobile App
+ORD00513,2025-12-23,CUST0240,USB Drive,Electronics,Australia,2,11.36,6.54,22.72,9.64,Net Banking,Marketplace
+ORD00514,2025-09-27,CUST0233,Office Chair,Furniture,India,1,97.48,59.34,97.48,38.14,Net Banking,Mobile App
+ORD00515,2026-09-28,CUST0370,Office Chair,Furniture,United States,4,164.86,103.73,659.44,244.52,Net Banking,Mobile App
+ORD00516,2026-09-20,CUST0210,Study Desk,Furniture,Germany,2,194.49,133.31,388.98,122.36,UPI,Website
+ORD00517,2025-07-02,CUST0104,Phone Case,Accessories,United States,2,5.74,4.6,11.48,2.28,PayPal,Website
+ORD00518,2026-05-17,CUST0360,Headphones,Electronics,Australia,1,85.97,54.73,85.97,31.24,UPI,Mobile App
+ORD00519,2025-08-02,CUST0041,Bookshelf,Furniture,Singapore,2,62.44,49.89,124.88,25.1,UPI,Mobile App
+ORD00520,2025-03-01,CUST0137,USB Drive,Electronics,India,3,27.48,21.07,82.44,19.23,UPI,Mobile App
+ORD00521,2025-08-25,CUST0098,Keyboard,Electronics,Canada,4,72.83,39.99,291.32,131.36,Net Banking,Marketplace
+ORD00522,2026-07-26,CUST0055,Bookshelf,Furniture,Germany,2,154.49,106.22,308.98,96.54,PayPal,Marketplace
+ORD00523,2026-02-16,CUST0337,Yoga Mat,Sports,United Kingdom,4,16.67,9.57,66.68,28.4,Net Banking,Marketplace
+ORD00524,2025-11-29,CUST0212,Coffee Maker,Home & Kitchen,UAE,4,93.17,63.82,372.68,117.4,Debit Card,Marketplace
+ORD00525,2025-09-18,CUST0230,Bookshelf,Furniture,UAE,2,77.46,58.07,154.92,38.78,UPI,Marketplace
+ORD00526,2025-11-06,CUST0114,Wireless Mouse,Electronics,Canada,5,25.7,17.35,128.5,41.75,Debit Card,Website
+ORD00527,2026-08-09,CUST0020,Notebook Pack,Stationery,Singapore,4,9.62,6.65,38.48,11.88,Debit Card,Website
+ORD00528,2025-09-20,CUST0048,Monitor,Electronics,UAE,1,261.24,155.43,261.24,105.81,Net Banking,Website
+ORD00529,2026-08-14,CUST0049,Keyboard,Electronics,Australia,2,63.61,36.38,127.22,54.46,UPI,Marketplace
+ORD00530,2025-12-09,CUST0419,Cookware Set,Home & Kitchen,UAE,1,125.81,100.22,125.81,25.59,PayPal,Website
+ORD00531,2026-10-12,CUST0196,Bookshelf,Furniture,India,3,144.2,115.16,432.6,87.12,Debit Card,Marketplace
+ORD00532,2025-08-15,CUST0345,Wireless Mouse,Electronics,UAE,1,24.99,15.45,24.99,9.54,PayPal,Marketplace
+ORD00533,2026-02-08,CUST0173,Cookware Set,Home & Kitchen,United States,2,64.43,39.1,128.86,50.66,PayPal,Marketplace
+ORD00534,2026-03-21,CUST0067,Wireless Mouse,Electronics,United Kingdom,2,18.04,11.54,36.08,13.0,PayPal,Marketplace
+ORD00535,2026-09-23,CUST0127,Study Desk,Furniture,Canada,2,226.97,131.38,453.94,191.18,UPI,Mobile App
+ORD00536,2026-02-28,CUST0179,Yoga Mat,Sports,Canada,1,37.88,20.72,37.88,17.16,Debit Card,Mobile App
+ORD00537,2025-12-25,CUST0412,Dumbbell Set,Sports,Singapore,2,70.03,39.97,140.06,60.12,Net Banking,Website
+ORD00538,2026-01-18,CUST0373,Coffee Maker,Home & Kitchen,United States,1,87.27,50.61,87.27,36.66,UPI,Marketplace
+ORD00539,2025-10-22,CUST0356,Wireless Mouse,Electronics,United States,1,26.28,14.83,26.28,11.45,Debit Card,Mobile App
+ORD00540,2025-07-28,CUST0385,Desk Lamp,Home & Kitchen,Australia,1,17.32,11.8,17.32,5.52,Net Banking,Mobile App
+ORD00541,2025-01-19,CUST0340,Dumbbell Set,Sports,India,2,29.19,21.3,58.38,15.78,Debit Card,Website
+ORD00542,2025-02-24,CUST0005,Wireless Mouse,Electronics,United States,1,30.15,21.27,30.15,8.88,PayPal,Marketplace
+ORD00543,2025-04-21,CUST0333,Notebook Pack,Stationery,UAE,2,14.04,8.82,28.08,10.44,Credit Card,Mobile App
+ORD00544,2026-09-04,CUST0096,Phone Case,Accessories,Canada,5,6.69,4.11,33.45,12.9,Net Banking,Mobile App
+ORD00545,2026-06-27,CUST0251,USB Drive,Electronics,UAE,4,7.49,4.45,29.96,12.16,Credit Card,Website
+ORD00546,2026-05-29,CUST0032,Water Bottle,Accessories,Australia,2,12.75,7.79,25.5,9.92,PayPal,Website
+ORD00547,2026-02-07,CUST0045,USB Drive,Electronics,UAE,4,12.19,7.59,48.76,18.4,Net Banking,Marketplace
+ORD00548,2026-08-10,CUST0160,Dumbbell Set,Sports,Germany,3,64.62,41.69,193.86,68.79,PayPal,Marketplace
+ORD00549,2025-07-27,CUST0159,Monitor,Electronics,United Kingdom,1,133.56,91.14,133.56,42.42,PayPal,Website
+ORD00550,2025-05-02,CUST0075,Cookware Set,Home & Kitchen,India,4,74.92,51.49,299.68,93.72,Debit Card,Mobile App
+ORD00551,2025-10-08,CUST0097,Yoga Mat,Sports,United States,1,32.88,25.2,32.88,7.68,Credit Card,Website
+ORD00552,2026-08-04,CUST0306,Laptop,Electronics,Canada,3,694.79,416.91,2084.37,833.64,Credit Card,Marketplace
+ORD00553,2026-05-30,CUST0241,Laptop,Electronics,Germany,1,725.26,480.83,725.26,244.43,Credit Card,Mobile App
+ORD00554,2026-02-23,CUST0139,Desk Lamp,Home & Kitchen,UAE,2,15.73,9.25,31.46,12.96,Credit Card,Marketplace
+ORD00555,2026-03-26,CUST0251,Study Desk,Furniture,Germany,3,103.89,82.92,311.67,62.91,PayPal,Website
+ORD00556,2026-01-25,CUST0202,Yoga Mat,Sports,India,1,13.17,9.75,13.17,3.42,Net Banking,Website
+ORD00557,2025-09-09,CUST0203,Coffee Maker,Home & Kitchen,India,2,91.44,71.63,182.88,39.62,Net Banking,Mobile App
+ORD00558,2026-03-27,CUST0156,Phone Case,Accessories,Australia,3,21.36,12.32,64.08,27.12,PayPal,Website
+ORD00559,2025-05-26,CUST0331,Yoga Mat,Sports,Singapore,1,37.73,27.43,37.73,10.3,UPI,Marketplace
+ORD00560,2026-07-14,CUST0212,Phone Case,Accessories,Germany,1,18.24,14.62,18.24,3.62,PayPal,Website
+ORD00561,2026-04-11,CUST0166,Office Chair,Furniture,United Kingdom,2,205.01,161.7,410.02,86.62,UPI,Website
+ORD00562,2026-01-29,CUST0262,Headphones,Electronics,United Kingdom,2,85.24,46.51,170.48,77.46,PayPal,Marketplace
+ORD00563,2025-06-03,CUST0075,Running Shoes,Sports,United Kingdom,1,47.82,29.68,47.82,18.14,UPI,Mobile App
+ORD00564,2026-10-04,CUST0068,Pen Set,Stationery,Canada,1,9.92,6.49,9.92,3.43,UPI,Marketplace
+ORD00565,2025-01-06,CUST0253,Notebook Pack,Stationery,Canada,1,9.47,6.34,9.47,3.13,Credit Card,Marketplace
+ORD00566,2025-01-07,CUST0281,Desk Lamp,Home & Kitchen,Australia,2,25.47,17.84,50.94,15.26,Net Banking,Marketplace
+ORD00567,2025-02-26,CUST0019,USB Drive,Electronics,United Kingdom,3,11.78,6.78,35.34,15.0,UPI,Marketplace
+ORD00568,2025-02-20,CUST0092,Cookware Set,Home & Kitchen,United Kingdom,3,72.83,57.98,218.49,44.55,Debit Card,Marketplace
+ORD00569,2026-08-16,CUST0019,Dumbbell Set,Sports,United States,2,56.54,45.79,113.08,21.5,Debit Card,Mobile App
+ORD00570,2026-07-18,CUST0242,Water Bottle,Accessories,United Kingdom,4,21.59,16.14,86.36,21.8,UPI,Marketplace
+ORD00571,2025-08-03,CUST0056,Notebook Pack,Stationery,United States,1,8.55,4.98,8.55,3.57,PayPal,Marketplace
+ORD00572,2026-09-16,CUST0133,Dumbbell Set,Sports,Germany,4,84.11,50.98,336.44,132.52,Credit Card,Marketplace
+ORD00573,2025-07-04,CUST0120,Cookware Set,Home & Kitchen,Australia,2,120.21,80.46,240.42,79.5,Credit Card,Website
+ORD00574,2025-08-01,CUST0213,Headphones,Electronics,UAE,1,84.42,46.88,84.42,37.54,UPI,Mobile App
+ORD00575,2025-07-26,CUST0131,Water Bottle,Accessories,United States,2,18.11,9.48,36.22,17.26,Debit Card,Mobile App
+ORD00576,2025-12-08,CUST0371,Phone Case,Accessories,India,2,18.04,10.0,36.08,16.08,Credit Card,Website
+ORD00577,2026-05-01,CUST0331,Backpack,Accessories,United Kingdom,3,61.35,40.72,184.05,61.89,PayPal,Website
+ORD00578,2026-02-28,CUST0029,Coffee Maker,Home & Kitchen,Australia,4,67.59,41.94,270.36,102.6,Net Banking,Marketplace
+ORD00579,2025-12-06,CUST0408,Backpack,Accessories,Germany,2,18.88,13.09,37.76,11.58,UPI,Website
+ORD00580,2026-07-02,CUST0293,Notebook Pack,Stationery,UAE,3,7.73,4.89,23.19,8.52,Credit Card,Marketplace
+ORD00581,2025-11-19,CUST0140,Headphones,Electronics,UAE,3,96.4,70.52,289.2,77.64,UPI,Mobile App
+ORD00582,2026-06-22,CUST0058,Bookshelf,Furniture,Germany,1,142.09,86.79,142.09,55.3,UPI,Website
+ORD00583,2026-05-28,CUST0175,Keyboard,Electronics,Singapore,1,21.37,14.21,21.37,7.16,Net Banking,Mobile App
+ORD00584,2026-06-13,CUST0106,Backpack,Accessories,India,1,58.97,45.21,58.97,13.76,PayPal,Mobile App
+ORD00585,2026-09-01,CUST0171,Phone Case,Accessories,Singapore,1,10.29,5.49,10.29,4.8,UPI,Website
+ORD00586,2025-11-16,CUST0108,Phone Case,Accessories,Germany,3,17.67,9.31,53.01,25.08,Credit Card,Website
+ORD00587,2025-05-01,CUST0081,Pen Set,Stationery,Australia,1,5.87,3.83,5.87,2.04,UPI,Website
+ORD00588,2026-07-17,CUST0073,Dumbbell Set,Sports,Australia,2,26.65,18.2,53.3,16.9,Net Banking,Website
+ORD00589,2026-03-31,CUST0015,Office Chair,Furniture,Singapore,1,163.92,101.9,163.92,62.02,UPI,Website
+ORD00590,2026-09-03,CUST0323,Running Shoes,Sports,Singapore,1,66.98,38.43,66.98,28.55,Net Banking,Mobile App
+ORD00591,2026-07-01,CUST0387,Pen Set,Stationery,Singapore,1,4.78,3.57,4.78,1.21,Net Banking,Website
+ORD00592,2026-04-12,CUST0330,Keyboard,Electronics,Singapore,3,70.58,46.62,211.74,71.88,PayPal,Website
+ORD00593,2026-01-08,CUST0359,Bookshelf,Furniture,Germany,1,149.05,89.04,149.05,60.01,Debit Card,Mobile App
+ORD00594,2026-04-18,CUST0145,Desk Lamp,Home & Kitchen,Germany,1,26.64,16.66,26.64,9.98,Net Banking,Marketplace
+ORD00595,2025-04-20,CUST0333,Monitor,Electronics,United States,2,178.97,131.41,357.94,95.12,Debit Card,Marketplace
+ORD00596,2026-07-16,CUST0197,Coffee Maker,Home & Kitchen,United States,1,58.94,41.63,58.94,17.31,Debit Card,Website
+ORD00597,2025-12-17,CUST0121,Cookware Set,Home & Kitchen,United Kingdom,1,147.82,102.02,147.82,45.8,UPI,Marketplace
+ORD00598,2025-11-30,CUST0228,Cookware Set,Home & Kitchen,United Kingdom,3,52.58,36.74,157.74,47.52,Debit Card,Mobile App
+ORD00599,2026-01-24,CUST0331,Keyboard,Electronics,India,2,57.7,40.33,115.4,34.74,UPI,Website
+ORD00600,2025-01-01,CUST0339,Monitor,Electronics,United Kingdom,4,263.55,187.34,1054.2,304.84,PayPal,Marketplace
+ORD00601,2025-11-21,CUST0407,Pen Set,Stationery,Australia,1,8.2,4.75,8.2,3.45,PayPal,Marketplace
+ORD00602,2026-06-07,CUST0066,Water Bottle,Accessories,Australia,5,17.07,12.01,85.35,25.3,UPI,Mobile App
+ORD00603,2026-01-03,CUST0145,USB Drive,Electronics,India,5,7.02,4.83,35.1,10.95,Credit Card,Mobile App
+ORD00604,2026-01-26,CUST0109,Cookware Set,Home & Kitchen,United Kingdom,1,74.99,47.61,74.99,27.38,PayPal,Website
+ORD00605,2026-03-04,CUST0344,Study Desk,Furniture,United Kingdom,2,267.1,167.76,534.2,198.68,Credit Card,Website
+ORD00606,2026-03-24,CUST0071,Keyboard,Electronics,UAE,2,27.92,21.93,55.84,11.98,PayPal,Marketplace
+ORD00607,2026-03-11,CUST0231,Dumbbell Set,Sports,UAE,4,60.51,39.71,242.04,83.2,Debit Card,Website
+ORD00608,2025-08-31,CUST0138,Office Chair,Furniture,UAE,1,76.08,50.93,76.08,25.15,Net Banking,Marketplace
+ORD00609,2026-01-13,CUST0247,Water Bottle,Accessories,United States,1,6.72,4.47,6.72,2.25,Credit Card,Marketplace
+ORD00610,2026-04-22,CUST0268,Phone Case,Accessories,United States,5,21.72,16.37,108.6,26.75,Credit Card,Mobile App
+ORD00611,2026-09-20,CUST0176,Keyboard,Electronics,India,2,49.66,34.46,99.32,30.4,PayPal,Mobile App
+ORD00612,2025-12-28,CUST0149,Phone Case,Accessories,United Kingdom,4,14.76,9.14,59.04,22.48,UPI,Marketplace
+ORD00613,2025-03-04,CUST0297,Dumbbell Set,Sports,United Kingdom,3,67.25,46.34,201.75,62.73,Net Banking,Website
+ORD00614,2025-03-26,CUST0040,Pen Set,Stationery,Australia,3,8.62,5.22,25.86,10.2,Debit Card,Website
+ORD00615,2025-04-25,CUST0303,Dumbbell Set,Sports,United Kingdom,1,75.76,39.72,75.76,36.04,PayPal,Mobile App
+ORD00616,2026-06-25,CUST0176,Office Chair,Furniture,United States,1,176.61,117.53,176.61,59.08,Credit Card,Marketplace
+ORD00617,2026-01-28,CUST0226,Monitor,Electronics,United Kingdom,3,237.97,153.23,713.91,254.22,Credit Card,Marketplace
+ORD00618,2025-02-23,CUST0205,Water Bottle,Accessories,Singapore,1,11.02,8.44,11.02,2.58,Debit Card,Mobile App
+ORD00619,2025-09-26,CUST0223,USB Drive,Electronics,India,1,22.72,14.47,22.72,8.25,Debit Card,Mobile App
+ORD00620,2025-02-12,CUST0273,Running Shoes,Sports,Germany,2,107.13,77.65,214.26,58.96,PayPal,Marketplace
+ORD00621,2026-08-22,CUST0396,Notebook Pack,Stationery,Canada,1,6.94,3.81,6.94,3.13,Net Banking,Website
+ORD00622,2026-07-15,CUST0005,Phone Case,Accessories,United States,1,16.73,9.6,16.73,7.13,UPI,Mobile App
+ORD00623,2025-10-18,CUST0018,Headphones,Electronics,India,2,90.12,56.37,180.24,67.5,Net Banking,Website
+ORD00624,2026-09-06,CUST0363,Wireless Mouse,Electronics,United States,4,27.1,20.88,108.4,24.88,UPI,Marketplace
+ORD00625,2025-07-09,CUST0357,Monitor,Electronics,United Kingdom,1,239.86,171.35,239.86,68.51,Debit Card,Mobile App
+ORD00626,2025-10-11,CUST0355,Coffee Maker,Home & Kitchen,Germany,2,35.3,23.16,70.6,24.28,Debit Card,Website
+ORD00627,2025-03-03,CUST0136,Keyboard,Electronics,United Kingdom,1,23.43,14.92,23.43,8.51,PayPal,Website
+ORD00628,2026-05-19,CUST0277,Desk Lamp,Home & Kitchen,UAE,5,17.02,10.86,85.1,30.8,Credit Card,Marketplace
+ORD00629,2025-03-16,CUST0373,Headphones,Electronics,Australia,4,92.96,51.22,371.84,166.96,PayPal,Website
+ORD00630,2026-02-04,CUST0359,Desk Lamp,Home & Kitchen,Germany,1,32.41,25.92,32.41,6.49,PayPal,Marketplace
+ORD00631,2026-03-23,CUST0373,Laptop,Electronics,United States,2,825.96,551.08,1651.92,549.76,Net Banking,Website
+ORD00632,2025-05-05,CUST0184,Laptop,Electronics,Germany,1,725.7,547.14,725.7,178.56,Debit Card,Mobile App
+ORD00633,2026-07-02,CUST0042,Wireless Mouse,Electronics,Singapore,2,34.05,18.63,68.1,30.84,Debit Card,Marketplace
+ORD00634,2025-07-15,CUST0200,Study Desk,Furniture,United States,1,98.26,62.42,98.26,35.84,Debit Card,Mobile App
+ORD00635,2025-02-06,CUST0369,Keyboard,Electronics,Canada,4,44.09,25.43,176.36,74.64,PayPal,Mobile App
+ORD00636,2026-04-06,CUST0174,Keyboard,Electronics,India,3,55.39,37.11,166.17,54.84,Debit Card,Marketplace
+ORD00637,2026-06-20,CUST0275,Wireless Mouse,Electronics,United Kingdom,1,16.87,12.08,16.87,4.79,Net Banking,Website
+ORD00638,2026-04-28,CUST0317,Keyboard,Electronics,India,1,27.79,19.9,27.79,7.89,Credit Card,Marketplace
+ORD00639,2025-04-10,CUST0088,Monitor,Electronics,United States,1,217.55,172.17,217.55,45.38,UPI,Website
+ORD00640,2025-07-27,CUST0416,Desk Lamp,Home & Kitchen,UAE,2,31.55,17.0,63.1,29.1,Debit Card,Website
+ORD00641,2025-08-07,CUST0304,Cookware Set,Home & Kitchen,United Kingdom,2,75.37,61.01,150.74,28.72,Debit Card,Website
+ORD00642,2026-01-14,CUST0225,Headphones,Electronics,Canada,1,96.97,55.31,96.97,41.66,Net Banking,Website
+ORD00643,2025-06-11,CUST0250,Monitor,Electronics,United States,1,254.05,178.78,254.05,75.27,UPI,Website
+ORD00644,2025-10-18,CUST0414,Office Chair,Furniture,Singapore,4,177.48,123.9,709.92,214.32,Credit Card,Website
+ORD00645,2025-06-28,CUST0020,Monitor,Electronics,United Kingdom,2,198.92,128.03,397.84,141.78,PayPal,Marketplace
+ORD00646,2025-01-05,CUST0099,Keyboard,Electronics,United States,2,63.04,39.36,126.08,47.36,Net Banking,Website
+ORD00647,2025-08-13,CUST0321,Dumbbell Set,Sports,Canada,1,69.47,47.37,69.47,22.1,Debit Card,Website
+ORD00648,2026-05-01,CUST0082,Study Desk,Furniture,India,1,121.34,93.81,121.34,27.53,UPI,Marketplace
+ORD00649,2026-04-10,CUST0380,Water Bottle,Accessories,India,1,14.26,8.85,14.26,5.41,Net Banking,Website
+ORD00650,2025-08-29,CUST0304,Office Chair,Furniture,Germany,3,145.33,80.63,435.99,194.1,PayPal,Website
+ORD00651,2025-08-31,CUST0103,Backpack,Accessories,UAE,1,23.18,13.64,23.18,9.54,Credit Card,Website
+ORD00652,2025-08-10,CUST0233,Desk Lamp,Home & Kitchen,United Kingdom,2,11.9,7.74,23.8,8.32,PayPal,Mobile App
+ORD00653,2025-10-04,CUST0066,Monitor,Electronics,India,2,143.01,89.75,286.02,106.52,Net Banking,Website
+ORD00654,2025-06-25,CUST0113,Notebook Pack,Stationery,Australia,1,13.37,8.79,13.37,4.58,Net Banking,Website
+ORD00655,2025-08-24,CUST0268,Dumbbell Set,Sports,Singapore,4,57.58,39.49,230.32,72.36,Credit Card,Marketplace
+ORD00656,2025-09-10,CUST0223,Desk Lamp,Home & Kitchen,Canada,3,19.77,14.61,59.31,15.48,Net Banking,Website
+ORD00657,2026-04-27,CUST0259,Cookware Set,Home & Kitchen,India,4,85.95,45.83,343.8,160.48,PayPal,Marketplace
+ORD00658,2026-04-09,CUST0043,Running Shoes,Sports,India,2,94.85,72.69,189.7,44.32,PayPal,Website
+ORD00659,2025-01-17,CUST0157,Monitor,Electronics,United Kingdom,1,150.64,123.48,150.64,27.16,PayPal,Marketplace
+ORD00660,2026-02-20,CUST0190,Cookware Set,Home & Kitchen,Singapore,1,90.03,67.66,90.03,22.37,UPI,Marketplace
+ORD00661,2025-10-31,CUST0139,Keyboard,Electronics,Canada,1,57.99,39.39,57.99,18.6,UPI,Marketplace
+ORD00662,2026-01-08,CUST0057,Backpack,Accessories,UAE,3,20.58,16.54,61.74,12.12,Debit Card,Mobile App
+ORD00663,2025-03-10,CUST0397,Dumbbell Set,Sports,Canada,1,43.82,31.31,43.82,12.51,Credit Card,Mobile App
+ORD00664,2026-08-18,CUST0108,Bookshelf,Furniture,Canada,2,123.15,91.28,246.3,63.74,Debit Card,Mobile App
+ORD00665,2026-01-17,CUST0249,Notebook Pack,Stationery,United States,2,8.65,4.64,17.3,8.02,PayPal,Marketplace
+ORD00666,2026-09-28,CUST0345,USB Drive,Electronics,United States,2,19.26,11.7,38.52,15.12,Credit Card,Mobile App
+ORD00667,2025-03-20,CUST0142,Keyboard,Electronics,United States,1,69.39,42.09,69.39,27.3,Credit Card,Mobile App
+ORD00668,2025-10-28,CUST0278,Monitor,Electronics,United Kingdom,3,198.52,140.59,595.56,173.79,PayPal,Mobile App
+ORD00669,2025-03-06,CUST0411,Yoga Mat,Sports,Canada,1,30.05,18.25,30.05,11.8,Net Banking,Marketplace
+ORD00670,2025-12-01,CUST0341,Backpack,Accessories,Singapore,1,34.11,24.35,34.11,9.76,PayPal,Mobile App
+ORD00671,2025-09-24,CUST0191,Cookware Set,Home & Kitchen,Australia,1,126.83,72.49,126.83,54.34,UPI,Website
+ORD00672,2025-06-14,CUST0147,Water Bottle,Accessories,United Kingdom,1,24.17,17.05,24.17,7.12,Credit Card,Marketplace
+ORD00673,2026-08-12,CUST0134,Monitor,Electronics,Germany,1,129.88,106.26,129.88,23.62,Credit Card,Website
+ORD00674,2025-06-01,CUST0277,USB Drive,Electronics,United Kingdom,2,22.31,18.15,44.62,8.32,Net Banking,Mobile App
+ORD00675,2025-05-29,CUST0164,Headphones,Electronics,United Kingdom,4,63.43,42.49,253.72,83.76,UPI,Marketplace
+ORD00676,2026-05-01,CUST0387,USB Drive,Electronics,United Kingdom,5,14.62,10.7,73.1,19.6,Net Banking,Marketplace
+ORD00677,2025-02-11,CUST0283,Coffee Maker,Home & Kitchen,United States,1,37.86,25.13,37.86,12.73,Debit Card,Website
+ORD00678,2025-12-01,CUST0329,Running Shoes,Sports,Canada,2,51.53,32.32,103.06,38.42,Net Banking,Marketplace
+ORD00679,2025-03-27,CUST0229,Bookshelf,Furniture,United States,3,135.54,78.44,406.62,171.3,Net Banking,Mobile App
+ORD00680,2025-02-27,CUST0185,Study Desk,Furniture,UAE,2,216.67,145.92,433.34,141.5,Credit Card,Marketplace
+ORD00681,2025-12-26,CUST0288,Yoga Mat,Sports,United States,1,22.44,13.59,22.44,8.85,Credit Card,Marketplace
+ORD00682,2025-06-17,CUST0218,Coffee Maker,Home & Kitchen,UAE,3,59.09,38.57,177.27,61.56,Credit Card,Marketplace
+ORD00683,2026-06-22,CUST0303,Dumbbell Set,Sports,UAE,1,33.51,22.2,33.51,11.31,UPI,Website
+ORD00684,2026-04-19,CUST0387,Yoga Mat,Sports,United Kingdom,2,19.65,11.25,39.3,16.8,Credit Card,Website
+ORD00685,2025-11-06,CUST0156,Running Shoes,Sports,Singapore,1,71.79,55.05,71.79,16.74,Net Banking,Marketplace
+ORD00686,2025-11-04,CUST0326,Coffee Maker,Home & Kitchen,Singapore,1,85.39,48.35,85.39,37.04,UPI,Marketplace
+ORD00687,2025-09-08,CUST0392,Pen Set,Stationery,Australia,1,7.43,5.4,7.43,2.03,PayPal,Website
+ORD00688,2025-09-22,CUST0244,Dumbbell Set,Sports,United States,3,57.77,39.84,173.31,53.79,Debit Card,Marketplace
+ORD00689,2025-05-30,CUST0355,Cookware Set,Home & Kitchen,United Kingdom,1,68.55,47.61,68.55,20.94,Debit Card,Website
+ORD00690,2025-12-31,CUST0150,Wireless Mouse,Electronics,United States,1,21.65,17.18,21.65,4.47,Net Banking,Website
+ORD00691,2025-11-27,CUST0351,Office Chair,Furniture,Australia,3,161.82,92.26,485.46,208.68,Debit Card,Marketplace
+ORD00692,2025-01-14,CUST0145,Water Bottle,Accessories,Germany,1,17.02,13.05,17.02,3.97,PayPal,Mobile App
+ORD00693,2026-05-31,CUST0097,Backpack,Accessories,United States,4,25.66,15.02,102.64,42.56,PayPal,Mobile App
+ORD00694,2025-12-23,CUST0186,Keyboard,Electronics,United Kingdom,1,27.22,14.3,27.22,12.92,PayPal,Marketplace
+ORD00695,2025-01-30,CUST0061,Phone Case,Accessories,Canada,3,10.81,7.92,32.43,8.67,Credit Card,Marketplace
+ORD00696,2025-03-22,CUST0391,Monitor,Electronics,United States,2,162.26,94.59,324.52,135.34,UPI,Website
+ORD00697,2026-06-10,CUST0241,Desk Lamp,Home & Kitchen,United States,3,11.49,6.35,34.47,15.42,Debit Card,Website
+ORD00698,2025-05-07,CUST0106,Keyboard,Electronics,Canada,1,20.56,11.29,20.56,9.27,Credit Card,Marketplace
+ORD00699,2025-10-12,CUST0181,Water Bottle,Accessories,United Kingdom,1,8.77,6.52,8.77,2.25,Net Banking,Marketplace
+ORD00700,2026-08-16,CUST0271,Dumbbell Set,Sports,Canada,1,57.07,31.37,57.07,25.7,Credit Card,Mobile App
+ORD00701,2025-04-12,CUST0259,Office Chair,Furniture,Singapore,4,152.88,124.15,611.52,114.92,Debit Card,Marketplace
+ORD00702,2025-12-30,CUST0110,Cookware Set,Home & Kitchen,Canada,1,114.09,63.0,114.09,51.09,PayPal,Website
+ORD00703,2026-01-05,CUST0286,Backpack,Accessories,India,1,23.18,13.0,23.18,10.18,UPI,Mobile App
+ORD00704,2025-11-16,CUST0228,Desk Lamp,Home & Kitchen,Canada,1,19.93,13.95,19.93,5.98,Net Banking,Mobile App
+ORD00705,2026-05-03,CUST0092,Pen Set,Stationery,India,5,6.85,5.32,34.25,7.65,PayPal,Marketplace
+ORD00706,2025-05-03,CUST0206,Headphones,Electronics,United States,1,74.65,53.97,74.65,20.68,Credit Card,Website
+ORD00707,2026-02-18,CUST0218,Water Bottle,Accessories,Singapore,5,12.43,8.68,62.15,18.75,Debit Card,Marketplace
+ORD00708,2026-02-14,CUST0342,Cookware Set,Home & Kitchen,UAE,2,123.19,93.66,246.38,59.06,PayPal,Marketplace
+ORD00709,2026-05-17,CUST0322,Notebook Pack,Stationery,United Kingdom,1,9.0,5.01,9.0,3.99,UPI,Website
+ORD00710,2025-07-03,CUST0348,Wireless Mouse,Electronics,Germany,3,23.46,12.39,70.38,33.21,Credit Card,Mobile App
+ORD00711,2026-06-17,CUST0406,Dumbbell Set,Sports,Singapore,2,69.41,49.86,138.82,39.1,Credit Card,Mobile App
+ORD00712,2026-07-08,CUST0392,Desk Lamp,Home & Kitchen,India,2,19.16,11.94,38.32,14.44,PayPal,Website
+ORD00713,2025-02-06,CUST0286,Running Shoes,Sports,Australia,2,98.97,64.6,197.94,68.74,Credit Card,Mobile App
+ORD00714,2025-04-23,CUST0252,Yoga Mat,Sports,Singapore,1,32.04,21.35,32.04,10.69,PayPal,Marketplace
+ORD00715,2026-01-22,CUST0181,Office Chair,Furniture,Australia,2,131.75,88.06,263.5,87.38,Debit Card,Website
+ORD00716,2026-08-21,CUST0321,Laptop,Electronics,Germany,2,501.28,315.77,1002.56,371.02,PayPal,Website
+ORD00717,2025-09-08,CUST0332,Yoga Mat,Sports,Australia,1,22.01,13.76,22.01,8.25,Net Banking,Website
+ORD00718,2026-07-06,CUST0236,Keyboard,Electronics,UAE,3,26.3,15.02,78.9,33.84,Net Banking,Marketplace
+ORD00719,2025-11-21,CUST0200,Yoga Mat,Sports,Germany,1,31.49,21.93,31.49,9.56,Net Banking,Website
+ORD00720,2026-05-30,CUST0342,Desk Lamp,Home & Kitchen,Germany,1,33.63,20.88,33.63,12.75,Credit Card,Marketplace
+ORD00721,2025-03-19,CUST0275,Pen Set,Stationery,Canada,1,6.92,4.63,6.92,2.29,Debit Card,Mobile App
+ORD00722,2026-10-02,CUST0368,Wireless Mouse,Electronics,United States,1,25.19,19.18,25.19,6.01,Net Banking,Mobile App
+ORD00723,2025-08-03,CUST0040,Notebook Pack,Stationery,Australia,1,12.81,8.49,12.81,4.32,Net Banking,Mobile App
+ORD00724,2025-09-15,CUST0233,Yoga Mat,Sports,United Kingdom,2,20.77,13.38,41.54,14.78,UPI,Marketplace
+ORD00725,2026-04-24,CUST0327,Phone Case,Accessories,UAE,3,14.81,8.65,44.43,18.48,Net Banking,Marketplace
+ORD00726,2025-06-04,CUST0392,Wireless Mouse,Electronics,Australia,2,20.38,11.5,40.76,17.76,PayPal,Mobile App
+ORD00727,2026-02-27,CUST0147,Backpack,Accessories,United Kingdom,3,60.82,43.19,182.46,52.89,Debit Card,Marketplace
+ORD00728,2025-01-29,CUST0159,Dumbbell Set,Sports,Singapore,1,35.5,20.06,35.5,15.44,PayPal,Marketplace
+ORD00729,2025-10-07,CUST0133,Yoga Mat,Sports,Australia,1,37.36,21.69,37.36,15.67,Net Banking,Website
+ORD00730,2025-03-27,CUST0153,Wireless Mouse,Electronics,United States,5,23.17,12.19,115.85,54.9,PayPal,Mobile App
+ORD00731,2025-08-30,CUST0377,Keyboard,Electronics,United States,1,66.19,51.15,66.19,15.04,Net Banking,Marketplace
+ORD00732,2025-04-03,CUST0063,Cookware Set,Home & Kitchen,Germany,4,142.47,84.85,569.88,230.48,Debit Card,Marketplace
+ORD00733,2025-08-12,CUST0090,Running Shoes,Sports,Canada,3,90.8,72.7,272.4,54.3,Debit Card,Mobile App
+ORD00734,2026-01-19,CUST0163,Yoga Mat,Sports,UAE,1,28.51,19.02,28.51,9.49,PayPal,Marketplace
+ORD00735,2026-01-07,CUST0189,Bookshelf,Furniture,Australia,5,147.34,118.03,736.7,146.55,UPI,Marketplace
+ORD00736,2025-02-25,CUST0404,Dumbbell Set,Sports,Canada,1,68.06,51.7,68.06,16.36,Debit Card,Marketplace
+ORD00737,2025-05-05,CUST0122,Running Shoes,Sports,Singapore,1,106.89,67.22,106.89,39.67,PayPal,Website
+ORD00738,2025-08-30,CUST0083,Running Shoes,Sports,Singapore,4,103.84,63.37,415.36,161.88,Debit Card,Marketplace
+ORD00739,2026-05-19,CUST0212,Yoga Mat,Sports,Germany,3,19.67,10.7,59.01,26.91,PayPal,Website
+ORD00740,2026-09-09,CUST0281,Office Chair,Furniture,Germany,2,148.42,92.85,296.84,111.14,PayPal,Marketplace
+ORD00741,2026-03-31,CUST0070,Laptop,Electronics,India,3,706.55,406.35,2119.65,900.6,PayPal,Website
+ORD00742,2026-06-13,CUST0333,Pen Set,Stationery,United Kingdom,1,3.74,2.12,3.74,1.62,Net Banking,Marketplace
+ORD00743,2025-05-17,CUST0352,Yoga Mat,Sports,Germany,3,20.94,13.89,62.82,21.15,Debit Card,Website
+ORD00744,2026-08-08,CUST0012,Keyboard,Electronics,Canada,1,30.0,23.49,30.0,6.51,UPI,Mobile App
+ORD00745,2026-09-25,CUST0134,Study Desk,Furniture,United Kingdom,1,268.88,143.83,268.88,125.05,UPI,Mobile App
+ORD00746,2026-03-22,CUST0233,Office Chair,Furniture,Singapore,4,92.02,67.69,368.08,97.32,UPI,Website
+ORD00747,2025-10-22,CUST0196,Study Desk,Furniture,United Kingdom,1,271.01,204.51,271.01,66.5,PayPal,Website
+ORD00748,2025-07-13,CUST0210,Dumbbell Set,Sports,United Kingdom,1,73.57,54.3,73.57,19.27,UPI,Mobile App
+ORD00749,2026-08-20,CUST0235,Notebook Pack,Stationery,United States,1,8.96,5.33,8.96,3.63,UPI,Mobile App
+ORD00750,2025-08-06,CUST0363,Monitor,Electronics,UAE,3,275.65,176.21,826.95,298.32,Net Banking,Mobile App
+ORD00751,2025-08-29,CUST0182,Keyboard,Electronics,India,1,23.23,14.4,23.23,8.83,UPI,Mobile App
+ORD00752,2026-01-15,CUST0287,Phone Case,Accessories,India,2,10.14,6.47,20.28,7.34,Net Banking,Website
+ORD00753,2026-04-25,CUST0163,Notebook Pack,Stationery,UAE,1,9.42,5.86,9.42,3.56,Credit Card,Mobile App
+ORD00754,2025-10-15,CUST0221,Headphones,Electronics,Australia,1,117.96,79.01,117.96,38.95,Debit Card,Marketplace
+ORD00755,2026-05-19,CUST0285,Notebook Pack,Stationery,Singapore,2,8.79,5.01,17.58,7.56,UPI,Website
+ORD00756,2025-06-17,CUST0224,Monitor,Electronics,United States,1,141.13,93.3,141.13,47.83,PayPal,Website
+ORD00757,2026-05-20,CUST0369,Coffee Maker,Home & Kitchen,United Kingdom,1,79.63,53.0,79.63,26.63,UPI,Mobile App
+ORD00758,2026-06-05,CUST0289,Keyboard,Electronics,Canada,1,35.63,27.45,35.63,8.18,Net Banking,Website
+ORD00759,2025-09-10,CUST0347,Phone Case,Accessories,United States,3,8.07,6.42,24.21,4.95,Debit Card,Website
+ORD00760,2026-08-28,CUST0166,Pen Set,Stationery,United Kingdom,2,9.13,5.83,18.26,6.6,UPI,Website
+ORD00761,2025-10-03,CUST0003,Coffee Maker,Home & Kitchen,Germany,3,76.17,49.98,228.51,78.57,UPI,Marketplace
+ORD00762,2026-08-06,CUST0025,Dumbbell Set,Sports,Australia,4,41.12,30.41,164.48,42.84,Debit Card,Website
+ORD00763,2025-09-19,CUST0395,Keyboard,Electronics,UAE,2,53.13,29.1,106.26,48.06,UPI,Website
+ORD00764,2025-06-07,CUST0252,Study Desk,Furniture,UAE,1,253.69,153.6,253.69,100.09,Debit Card,Marketplace
+ORD00765,2026-06-09,CUST0229,Dumbbell Set,Sports,UAE,1,63.26,48.69,63.26,14.57,PayPal,Mobile App
+ORD00766,2026-01-13,CUST0223,Cookware Set,Home & Kitchen,UAE,2,49.92,32.29,99.84,35.26,UPI,Website
+ORD00767,2025-06-08,CUST0270,Phone Case,Accessories,United States,1,12.88,7.56,12.88,5.32,Debit Card,Mobile App
+ORD00768,2025-05-11,CUST0154,Yoga Mat,Sports,Canada,1,34.44,21.01,34.44,13.43,Net Banking,Mobile App
+ORD00769,2026-06-10,CUST0218,Pen Set,Stationery,UAE,2,7.96,6.33,15.92,3.26,UPI,Mobile App
+ORD00770,2026-05-31,CUST0380,Cookware Set,Home & Kitchen,Singapore,3,79.1,55.03,237.3,72.21,Credit Card,Website
+ORD00771,2025-11-18,CUST0233,Running Shoes,Sports,Singapore,1,66.22,48.43,66.22,17.79,Net Banking,Mobile App
+ORD00772,2025-07-09,CUST0310,Backpack,Accessories,Australia,5,58.95,33.96,294.75,124.95,UPI,Mobile App
+ORD00773,2026-05-04,CUST0208,USB Drive,Electronics,Singapore,1,16.08,8.43,16.08,7.65,Debit Card,Marketplace
+ORD00774,2026-02-09,CUST0045,Dumbbell Set,Sports,United Kingdom,1,63.8,46.39,63.8,17.41,Credit Card,Website
+ORD00775,2025-01-28,CUST0333,Study Desk,Furniture,United Kingdom,1,93.34,75.71,93.34,17.63,Credit Card,Mobile App
+ORD00776,2026-05-01,CUST0060,USB Drive,Electronics,United Kingdom,1,13.92,9.17,13.92,4.75,Credit Card,Marketplace
+ORD00777,2026-08-23,CUST0151,Coffee Maker,Home & Kitchen,UAE,5,63.0,49.01,315.0,69.95,UPI,Mobile App
+ORD00778,2026-03-02,CUST0378,Laptop,Electronics,Australia,1,789.05,512.52,789.05,276.53,UPI,Mobile App
+ORD00779,2026-05-15,CUST0032,Running Shoes,Sports,India,2,79.33,55.8,158.66,47.06,PayPal,Marketplace
+ORD00780,2026-04-30,CUST0319,Backpack,Accessories,Germany,2,30.59,21.86,61.18,17.46,PayPal,Marketplace
+ORD00781,2025-12-19,CUST0260,Yoga Mat,Sports,Canada,1,20.06,11.59,20.06,8.47,Net Banking,Marketplace
+ORD00782,2026-04-25,CUST0151,Backpack,Accessories,UAE,4,58.11,42.69,232.44,61.68,PayPal,Marketplace
+ORD00783,2026-09-29,CUST0354,Water Bottle,Accessories,United States,3,21.2,16.4,63.6,14.4,PayPal,Website
+ORD00784,2026-03-02,CUST0121,Office Chair,Furniture,Canada,1,162.83,89.6,162.83,73.23,Net Banking,Website
+ORD00785,2025-06-28,CUST0258,Laptop,Electronics,India,1,554.32,400.82,554.32,153.5,UPI,Mobile App
+ORD00786,2026-05-14,CUST0402,Yoga Mat,Sports,Germany,1,18.35,12.64,18.35,5.71,UPI,Marketplace
+ORD00787,2026-09-11,CUST0362,Notebook Pack,Stationery,India,4,13.39,10.47,53.56,11.68,PayPal,Mobile App
+ORD00788,2025-04-15,CUST0022,Headphones,Electronics,United States,5,99.26,69.77,496.3,147.45,Credit Card,Marketplace
+ORD00789,2025-10-27,CUST0391,Headphones,Electronics,Singapore,3,111.54,63.26,334.62,144.84,UPI,Website
+ORD00790,2026-03-26,CUST0394,Water Bottle,Accessories,India,1,8.62,6.68,8.62,1.94,Credit Card,Mobile App
+ORD00791,2026-03-01,CUST0341,Backpack,Accessories,Canada,1,26.05,15.62,26.05,10.43,Credit Card,Marketplace
+ORD00792,2026-02-24,CUST0265,Yoga Mat,Sports,Germany,3,15.86,10.29,47.58,16.71,UPI,Mobile App
+ORD00793,2025-03-13,CUST0162,Monitor,Electronics,UAE,3,232.0,156.65,696.0,226.05,Credit Card,Mobile App
+ORD00794,2025-06-04,CUST0030,Wireless Mouse,Electronics,Australia,1,12.85,10.24,12.85,2.61,PayPal,Mobile App
+ORD00795,2025-12-19,CUST0144,USB Drive,Electronics,United Kingdom,3,23.6,14.49,70.8,27.33,PayPal,Mobile App
+ORD00796,2026-03-29,CUST0416,Study Desk,Furniture,UAE,4,221.12,155.99,884.48,260.52,Credit Card,Mobile App
+ORD00797,2025-05-10,CUST0146,Keyboard,Electronics,Canada,1,38.4,28.32,38.4,10.08,UPI,Marketplace
+ORD00798,2025-01-24,CUST0408,USB Drive,Electronics,Australia,1,14.84,10.55,14.84,4.29,Credit Card,Mobile App
+ORD00799,2026-01-17,CUST0260,Yoga Mat,Sports,Germany,5,15.09,8.12,75.45,34.85,UPI,Website
+ORD00800,2025-12-14,CUST0382,Headphones,Electronics,Canada,1,79.38,41.4,79.38,37.98,Debit Card,Mobile App
+ORD00801,2025-05-24,CUST0267,Pen Set,Stationery,Canada,2,10.34,7.15,20.68,6.38,UPI,Mobile App
+ORD00802,2025-04-11,CUST0218,Phone Case,Accessories,UAE,2,18.99,11.93,37.98,14.12,UPI,Website
+ORD00803,2025-03-21,CUST0270,Wireless Mouse,Electronics,UAE,1,14.99,8.76,14.99,6.23,Net Banking,Marketplace
+ORD00804,2026-03-10,CUST0251,Phone Case,Accessories,UAE,3,19.82,13.78,59.46,18.12,Credit Card,Website
+ORD00805,2026-06-10,CUST0061,Phone Case,Accessories,Canada,1,17.09,9.55,17.09,7.54,PayPal,Mobile App
+ORD00806,2025-05-02,CUST0210,Wireless Mouse,Electronics,United States,3,33.71,21.26,101.13,37.35,UPI,Mobile App
+ORD00807,2025-11-09,CUST0151,Cookware Set,Home & Kitchen,Singapore,1,97.51,54.15,97.51,43.36,UPI,Website
+ORD00808,2025-11-09,CUST0111,Monitor,Electronics,United Kingdom,3,181.7,145.55,545.1,108.45,PayPal,Website
+ORD00809,2026-05-08,CUST0290,Headphones,Electronics,Singapore,2,31.42,16.76,62.84,29.32,Debit Card,Mobile App
+ORD00810,2025-05-22,CUST0236,Desk Lamp,Home & Kitchen,Singapore,3,39.18,21.93,117.54,51.75,PayPal,Website
+ORD00811,2026-02-01,CUST0203,Backpack,Accessories,Germany,1,47.36,33.49,47.36,13.87,Net Banking,Website
+ORD00812,2025-01-26,CUST0408,Coffee Maker,Home & Kitchen,Australia,3,75.21,58.65,225.63,49.68,Net Banking,Marketplace
+ORD00813,2026-07-09,CUST0028,Headphones,Electronics,Canada,2,33.09,26.69,66.18,12.8,PayPal,Marketplace
+ORD00814,2025-01-20,CUST0106,Laptop,Electronics,Canada,1,824.47,473.18,824.47,351.29,Net Banking,Mobile App
+ORD00815,2025-02-16,CUST0012,Keyboard,Electronics,Germany,3,53.38,34.19,160.14,57.57,PayPal,Website
+ORD00816,2025-04-04,CUST0278,Yoga Mat,Sports,United Kingdom,1,26.78,16.99,26.78,9.79,Debit Card,Website
+ORD00817,2026-02-22,CUST0031,Office Chair,Furniture,Germany,1,88.0,53.86,88.0,34.14,Credit Card,Website
+ORD00818,2025-11-28,CUST0062,Wireless Mouse,Electronics,India,1,14.27,8.03,14.27,6.24,Credit Card,Website
+ORD00819,2026-01-30,CUST0032,Dumbbell Set,Sports,Germany,2,52.04,38.81,104.08,26.46,PayPal,Marketplace
+ORD00820,2025-01-20,CUST0301,Yoga Mat,Sports,United States,1,12.81,9.1,12.81,3.71,Credit Card,Marketplace
+ORD00821,2026-05-28,CUST0073,Monitor,Electronics,Germany,1,179.15,97.67,179.15,81.48,Net Banking,Website
+ORD00822,2026-04-08,CUST0417,Bookshelf,Furniture,Singapore,2,99.49,78.94,198.98,41.1,Net Banking,Mobile App
+ORD00823,2026-09-05,CUST0349,Office Chair,Furniture,UAE,1,210.36,139.82,210.36,70.54,Debit Card,Marketplace
+ORD00824,2026-07-01,CUST0154,Study Desk,Furniture,United States,2,197.17,105.22,394.34,183.9,PayPal,Marketplace
+ORD00825,2026-03-19,CUST0259,Headphones,Electronics,Germany,3,93.88,76.95,281.64,50.79,Debit Card,Marketplace
+ORD00826,2025-11-26,CUST0236,Notebook Pack,Stationery,Germany,5,11.79,7.1,58.95,23.45,UPI,Marketplace
+ORD00827,2025-01-10,CUST0212,Monitor,Electronics,Singapore,2,110.35,73.16,220.7,74.38,PayPal,Marketplace
+ORD00828,2025-02-01,CUST0418,Keyboard,Electronics,Singapore,3,55.7,30.26,167.1,76.32,UPI,Mobile App
+ORD00829,2025-01-09,CUST0190,Running Shoes,Sports,Canada,3,61.85,35.45,185.55,79.2,PayPal,Website
+ORD00830,2026-01-02,CUST0418,Bookshelf,Furniture,Australia,3,134.63,97.49,403.89,111.42,Credit Card,Website
+ORD00831,2026-09-13,CUST0101,Desk Lamp,Home & Kitchen,UAE,5,11.29,7.54,56.45,18.75,UPI,Mobile App
+ORD00832,2026-08-03,CUST0309,Cookware Set,Home & Kitchen,United Kingdom,2,58.75,33.97,117.5,49.56,UPI,Marketplace
+ORD00833,2025-08-22,CUST0374,Monitor,Electronics,Australia,3,131.66,105.34,394.98,78.96,Credit Card,Marketplace
+ORD00834,2025-09-16,CUST0233,Laptop,Electronics,India,5,727.19,494.4,3635.95,1163.95,PayPal,Marketplace
+ORD00835,2026-02-21,CUST0349,Wireless Mouse,Electronics,Singapore,3,19.43,15.03,58.29,13.2,PayPal,Mobile App
+ORD00836,2025-10-12,CUST0273,Phone Case,Accessories,Singapore,3,20.02,11.76,60.06,24.78,Debit Card,Website
+ORD00837,2025-01-26,CUST0354,Running Shoes,Sports,UAE,1,41.14,28.45,41.14,12.69,UPI,Website
+ORD00838,2025-04-10,CUST0222,Study Desk,Furniture,India,1,155.27,109.9,155.27,45.37,Net Banking,Marketplace
+ORD00839,2025-12-15,CUST0171,Backpack,Accessories,Canada,3,29.62,19.61,88.86,30.03,UPI,Marketplace
+ORD00840,2025-05-08,CUST0018,Dumbbell Set,Sports,UAE,1,26.22,17.15,26.22,9.07,Debit Card,Marketplace
+ORD00841,2025-02-26,CUST0321,Keyboard,Electronics,UAE,3,23.41,17.81,70.23,16.8,UPI,Website
+ORD00842,2025-04-09,CUST0211,Wireless Mouse,Electronics,Canada,2,18.78,11.91,37.56,13.74,Net Banking,Marketplace
+ORD00843,2026-09-28,CUST0174,Dumbbell Set,Sports,India,1,44.95,34.1,44.95,10.85,PayPal,Marketplace
+ORD00844,2025-03-11,CUST0100,Backpack,Accessories,United Kingdom,2,23.08,12.09,46.16,21.98,Net Banking,Mobile App
+ORD00845,2025-09-06,CUST0023,Water Bottle,Accessories,India,1,19.77,12.92,19.77,6.85,Credit Card,Mobile App
+ORD00846,2025-11-15,CUST0278,Cookware Set,Home & Kitchen,United Kingdom,1,145.57,108.64,145.57,36.93,Credit Card,Mobile App
+ORD00847,2026-06-15,CUST0348,Pen Set,Stationery,United Kingdom,2,5.62,4.56,11.24,2.12,UPI,Website
+ORD00848,2025-12-19,CUST0328,Phone Case,Accessories,Canada,3,14.51,7.78,43.53,20.19,UPI,Mobile App
+ORD00849,2026-09-07,CUST0297,Study Desk,Furniture,Germany,2,235.9,192.16,471.8,87.48,Net Banking,Mobile App
+ORD00850,2025-02-13,CUST0002,Yoga Mat,Sports,Canada,1,14.94,11.7,14.94,3.24,Credit Card,Mobile App
+ORD00851,2025-12-06,CUST0193,Dumbbell Set,Sports,Canada,1,51.25,38.46,51.25,12.79,PayPal,Website
+ORD00852,2025-04-28,CUST0226,Laptop,Electronics,Canada,1,479.49,253.65,479.49,225.84,Net Banking,Mobile App
+ORD00853,2025-08-13,CUST0369,Wireless Mouse,Electronics,United Kingdom,5,16.58,10.03,82.9,32.75,Debit Card,Marketplace
+ORD00854,2025-04-14,CUST0347,Bookshelf,Furniture,United Kingdom,1,57.26,44.25,57.26,13.01,PayPal,Marketplace
+ORD00855,2026-01-14,CUST0339,Headphones,Electronics,United Kingdom,1,44.97,29.54,44.97,15.43,Net Banking,Marketplace
+ORD00856,2025-05-14,CUST0099,Yoga Mat,Sports,UAE,3,13.83,7.79,41.49,18.12,Debit Card,Mobile App
+ORD00857,2026-09-23,CUST0275,Dumbbell Set,Sports,Australia,1,61.35,48.85,61.35,12.5,Credit Card,Mobile App
+ORD00858,2026-06-05,CUST0251,Bookshelf,Furniture,Canada,1,138.54,108.32,138.54,30.22,UPI,Mobile App
+ORD00859,2026-06-06,CUST0266,Dumbbell Set,Sports,Singapore,1,53.06,39.55,53.06,13.51,Credit Card,Mobile App
+ORD00860,2026-05-01,CUST0206,Water Bottle,Accessories,India,2,15.18,12.25,30.36,5.86,Credit Card,Website
+ORD00861,2026-03-12,CUST0293,Study Desk,Furniture,United Kingdom,2,139.22,81.52,278.44,115.4,Debit Card,Mobile App
+ORD00862,2026-06-16,CUST0299,USB Drive,Electronics,India,1,24.29,14.78,24.29,9.51,PayPal,Marketplace
+ORD00863,2026-01-12,CUST0163,Dumbbell Set,Sports,Australia,1,49.32,32.05,49.32,17.27,PayPal,Website
+ORD00864,2025-03-26,CUST0257,Office Chair,Furniture,United States,1,113.52,61.61,113.52,51.91,Debit Card,Website
+ORD00865,2025-12-08,CUST0169,Headphones,Electronics,Australia,1,59.22,40.5,59.22,18.72,Debit Card,Marketplace
+ORD00866,2026-07-11,CUST0005,Notebook Pack,Stationery,Australia,1,10.64,5.97,10.64,4.67,Debit Card,Mobile App
+ORD00867,2025-01-13,CUST0263,Running Shoes,Sports,United Kingdom,4,96.64,72.22,386.56,97.68,PayPal,Website
+ORD00868,2026-08-25,CUST0388,Bookshelf,Furniture,Singapore,2,77.04,45.46,154.08,63.16,PayPal,Mobile App
+ORD00869,2026-03-04,CUST0231,Keyboard,Electronics,India,1,30.33,22.78,30.33,7.55,Debit Card,Website
+ORD00870,2026-05-27,CUST0182,Cookware Set,Home & Kitchen,Germany,3,73.61,54.57,220.83,57.12,Credit Card,Mobile App
+ORD00871,2026-07-05,CUST0301,Yoga Mat,Sports,India,2,23.29,17.55,46.58,11.48,Net Banking,Website
+ORD00872,2026-10-07,CUST0312,Monitor,Electronics,UAE,1,271.95,168.36,271.95,103.59,PayPal,Website
+ORD00873,2025-12-03,CUST0328,Running Shoes,Sports,Australia,1,63.98,42.38,63.98,21.6,UPI,Website
+ORD00874,2026-09-10,CUST0096,Headphones,Electronics,Canada,2,41.88,32.16,83.76,19.44,UPI,Mobile App
+ORD00875,2026-04-11,CUST0266,Pen Set,Stationery,India,1,5.62,3.81,5.62,1.81,Credit Card,Mobile App
+ORD00876,2026-03-05,CUST0036,Yoga Mat,Sports,UAE,1,39.71,22.19,39.71,17.52,Credit Card,Website
+ORD00877,2025-06-12,CUST0159,Study Desk,Furniture,Canada,1,261.76,188.32,261.76,73.44,Net Banking,Marketplace
+ORD00878,2025-03-07,CUST0310,Coffee Maker,Home & Kitchen,Canada,1,30.52,17.18,30.52,13.34,Net Banking,Mobile App
+ORD00879,2025-04-04,CUST0234,Cookware Set,Home & Kitchen,Germany,3,90.62,62.79,271.86,83.49,Debit Card,Mobile App
+ORD00880,2025-07-03,CUST0376,Dumbbell Set,Sports,UAE,3,75.24,48.49,225.72,80.25,PayPal,Mobile App
+ORD00881,2025-02-14,CUST0081,Office Chair,Furniture,Australia,2,88.85,64.82,177.7,48.06,Net Banking,Mobile App
+ORD00882,2026-05-21,CUST0284,Keyboard,Electronics,United States,2,59.73,34.95,119.46,49.56,Debit Card,Website
+ORD00883,2025-06-18,CUST0260,Headphones,Electronics,India,2,99.05,63.69,198.1,70.72,PayPal,Website
+ORD00884,2025-12-18,CUST0100,Keyboard,Electronics,UAE,2,57.16,37.64,114.32,39.04,UPI,Website
+ORD00885,2026-04-21,CUST0035,Notebook Pack,Stationery,United States,1,14.09,8.71,14.09,5.38,Net Banking,Marketplace
+ORD00886,2025-10-13,CUST0088,Bookshelf,Furniture,India,2,100.96,66.76,201.92,68.4,Net Banking,Website
+ORD00887,2025-03-21,CUST0006,Office Chair,Furniture,Australia,1,152.52,97.19,152.52,55.33,Credit Card,Mobile App
+ORD00888,2026-06-30,CUST0357,Water Bottle,Accessories,India,1,19.57,15.42,19.57,4.15,Net Banking,Marketplace
+ORD00889,2025-01-05,CUST0194,Headphones,Electronics,Canada,1,54.29,29.08,54.29,25.21,Credit Card,Mobile App
+ORD00890,2025-01-15,CUST0099,Bookshelf,Furniture,United States,1,56.68,29.95,56.68,26.73,Credit Card,Website
+ORD00891,2025-12-01,CUST0321,Office Chair,Furniture,Canada,2,81.38,54.83,162.76,53.1,Net Banking,Website
+ORD00892,2025-04-19,CUST0089,USB Drive,Electronics,India,1,16.84,9.93,16.84,6.91,PayPal,Marketplace
+ORD00893,2025-10-13,CUST0189,Backpack,Accessories,India,1,28.0,16.41,28.0,11.59,UPI,Website
+ORD00894,2025-04-15,CUST0406,Yoga Mat,Sports,United Kingdom,1,28.77,23.45,28.77,5.32,Debit Card,Website
+ORD00895,2025-05-17,CUST0326,Dumbbell Set,Sports,Germany,1,61.01,38.84,61.01,22.17,PayPal,Website
+ORD00896,2026-06-08,CUST0120,Backpack,Accessories,India,1,60.87,39.85,60.87,21.02,Credit Card,Website
+ORD00897,2026-03-15,CUST0318,Dumbbell Set,Sports,United States,3,28.06,16.58,84.18,34.44,UPI,Website
+ORD00898,2025-02-08,CUST0372,Water Bottle,Accessories,Singapore,2,9.84,6.23,19.68,7.22,Debit Card,Website
+ORD00899,2026-03-01,CUST0148,Notebook Pack,Stationery,India,1,12.66,6.73,12.66,5.93,Credit Card,Marketplace
+ORD00900,2025-09-12,CUST0357,Backpack,Accessories,Canada,1,27.67,14.84,27.67,12.83,Net Banking,Mobile App
+ORD00901,2026-05-19,CUST0027,Phone Case,Accessories,United Kingdom,1,12.52,6.53,12.52,5.99,Credit Card,Website
+ORD00902,2025-07-29,CUST0041,Keyboard,Electronics,UAE,1,50.19,38.07,50.19,12.12,PayPal,Mobile App
+ORD00903,2025-09-12,CUST0296,Office Chair,Furniture,Singapore,2,110.51,63.31,221.02,94.4,Credit Card,Mobile App
+ORD00904,2025-06-21,CUST0217,Desk Lamp,Home & Kitchen,UAE,1,44.04,28.16,44.04,15.88,Credit Card,Mobile App
+ORD00905,2025-11-04,CUST0079,Laptop,Electronics,United Kingdom,3,620.96,338.4,1862.88,847.68,Debit Card,Mobile App
+ORD00906,2026-05-08,CUST0070,Coffee Maker,Home & Kitchen,Singapore,1,49.83,34.32,49.83,15.51,Credit Card,Website
+ORD00907,2026-01-19,CUST0213,Study Desk,Furniture,UAE,1,270.95,200.26,270.95,70.69,Debit Card,Mobile App
+ORD00908,2025-02-09,CUST0198,Desk Lamp,Home & Kitchen,United Kingdom,1,44.56,24.12,44.56,20.44,Credit Card,Mobile App
+ORD00909,2026-05-16,CUST0189,Notebook Pack,Stationery,India,3,12.27,7.66,36.81,13.83,PayPal,Mobile App
+ORD00910,2026-10-09,CUST0015,Bookshelf,Furniture,United Kingdom,1,58.62,44.78,58.62,13.84,Debit Card,Marketplace
+ORD00911,2026-08-16,CUST0083,Coffee Maker,Home & Kitchen,India,4,40.32,23.96,161.28,65.44,UPI,Website
+ORD00912,2026-06-15,CUST0217,Running Shoes,Sports,United Kingdom,1,78.96,62.4,78.96,16.56,PayPal,Mobile App
+ORD00913,2026-08-24,CUST0211,Pen Set,Stationery,United States,2,7.8,6.13,15.6,3.34,UPI,Marketplace
+ORD00914,2025-08-03,CUST0204,Cookware Set,Home & Kitchen,Australia,3,77.88,43.83,233.64,102.15,UPI,Website
+ORD00915,2026-06-22,CUST0148,Desk Lamp,Home & Kitchen,UAE,1,12.44,9.07,12.44,3.37,Credit Card,Website
+ORD00916,2026-05-30,CUST0291,Water Bottle,Accessories,Canada,1,8.55,5.69,8.55,2.86,Credit Card,Website
+ORD00917,2026-02-23,CUST0320,Wireless Mouse,Electronics,United States,3,30.61,17.68,91.83,38.79,Credit Card,Website
+ORD00918,2025-01-31,CUST0245,Pen Set,Stationery,Singapore,1,4.12,2.22,4.12,1.9,UPI,Website
+ORD00919,2025-02-12,CUST0268,Wireless Mouse,Electronics,India,1,33.97,24.44,33.97,9.53,PayPal,Marketplace
+ORD00920,2026-04-30,CUST0310,Phone Case,Accessories,UAE,5,17.94,14.35,89.7,17.95,Debit Card,Mobile App
+ORD00921,2026-02-13,CUST0030,Backpack,Accessories,Germany,5,56.39,45.24,281.95,55.75,Debit Card,Website
+ORD00922,2025-05-23,CUST0063,Laptop,Electronics,Australia,2,729.32,537.92,1458.64,382.8,Credit Card,Mobile App
+ORD00923,2026-02-28,CUST0002,Coffee Maker,Home & Kitchen,Germany,2,76.12,50.43,152.24,51.38,UPI,Marketplace
+ORD00924,2026-03-31,CUST0249,Water Bottle,Accessories,UAE,3,24.42,18.09,73.26,18.99,Net Banking,Website
+ORD00925,2025-04-13,CUST0151,Water Bottle,Accessories,Canada,1,23.7,18.94,23.7,4.76,Credit Card,Marketplace
+ORD00926,2026-05-25,CUST0155,Cookware Set,Home & Kitchen,Singapore,3,118.83,62.92,356.49,167.73,Credit Card,Mobile App
+ORD00927,2025-06-24,CUST0359,Headphones,Electronics,United States,2,76.36,45.28,152.72,62.16,UPI,Mobile App
+ORD00928,2025-10-15,CUST0132,Laptop,Electronics,Singapore,1,821.59,649.71,821.59,171.88,UPI,Marketplace
+ORD00929,2025-12-07,CUST0295,Monitor,Electronics,United States,4,217.7,145.33,870.8,289.48,Debit Card,Mobile App
+ORD00930,2026-03-24,CUST0115,Running Shoes,Sports,Australia,2,93.88,76.03,187.76,35.7,UPI,Mobile App
+ORD00931,2025-07-12,CUST0294,Keyboard,Electronics,Germany,1,38.71,27.01,38.71,11.7,Credit Card,Mobile App
+ORD00932,2026-07-03,CUST0199,Running Shoes,Sports,UAE,2,35.13,18.92,70.26,32.42,Debit Card,Mobile App
+ORD00933,2026-02-09,CUST0236,Monitor,Electronics,Germany,2,212.27,124.53,424.54,175.48,Credit Card,Mobile App
+ORD00934,2025-05-30,CUST0411,Bookshelf,Furniture,India,2,102.86,72.05,205.72,61.62,Net Banking,Mobile App
+ORD00935,2026-08-11,CUST0111,Pen Set,Stationery,Singapore,2,9.2,5.54,18.4,7.32,Debit Card,Marketplace
+ORD00936,2025-08-04,CUST0415,Running Shoes,Sports,Canada,1,95.77,54.19,95.77,41.58,UPI,Website
+ORD00937,2025-06-13,CUST0201,Desk Lamp,Home & Kitchen,Germany,2,20.47,15.65,40.94,9.64,PayPal,Marketplace
+ORD00938,2026-06-25,CUST0145,Desk Lamp,Home & Kitchen,Canada,5,36.52,23.27,182.6,66.25,Net Banking,Mobile App
+ORD00939,2025-02-25,CUST0364,Headphones,Electronics,Australia,1,96.47,66.96,96.47,29.51,PayPal,Marketplace
+ORD00940,2025-05-29,CUST0412,Office Chair,Furniture,Canada,2,139.07,92.44,278.14,93.26,UPI,Mobile App
+ORD00941,2026-01-21,CUST0087,Cookware Set,Home & Kitchen,India,1,126.4,98.28,126.4,28.12,UPI,Mobile App
+ORD00942,2025-12-13,CUST0077,Desk Lamp,Home & Kitchen,UAE,1,11.84,9.64,11.84,2.2,Credit Card,Website
+ORD00943,2025-06-26,CUST0193,Headphones,Electronics,United States,1,71.42,51.88,71.42,19.54,PayPal,Marketplace
+ORD00944,2025-05-03,CUST0063,Running Shoes,Sports,Singapore,1,83.99,52.93,83.99,31.06,Net Banking,Website
+ORD00945,2025-04-07,CUST0093,Laptop,Electronics,UAE,2,844.94,560.91,1689.88,568.06,PayPal,Marketplace
+ORD00946,2026-07-05,CUST0417,Yoga Mat,Sports,India,1,15.51,9.58,15.51,5.93,PayPal,Marketplace
+ORD00947,2026-08-22,CUST0420,USB Drive,Electronics,United States,3,19.19,10.35,57.57,26.52,Credit Card,Marketplace
+ORD00948,2026-07-23,CUST0161,Headphones,Electronics,United States,1,81.91,47.01,81.91,34.9,UPI,Website
+ORD00949,2025-02-05,CUST0260,Cookware Set,Home & Kitchen,Australia,1,57.73,39.76,57.73,17.97,Debit Card,Marketplace
+ORD00950,2025-11-04,CUST0401,Office Chair,Furniture,Australia,1,212.06,110.28,212.06,101.78,Net Banking,Mobile App
+ORD00951,2025-12-27,CUST0262,Monitor,Electronics,Canada,2,228.17,154.43,456.34,147.48,UPI,Marketplace
+ORD00952,2025-08-09,CUST0283,Wireless Mouse,Electronics,Canada,1,16.33,9.96,16.33,6.37,Net Banking,Mobile App
+ORD00953,2025-09-19,CUST0333,Notebook Pack,Stationery,United Kingdom,1,10.85,5.88,10.85,4.97,PayPal,Mobile App
+ORD00954,2025-05-27,CUST0037,Keyboard,Electronics,Australia,4,57.21,45.89,228.84,45.28,Credit Card,Marketplace
+ORD00955,2025-06-17,CUST0079,Water Bottle,Accessories,Germany,2,18.31,12.33,36.62,11.96,PayPal,Mobile App
+ORD00956,2026-06-29,CUST0281,Laptop,Electronics,UAE,5,549.0,329.97,2745.0,1095.15,UPI,Mobile App
+ORD00957,2025-08-20,CUST0051,Keyboard,Electronics,UAE,1,38.34,23.08,38.34,15.26,Credit Card,Mobile App
+ORD00958,2025-11-10,CUST0414,Headphones,Electronics,Singapore,3,36.73,24.9,110.19,35.49,UPI,Marketplace
+ORD00959,2026-09-15,CUST0025,Water Bottle,Accessories,United Kingdom,2,22.44,15.38,44.88,14.12,Debit Card,Mobile App
+ORD00960,2026-06-29,CUST0207,Office Chair,Furniture,Singapore,1,182.49,147.89,182.49,34.6,Net Banking,Website
+ORD00961,2025-05-10,CUST0291,Notebook Pack,Stationery,Australia,1,9.65,5.47,9.65,4.18,UPI,Marketplace
+ORD00962,2026-04-14,CUST0182,Water Bottle,Accessories,Singapore,2,10.73,7.54,21.46,6.38,Net Banking,Mobile App
+ORD00963,2025-08-23,CUST0045,Notebook Pack,Stationery,Australia,4,9.73,7.16,38.92,10.28,PayPal,Mobile App
+ORD00964,2025-04-06,CUST0030,Keyboard,Electronics,United States,2,24.22,14.34,48.44,19.76,Debit Card,Marketplace
+ORD00965,2026-06-05,CUST0070,Desk Lamp,Home & Kitchen,Singapore,3,10.37,8.34,31.11,6.09,PayPal,Marketplace
+ORD00966,2025-01-08,CUST0360,USB Drive,Electronics,Germany,2,16.33,11.51,32.66,9.64,Credit Card,Marketplace
+ORD00967,2025-06-22,CUST0392,Phone Case,Accessories,Canada,2,5.72,3.74,11.44,3.96,Credit Card,Website
+ORD00968,2026-03-09,CUST0088,Water Bottle,Accessories,Germany,3,15.76,12.7,47.28,9.18,UPI,Mobile App
+ORD00969,2025-10-25,CUST0151,Bookshelf,Furniture,Australia,3,144.33,112.19,432.99,96.42,Credit Card,Website
+ORD00970,2026-06-12,CUST0019,Cookware Set,Home & Kitchen,Singapore,1,141.54,113.05,141.54,28.49,Net Banking,Mobile App
+ORD00971,2025-12-29,CUST0180,Wireless Mouse,Electronics,United Kingdom,1,26.16,16.18,26.16,9.98,PayPal,Mobile App
+ORD00972,2026-06-11,CUST0211,Laptop,Electronics,United States,1,646.82,352.79,646.82,294.03,PayPal,Website
+ORD00973,2026-01-19,CUST0220,Monitor,Electronics,United Kingdom,3,152.52,100.85,457.56,155.01,Net Banking,Mobile App
+ORD00974,2025-05-24,CUST0223,Headphones,Electronics,India,5,87.35,56.94,436.75,152.05,Debit Card,Marketplace
+ORD00975,2026-03-08,CUST0017,Study Desk,Furniture,United Kingdom,1,149.83,83.92,149.83,65.91,Credit Card,Mobile App
+ORD00976,2025-05-11,CUST0392,Notebook Pack,Stationery,UAE,1,9.38,6.27,9.38,3.11,Net Banking,Marketplace
+ORD00977,2025-05-10,CUST0257,Running Shoes,Sports,India,1,106.83,80.96,106.83,25.87,Credit Card,Website
+ORD00978,2026-05-07,CUST0249,Backpack,Accessories,United States,1,46.06,24.06,46.06,22.0,PayPal,Website
+ORD00979,2025-04-28,CUST0359,Dumbbell Set,Sports,Canada,1,53.23,31.66,53.23,21.57,PayPal,Website
+ORD00980,2026-05-30,CUST0097,Desk Lamp,Home & Kitchen,United Kingdom,2,38.35,28.01,76.7,20.68,Credit Card,Website
+ORD00981,2025-05-30,CUST0316,Monitor,Electronics,Canada,1,156.56,90.44,156.56,66.12,UPI,Website
+ORD00982,2025-08-25,CUST0219,Running Shoes,Sports,Singapore,1,57.98,41.17,57.98,16.81,UPI,Marketplace
+ORD00983,2025-10-15,CUST0215,Yoga Mat,Sports,Canada,2,20.52,12.33,41.04,16.38,Debit Card,Website
+ORD00984,2025-08-06,CUST0144,Office Chair,Furniture,United States,1,82.56,61.38,82.56,21.18,PayPal,Website
+ORD00985,2025-04-10,CUST0350,Notebook Pack,Stationery,United Kingdom,4,8.0,4.89,32.0,12.44,Debit Card,Mobile App
+ORD00986,2025-09-01,CUST0108,Water Bottle,Accessories,UAE,3,17.19,12.06,51.57,15.39,UPI,Website
+ORD00987,2025-07-15,CUST0229,Monitor,Electronics,United States,2,212.31,113.02,424.62,198.58,UPI,Marketplace
+ORD00988,2025-07-26,CUST0079,Dumbbell Set,Sports,India,1,67.15,54.85,67.15,12.3,Credit Card,Website
+ORD00989,2026-07-28,CUST0188,Yoga Mat,Sports,Singapore,2,19.07,14.93,38.14,8.28,UPI,Mobile App
+ORD00990,2025-01-23,CUST0141,Keyboard,Electronics,United Kingdom,2,48.81,39.33,97.62,18.96,Debit Card,Website
+ORD00991,2026-02-12,CUST0273,Cookware Set,Home & Kitchen,United States,1,146.97,84.81,146.97,62.16,Credit Card,Mobile App
+ORD00992,2025-10-06,CUST0002,Phone Case,Accessories,United Kingdom,1,18.25,11.68,18.25,6.57,Net Banking,Website
+ORD00993,2026-04-12,CUST0369,Cookware Set,Home & Kitchen,Australia,2,136.71,103.52,273.42,66.38,Debit Card,Website
+ORD00994,2025-02-16,CUST0150,Pen Set,Stationery,India,2,7.97,4.55,15.94,6.84,Credit Card,Mobile App
+ORD00995,2025-09-12,CUST0274,Monitor,Electronics,United States,1,244.41,174.2,244.41,70.21,UPI,Marketplace
+ORD00996,2026-07-17,CUST0069,Water Bottle,Accessories,UAE,2,24.47,15.11,48.94,18.72,Net Banking,Mobile App
+ORD00997,2025-12-31,CUST0144,Backpack,Accessories,United Kingdom,5,47.42,24.81,237.1,113.05,Debit Card,Website
+ORD00998,2026-08-21,CUST0382,USB Drive,Electronics,UAE,2,26.96,21.61,53.92,10.7,Debit Card,Marketplace
+ORD00999,2025-10-03,CUST0323,Dumbbell Set,Sports,UAE,2,73.1,42.85,146.2,60.5,Credit Card,Mobile App
+ORD01000,2026-05-06,CUST0093,Bookshelf,Furniture,Singapore,2,100.56,56.77,201.12,87.58,Credit Card,Website
+ORD01001,2025-10-16,CUST0084,Study Desk,Furniture,United Kingdom,2,288.1,165.4,576.2,245.4,PayPal,Marketplace
+ORD01002,2026-04-11,CUST0207,Dumbbell Set,Sports,United States,1,29.33,19.0,29.33,10.33,Net Banking,Website
+ORD01003,2025-01-14,CUST0330,Laptop,Electronics,India,2,601.15,316.33,1202.3,569.64,Credit Card,Website
+ORD01004,2025-01-10,CUST0278,Keyboard,Electronics,Germany,1,71.62,50.13,71.62,21.49,UPI,Website
+ORD01005,2025-06-17,CUST0246,Monitor,Electronics,United Kingdom,2,205.68,134.37,411.36,142.62,Credit Card,Website
+ORD01006,2025-02-15,CUST0152,USB Drive,Electronics,United States,2,21.43,11.93,42.86,19.0,Net Banking,Mobile App
+ORD01007,2026-01-30,CUST0336,Monitor,Electronics,Australia,1,148.13,87.1,148.13,61.03,Credit Card,Marketplace
+ORD01008,2026-05-19,CUST0115,Running Shoes,Sports,United States,2,88.61,70.04,177.22,37.14,Debit Card,Mobile App
+ORD01009,2025-03-28,CUST0310,Keyboard,Electronics,United Kingdom,2,26.51,21.13,53.02,10.76,Credit Card,Mobile App
+ORD01010,2025-11-05,CUST0147,Phone Case,Accessories,Germany,1,8.08,5.23,8.08,2.85,UPI,Mobile App
+ORD01011,2025-03-20,CUST0077,Desk Lamp,Home & Kitchen,United Kingdom,2,42.65,32.55,85.3,20.2,Debit Card,Website
+ORD01012,2025-03-10,CUST0219,Running Shoes,Sports,Australia,1,94.76,77.03,94.76,17.73,Credit Card,Website
+ORD01013,2025-11-23,CUST0247,Backpack,Accessories,UAE,5,26.55,16.87,132.75,48.4,Net Banking,Marketplace
+ORD01014,2026-01-28,CUST0255,Backpack,Accessories,Singapore,1,62.37,49.68,62.37,12.69,Net Banking,Marketplace
+ORD01015,2026-08-15,CUST0416,Bookshelf,Furniture,Canada,1,116.0,75.0,116.0,41.0,UPI,Website
+ORD01016,2026-07-26,CUST0057,Water Bottle,Accessories,India,1,24.88,13.07,24.88,11.81,Debit Card,Mobile App
+ORD01017,2026-03-08,CUST0115,Monitor,Electronics,India,1,134.5,104.37,134.5,30.13,Credit Card,Website
+ORD01018,2026-01-16,CUST0055,Monitor,Electronics,United States,1,114.48,92.67,114.48,21.81,PayPal,Marketplace
+ORD01019,2025-03-20,CUST0417,Office Chair,Furniture,UAE,1,127.96,69.57,127.96,58.39,Credit Card,Website
+ORD01020,2025-11-03,CUST0370,Desk Lamp,Home & Kitchen,Germany,3,36.18,26.4,108.54,29.34,PayPal,Marketplace
+ORD01021,2025-02-02,CUST0089,Laptop,Electronics,United Kingdom,1,512.35,401.86,512.35,110.49,UPI,Mobile App
+ORD01022,2025-09-22,CUST0257,Yoga Mat,Sports,Australia,2,36.53,25.07,73.06,22.92,Credit Card,Mobile App
+ORD01023,2025-05-09,CUST0206,Office Chair,Furniture,India,1,88.33,55.94,88.33,32.39,Credit Card,Mobile App
+ORD01024,2025-03-21,CUST0240,Office Chair,Furniture,Singapore,3,216.52,151.89,649.56,193.89,Debit Card,Marketplace
+ORD01025,2026-03-11,CUST0056,Running Shoes,Sports,United States,3,47.36,36.04,142.08,33.96,UPI,Mobile App
+ORD01026,2025-06-16,CUST0034,Dumbbell Set,Sports,Canada,3,41.81,24.75,125.43,51.18,Net Banking,Website
+ORD01027,2025-09-04,CUST0292,Pen Set,Stationery,India,1,4.82,3.85,4.82,0.97,Net Banking,Mobile App
+ORD01028,2026-01-01,CUST0204,Wireless Mouse,Electronics,Canada,1,14.14,8.66,14.14,5.48,Debit Card,Mobile App
+ORD01029,2026-02-22,CUST0258,Water Bottle,Accessories,United States,5,19.35,10.63,96.75,43.6,Net Banking,Website
+ORD01030,2025-02-08,CUST0078,Laptop,Electronics,Singapore,2,602.84,419.52,1205.68,366.64,UPI,Marketplace
+ORD01031,2025-05-25,CUST0083,Keyboard,Electronics,Germany,4,32.74,19.14,130.96,54.4,PayPal,Website
+ORD01032,2025-02-10,CUST0397,Backpack,Accessories,UAE,1,47.3,37.94,47.3,9.36,Credit Card,Website
+ORD01033,2026-05-25,CUST0008,Dumbbell Set,Sports,United Kingdom,2,82.27,56.77,164.54,51.0,Debit Card,Marketplace
+ORD01034,2025-10-30,CUST0144,Keyboard,Electronics,Germany,2,45.01,25.7,90.02,38.62,Debit Card,Website
+ORD01035,2026-04-30,CUST0227,Keyboard,Electronics,United Kingdom,1,62.46,37.31,62.46,25.15,UPI,Marketplace
+ORD01036,2026-09-27,CUST0067,Desk Lamp,Home & Kitchen,Singapore,1,40.07,25.66,40.07,14.41,Debit Card,Marketplace
+ORD01037,2026-06-03,CUST0350,Dumbbell Set,Sports,India,4,44.29,32.1,177.16,48.76,Net Banking,Marketplace
+ORD01038,2025-01-09,CUST0054,Wireless Mouse,Electronics,Australia,3,17.63,13.51,52.89,12.36,PayPal,Website
+ORD01039,2026-04-19,CUST0179,Cookware Set,Home & Kitchen,Singapore,1,48.03,30.57,48.03,17.46,PayPal,Marketplace
+ORD01040,2025-04-21,CUST0204,USB Drive,Electronics,UAE,4,17.69,9.65,70.76,32.16,Credit Card,Mobile App
+ORD01041,2025-08-06,CUST0244,Backpack,Accessories,United States,1,34.09,23.91,34.09,10.18,Debit Card,Mobile App
+ORD01042,2025-08-07,CUST0017,Wireless Mouse,Electronics,UAE,2,33.82,19.06,67.64,29.52,UPI,Mobile App
+ORD01043,2025-01-24,CUST0217,Yoga Mat,Sports,Australia,5,17.98,10.49,89.9,37.45,Debit Card,Marketplace
+ORD01044,2025-11-02,CUST0232,Office Chair,Furniture,UAE,1,85.04,54.55,85.04,30.49,Net Banking,Website
+ORD01045,2026-03-15,CUST0153,Notebook Pack,Stationery,United Kingdom,1,4.59,3.62,4.59,0.97,Credit Card,Mobile App
+ORD01046,2026-03-24,CUST0355,Yoga Mat,Sports,UAE,2,26.99,20.38,53.98,13.22,UPI,Marketplace
+ORD01047,2025-05-29,CUST0376,Dumbbell Set,Sports,Germany,1,66.98,46.45,66.98,20.53,UPI,Website
+ORD01048,2026-02-21,CUST0370,Coffee Maker,Home & Kitchen,India,4,64.96,39.95,259.84,100.04,PayPal,Website
+ORD01049,2025-07-12,CUST0280,Coffee Maker,Home & Kitchen,United Kingdom,2,70.49,37.43,140.98,66.12,Net Banking,Mobile App
+ORD01050,2026-08-14,CUST0417,Study Desk,Furniture,Germany,1,290.0,235.34,290.0,54.66,UPI,Mobile App
+ORD01051,2026-04-12,CUST0181,Pen Set,Stationery,Germany,2,10.81,7.89,21.62,5.84,Net Banking,Mobile App
+ORD01052,2026-04-15,CUST0091,Phone Case,Accessories,United Kingdom,5,10.71,8.55,53.55,10.8,Net Banking,Mobile App
+ORD01053,2026-10-12,CUST0318,Running Shoes,Sports,United States,1,84.47,61.16,84.47,23.31,UPI,Website
+ORD01054,2026-05-24,CUST0320,Keyboard,Electronics,United States,2,53.89,34.67,107.78,38.44,PayPal,Marketplace
+ORD01055,2025-08-05,CUST0233,Cookware Set,Home & Kitchen,UAE,3,113.45,87.98,340.35,76.41,UPI,Website
+ORD01056,2026-04-21,CUST0331,Desk Lamp,Home & Kitchen,UAE,4,22.27,16.88,89.08,21.56,UPI,Mobile App
+ORD01057,2025-11-11,CUST0408,Bookshelf,Furniture,UAE,2,83.1,59.63,166.2,46.94,Credit Card,Website
+ORD01058,2026-06-16,CUST0308,Yoga Mat,Sports,Germany,1,12.73,9.64,12.73,3.09,Debit Card,Website
+ORD01059,2025-07-17,CUST0202,Cookware Set,Home & Kitchen,India,5,66.6,54.08,333.0,62.6,Net Banking,Mobile App
+ORD01060,2026-02-17,CUST0265,Monitor,Electronics,United Kingdom,4,176.37,130.24,705.48,184.52,PayPal,Website
+ORD01061,2026-08-14,CUST0391,Headphones,Electronics,Australia,2,37.0,20.55,74.0,32.9,Net Banking,Website
+ORD01062,2026-10-06,CUST0079,Backpack,Accessories,India,1,22.38,14.57,22.38,7.81,Net Banking,Marketplace
+ORD01063,2025-05-14,CUST0324,USB Drive,Electronics,Germany,4,8.81,5.59,35.24,12.88,Credit Card,Website
+ORD01064,2026-01-23,CUST0338,Bookshelf,Furniture,India,1,111.22,66.02,111.22,45.2,Debit Card,Website
+ORD01065,2025-04-16,CUST0306,Monitor,Electronics,United States,2,218.53,151.62,437.06,133.82,UPI,Website
+ORD01066,2026-01-06,CUST0107,Pen Set,Stationery,UAE,1,4.63,2.52,4.63,2.11,UPI,Mobile App
+ORD01067,2025-08-04,CUST0193,Laptop,Electronics,Germany,1,644.61,456.19,644.61,188.42,PayPal,Website
+ORD01068,2026-10-09,CUST0017,Office Chair,Furniture,United States,1,206.03,147.91,206.03,58.12,Debit Card,Mobile App
+ORD01069,2026-06-19,CUST0063,Desk Lamp,Home & Kitchen,Canada,5,31.0,16.17,155.0,74.15,Net Banking,Website
+ORD01070,2026-01-09,CUST0112,USB Drive,Electronics,India,1,18.77,10.62,18.77,8.15,Debit Card,Website
+ORD01071,2025-10-08,CUST0048,Bookshelf,Furniture,Germany,1,127.62,71.21,127.62,56.41,Net Banking,Marketplace
+ORD01072,2026-02-14,CUST0129,Pen Set,Stationery,United Kingdom,2,10.28,6.69,20.56,7.18,Credit Card,Marketplace
+ORD01073,2026-08-25,CUST0407,Notebook Pack,Stationery,Canada,5,5.13,3.89,25.65,6.2,PayPal,Mobile App
+ORD01074,2026-09-30,CUST0197,Coffee Maker,Home & Kitchen,UAE,1,82.3,62.94,82.3,19.36,Credit Card,Marketplace
+ORD01075,2025-06-21,CUST0262,Water Bottle,Accessories,Australia,1,18.02,9.72,18.02,8.3,Net Banking,Mobile App
+ORD01076,2026-06-28,CUST0016,Pen Set,Stationery,United States,2,10.9,8.78,21.8,4.24,Credit Card,Mobile App
+ORD01077,2026-01-16,CUST0400,Yoga Mat,Sports,Germany,3,22.02,11.93,66.06,30.27,UPI,Website
+ORD01078,2026-08-05,CUST0120,Backpack,Accessories,United States,2,51.69,30.19,103.38,43.0,PayPal,Mobile App
+ORD01079,2026-09-15,CUST0344,Dumbbell Set,Sports,United States,1,34.14,23.5,34.14,10.64,Net Banking,Marketplace
+ORD01080,2025-07-22,CUST0411,Yoga Mat,Sports,Singapore,2,24.19,18.48,48.38,11.42,PayPal,Website
+ORD01081,2025-12-01,CUST0122,Notebook Pack,Stationery,India,1,5.37,3.07,5.37,2.3,Debit Card,Website
+ORD01082,2026-02-17,CUST0274,Cookware Set,Home & Kitchen,India,5,140.28,84.91,701.4,276.85,Debit Card,Marketplace
+ORD01083,2025-11-05,CUST0386,Laptop,Electronics,Germany,1,488.05,371.29,488.05,116.76,PayPal,Website
+ORD01084,2025-11-02,CUST0253,USB Drive,Electronics,United States,3,18.36,9.81,55.08,25.65,Debit Card,Marketplace
+ORD01085,2025-04-18,CUST0353,Headphones,Electronics,UAE,1,29.54,15.45,29.54,14.09,Credit Card,Website
+ORD01086,2026-07-05,CUST0353,Keyboard,Electronics,India,1,69.63,43.91,69.63,25.72,Debit Card,Website
+ORD01087,2026-09-20,CUST0195,Headphones,Electronics,Australia,1,53.91,32.3,53.91,21.61,Credit Card,Website
+ORD01088,2026-08-22,CUST0212,Cookware Set,Home & Kitchen,Singapore,2,53.89,41.96,107.78,23.86,UPI,Marketplace
+ORD01089,2025-10-15,CUST0375,Phone Case,Accessories,Singapore,1,13.12,8.75,13.12,4.37,Credit Card,Website
+ORD01090,2025-09-06,CUST0377,Notebook Pack,Stationery,Canada,3,11.83,7.4,35.49,13.29,UPI,Website
+ORD01091,2026-01-30,CUST0054,Desk Lamp,Home & Kitchen,Germany,1,10.46,6.12,10.46,4.34,Credit Card,Marketplace
+ORD01092,2026-04-10,CUST0259,Phone Case,Accessories,United States,2,10.33,8.3,20.66,4.06,Credit Card,Website
+ORD01093,2025-07-27,CUST0097,Water Bottle,Accessories,United States,1,14.6,10.31,14.6,4.29,Debit Card,Mobile App
+ORD01094,2025-04-15,CUST0055,Office Chair,Furniture,United States,2,212.97,147.62,425.94,130.7,Credit Card,Website
+ORD01095,2026-04-09,CUST0061,Coffee Maker,Home & Kitchen,United States,1,32.0,22.99,32.0,9.01,Debit Card,Mobile App
+ORD01096,2025-02-24,CUST0190,Study Desk,Furniture,United States,1,195.46,131.42,195.46,64.04,UPI,Marketplace
+ORD01097,2026-02-17,CUST0142,Running Shoes,Sports,Singapore,3,66.69,40.56,200.07,78.39,Net Banking,Mobile App
+ORD01098,2025-08-13,CUST0019,Headphones,Electronics,Australia,2,86.4,69.78,172.8,33.24,Credit Card,Website
+ORD01099,2026-02-19,CUST0052,USB Drive,Electronics,Canada,1,12.21,8.62,12.21,3.59,Debit Card,Mobile App
+ORD01100,2026-09-03,CUST0002,Study Desk,Furniture,United States,1,132.75,94.39,132.75,38.36,Credit Card,Marketplace
+ORD01101,2025-09-02,CUST0349,Dumbbell Set,Sports,United States,2,39.85,31.56,79.7,16.58,Credit Card,Website
+ORD01102,2026-05-01,CUST0011,Backpack,Accessories,United Kingdom,4,24.67,12.92,98.68,47.0,Debit Card,Website
+ORD01103,2026-05-01,CUST0251,Office Chair,Furniture,Canada,2,198.7,138.73,397.4,119.94,PayPal,Website
+ORD01104,2025-08-22,CUST0086,Wireless Mouse,Electronics,United Kingdom,3,25.05,20.47,75.15,13.74,UPI,Website
+ORD01105,2025-12-26,CUST0340,Pen Set,Stationery,Singapore,3,6.02,4.02,18.06,6.0,Debit Card,Mobile App
+ORD01106,2026-06-15,CUST0306,Coffee Maker,Home & Kitchen,Singapore,1,54.68,40.08,54.68,14.6,UPI,Mobile App
+ORD01107,2025-08-14,CUST0183,Phone Case,Accessories,Singapore,2,5.35,4.35,10.7,2.0,UPI,Website
+ORD01108,2025-04-02,CUST0194,Cookware Set,Home & Kitchen,United States,3,147.06,92.33,441.18,164.19,Debit Card,Marketplace
+ORD01109,2026-06-24,CUST0348,USB Drive,Electronics,Germany,4,17.33,13.99,69.32,13.36,Debit Card,Mobile App
+ORD01110,2025-02-12,CUST0360,Cookware Set,Home & Kitchen,Germany,1,149.33,91.51,149.33,57.82,Net Banking,Website
+ORD01111,2025-12-22,CUST0005,Yoga Mat,Sports,Singapore,3,27.87,21.12,83.61,20.25,Credit Card,Mobile App
+ORD01112,2025-06-16,CUST0148,Monitor,Electronics,United States,2,159.26,109.48,318.52,99.56,Debit Card,Website
+ORD01113,2025-02-24,CUST0003,Coffee Maker,Home & Kitchen,UAE,1,49.81,34.76,49.81,15.05,Debit Card,Marketplace
+ORD01114,2026-05-30,CUST0288,Laptop,Electronics,United Kingdom,1,505.09,395.8,505.09,109.29,UPI,Marketplace
+ORD01115,2025-03-24,CUST0017,Notebook Pack,Stationery,Singapore,1,12.06,7.83,12.06,4.23,Debit Card,Website
+ORD01116,2025-09-25,CUST0306,Running Shoes,Sports,Australia,1,107.52,59.08,107.52,48.44,Credit Card,Marketplace
+ORD01117,2025-07-24,CUST0214,Yoga Mat,Sports,Canada,2,21.03,14.58,42.06,12.9,Debit Card,Mobile App
+ORD01118,2025-07-07,CUST0224,Keyboard,Electronics,United States,1,70.99,46.74,70.99,24.25,Credit Card,Marketplace
+ORD01119,2026-01-02,CUST0219,Coffee Maker,Home & Kitchen,Singapore,2,65.27,47.36,130.54,35.82,PayPal,Mobile App
+ORD01120,2026-03-08,CUST0072,Coffee Maker,Home & Kitchen,Australia,1,69.12,55.8,69.12,13.32,Credit Card,Marketplace
+ORD01121,2025-10-28,CUST0202,Phone Case,Accessories,United Kingdom,1,15.56,12.29,15.56,3.27,PayPal,Marketplace
+ORD01122,2025-02-25,CUST0139,Laptop,Electronics,United States,2,755.2,510.06,1510.4,490.28,Debit Card,Marketplace
+ORD01123,2025-03-04,CUST0300,Headphones,Electronics,India,3,78.72,57.24,236.16,64.44,Credit Card,Marketplace
+ORD01124,2025-06-08,CUST0160,Monitor,Electronics,India,2,274.44,153.94,548.88,241.0,PayPal,Marketplace
+ORD01125,2025-05-04,CUST0127,Study Desk,Furniture,Canada,1,90.01,63.11,90.01,26.9,UPI,Mobile App
+ORD01126,2025-05-05,CUST0248,Laptop,Electronics,United Kingdom,3,627.53,336.79,1882.59,872.22,Credit Card,Marketplace
+ORD01127,2026-09-24,CUST0075,Notebook Pack,Stationery,India,3,11.49,8.94,34.47,7.65,Credit Card,Website
+ORD01128,2026-05-03,CUST0149,Bookshelf,Furniture,United States,1,132.87,90.88,132.87,41.99,Net Banking,Mobile App
+ORD01129,2025-04-20,CUST0417,Water Bottle,Accessories,UAE,2,13.43,9.79,26.86,7.28,Credit Card,Website
+ORD01130,2025-11-07,CUST0334,Pen Set,Stationery,Singapore,2,8.08,4.23,16.16,7.7,UPI,Mobile App
+ORD01131,2025-06-12,CUST0258,Monitor,Electronics,Canada,2,232.92,140.47,465.84,184.9,Debit Card,Marketplace
+ORD01132,2025-12-27,CUST0289,Phone Case,Accessories,Germany,1,6.07,4.35,6.07,1.72,PayPal,Marketplace
+ORD01133,2026-02-08,CUST0331,Monitor,Electronics,Singapore,1,239.64,146.39,239.64,93.25,PayPal,Mobile App
+ORD01134,2026-06-23,CUST0358,Dumbbell Set,Sports,Germany,2,57.44,45.85,114.88,23.18,Net Banking,Marketplace
+ORD01135,2025-01-31,CUST0082,Water Bottle,Accessories,Canada,2,21.77,11.76,43.54,20.02,UPI,Marketplace
+ORD01136,2025-08-26,CUST0376,Headphones,Electronics,Canada,2,89.54,55.25,179.08,68.58,UPI,Website
+ORD01137,2026-09-19,CUST0020,Running Shoes,Sports,United States,3,66.5,35.86,199.5,91.92,PayPal,Mobile App
+ORD01138,2025-04-21,CUST0194,Dumbbell Set,Sports,United Kingdom,2,21.91,12.54,43.82,18.74,Net Banking,Marketplace
+ORD01139,2025-08-19,CUST0083,Study Desk,Furniture,UAE,1,193.13,139.76,193.13,53.37,Net Banking,Website
+ORD01140,2025-07-28,CUST0072,Keyboard,Electronics,India,2,54.6,39.34,109.2,30.52,Debit Card,Mobile App
+ORD01141,2026-06-25,CUST0107,Cookware Set,Home & Kitchen,Singapore,2,47.92,27.58,95.84,40.68,Net Banking,Mobile App
+ORD01142,2025-03-10,CUST0321,Water Bottle,Accessories,UAE,2,16.62,9.33,33.24,14.58,UPI,Marketplace
+ORD01143,2026-05-26,CUST0308,Keyboard,Electronics,Germany,1,48.45,26.66,48.45,21.79,UPI,Website
+ORD01144,2025-03-11,CUST0081,Pen Set,Stationery,Australia,4,5.26,3.84,21.04,5.68,UPI,Marketplace
+ORD01145,2025-11-16,CUST0030,Cookware Set,Home & Kitchen,United States,1,96.95,68.19,96.95,28.76,Net Banking,Mobile App
+ORD01146,2025-07-25,CUST0392,Notebook Pack,Stationery,India,2,4.36,2.82,8.72,3.08,Credit Card,Website
+ORD01147,2025-03-05,CUST0038,USB Drive,Electronics,India,3,14.58,10.89,43.74,11.07,Debit Card,Website
+ORD01148,2026-07-19,CUST0139,Yoga Mat,Sports,India,2,29.15,15.86,58.3,26.58,UPI,Website
+ORD01149,2025-11-07,CUST0117,Desk Lamp,Home & Kitchen,India,2,32.76,21.28,65.52,22.96,UPI,Website
+ORD01150,2025-01-19,CUST0027,Study Desk,Furniture,UAE,2,270.66,196.12,541.32,149.08,PayPal,Marketplace
+ORD01151,2026-03-25,CUST0316,Monitor,Electronics,Germany,1,182.56,102.48,182.56,80.08,Debit Card,Website
+ORD01152,2026-08-26,CUST0212,Backpack,Accessories,India,1,20.72,12.22,20.72,8.5,UPI,Marketplace
+ORD01153,2025-07-04,CUST0161,Bookshelf,Furniture,Germany,3,63.04,35.18,189.12,83.58,Net Banking,Marketplace
+ORD01154,2025-05-06,CUST0040,Bookshelf,Furniture,Australia,5,68.62,43.87,343.1,123.75,Net Banking,Website
+ORD01155,2025-08-14,CUST0155,Desk Lamp,Home & Kitchen,Germany,2,38.47,30.36,76.94,16.22,Net Banking,Mobile App
+ORD01156,2026-05-31,CUST0178,Bookshelf,Furniture,UAE,2,83.09,60.6,166.18,44.98,Net Banking,Mobile App
+ORD01157,2026-06-18,CUST0380,Notebook Pack,Stationery,Canada,1,14.03,10.84,14.03,3.19,UPI,Mobile App
+ORD01158,2026-04-10,CUST0256,Monitor,Electronics,India,1,149.97,97.79,149.97,52.18,Debit Card,Mobile App
+ORD01159,2025-10-13,CUST0197,Cookware Set,Home & Kitchen,Singapore,1,130.99,71.44,130.99,59.55,UPI,Mobile App
+ORD01160,2026-03-18,CUST0339,Running Shoes,Sports,Australia,1,51.83,32.85,51.83,18.98,UPI,Marketplace
+ORD01161,2025-12-11,CUST0135,Water Bottle,Accessories,Canada,4,23.29,17.38,93.16,23.64,UPI,Mobile App
+ORD01162,2025-02-28,CUST0284,Dumbbell Set,Sports,UAE,1,47.79,35.31,47.79,12.48,Debit Card,Marketplace
+ORD01163,2025-09-24,CUST0240,Coffee Maker,Home & Kitchen,Canada,1,80.35,60.32,80.35,20.03,Credit Card,Website
+ORD01164,2025-09-13,CUST0152,Notebook Pack,Stationery,Germany,3,14.46,7.89,43.38,19.71,Net Banking,Mobile App
+ORD01165,2026-09-15,CUST0158,Wireless Mouse,Electronics,Germany,2,20.32,14.59,40.64,11.46,Debit Card,Website
+ORD01166,2026-01-03,CUST0285,Coffee Maker,Home & Kitchen,Canada,2,60.79,40.12,121.58,41.34,PayPal,Website
+ORD01167,2025-11-18,CUST0093,Cookware Set,Home & Kitchen,Australia,4,70.41,49.51,281.64,83.6,Debit Card,Mobile App
+ORD01168,2026-09-25,CUST0120,Desk Lamp,Home & Kitchen,United States,1,32.06,18.08,32.06,13.98,UPI,Website
+ORD01169,2025-08-22,CUST0133,Phone Case,Accessories,Australia,3,14.86,7.91,44.58,20.85,UPI,Marketplace
+ORD01170,2025-04-22,CUST0228,Water Bottle,Accessories,United States,2,6.85,4.04,13.7,5.62,Net Banking,Website
+ORD01171,2026-03-02,CUST0219,Bookshelf,Furniture,Australia,1,114.89,88.32,114.89,26.57,Credit Card,Website
+ORD01172,2026-01-19,CUST0319,Backpack,Accessories,India,2,34.93,28.38,69.86,13.1,Credit Card,Mobile App
+ORD01173,2025-04-19,CUST0414,Wireless Mouse,Electronics,Germany,1,15.45,10.77,15.45,4.68,Net Banking,Marketplace
+ORD01174,2026-01-23,CUST0017,Phone Case,Accessories,United Kingdom,3,17.12,13.73,51.36,10.17,PayPal,Marketplace
+ORD01175,2026-08-02,CUST0323,Keyboard,Electronics,UAE,4,72.72,59.46,290.88,53.04,Net Banking,Marketplace
+ORD01176,2026-04-29,CUST0267,Headphones,Electronics,Singapore,3,75.14,40.23,225.42,104.73,Debit Card,Mobile App
+ORD01177,2025-09-06,CUST0186,Study Desk,Furniture,Canada,3,151.54,89.89,454.62,184.95,PayPal,Mobile App
+ORD01178,2026-02-24,CUST0181,Headphones,Electronics,United States,2,67.28,54.31,134.56,25.94,Debit Card,Marketplace
+ORD01179,2026-08-07,CUST0065,Desk Lamp,Home & Kitchen,Canada,2,25.71,16.6,51.42,18.22,PayPal,Marketplace
+ORD01180,2025-12-16,CUST0042,Cookware Set,Home & Kitchen,UAE,2,106.61,80.89,213.22,51.44,PayPal,Marketplace
+ORD01181,2025-07-04,CUST0008,Monitor,Electronics,United Kingdom,2,217.55,163.55,435.1,108.0,UPI,Mobile App
+ORD01182,2025-04-14,CUST0018,Notebook Pack,Stationery,UAE,3,11.83,7.82,35.49,12.03,UPI,Marketplace
+ORD01183,2026-02-02,CUST0182,Office Chair,Furniture,United Kingdom,5,94.19,73.47,470.95,103.6,PayPal,Marketplace
+ORD01184,2025-12-11,CUST0316,USB Drive,Electronics,United States,1,13.75,8.54,13.75,5.21,UPI,Website
+ORD01185,2026-03-23,CUST0245,Water Bottle,Accessories,United Kingdom,4,23.3,16.53,93.2,27.08,Credit Card,Marketplace
+ORD01186,2025-01-08,CUST0190,Cookware Set,Home & Kitchen,Singapore,4,143.03,77.97,572.12,260.24,PayPal,Mobile App
+ORD01187,2025-04-10,CUST0253,Coffee Maker,Home & Kitchen,Germany,1,80.58,48.65,80.58,31.93,UPI,Marketplace
+ORD01188,2026-03-13,CUST0197,Phone Case,Accessories,Germany,4,14.86,11.49,59.44,13.48,Credit Card,Website
+ORD01189,2025-08-04,CUST0143,Wireless Mouse,Electronics,Germany,3,28.9,23.6,86.7,15.9,UPI,Mobile App
+ORD01190,2025-08-18,CUST0148,Pen Set,Stationery,Australia,1,5.59,3.72,5.59,1.87,Net Banking,Website
+ORD01191,2026-06-05,CUST0015,Bookshelf,Furniture,India,2,69.81,40.63,139.62,58.36,Net Banking,Marketplace
+ORD01192,2025-07-28,CUST0219,Study Desk,Furniture,Singapore,1,264.83,139.76,264.83,125.07,Net Banking,Website
+ORD01193,2025-05-03,CUST0222,Coffee Maker,Home & Kitchen,Singapore,1,37.67,27.57,37.67,10.1,Debit Card,Website
+ORD01194,2025-12-29,CUST0382,Monitor,Electronics,Canada,5,234.38,130.07,1171.9,521.55,UPI,Mobile App
+ORD01195,2026-06-10,CUST0038,Office Chair,Furniture,Germany,2,115.04,81.58,230.08,66.92,UPI,Mobile App
+ORD01196,2026-07-26,CUST0321,Headphones,Electronics,India,4,100.45,61.8,401.8,154.6,UPI,Website
+ORD01197,2025-07-20,CUST0078,Monitor,Electronics,Singapore,2,258.26,151.36,516.52,213.8,Credit Card,Marketplace
+ORD01198,2026-06-13,CUST0384,Desk Lamp,Home & Kitchen,Canada,1,16.95,13.27,16.95,3.68,UPI,Mobile App
+ORD01199,2025-02-09,CUST0135,Keyboard,Electronics,UAE,2,53.62,39.3,107.24,28.64,Net Banking,Website
+ORD01200,2025-11-04,CUST0150,Water Bottle,Accessories,Singapore,2,18.48,10.61,36.96,15.74,PayPal,Marketplace
+ORD01201,2025-08-13,CUST0387,Running Shoes,Sports,Australia,2,75.76,46.11,151.52,59.3,PayPal,Mobile App
+ORD01202,2025-11-23,CUST0178,Backpack,Accessories,UAE,1,37.97,21.75,37.97,16.22,Credit Card,Mobile App
+ORD01203,2025-10-02,CUST0401,Desk Lamp,Home & Kitchen,UAE,2,34.05,18.0,68.1,32.1,UPI,Marketplace
+ORD01204,2026-03-29,CUST0134,Backpack,Accessories,India,1,32.93,20.99,32.93,11.94,Debit Card,Mobile App
+ORD01205,2026-02-24,CUST0086,Bookshelf,Furniture,Canada,1,140.95,86.34,140.95,54.61,UPI,Marketplace
+ORD01206,2025-01-22,CUST0047,Dumbbell Set,Sports,Germany,1,59.32,31.2,59.32,28.12,Debit Card,Marketplace
+ORD01207,2025-07-23,CUST0275,Keyboard,Electronics,UAE,2,48.53,30.51,97.06,36.04,Credit Card,Mobile App
+ORD01208,2025-09-12,CUST0011,Office Chair,Furniture,United States,4,123.07,71.96,492.28,204.44,Net Banking,Mobile App
+ORD01209,2026-10-09,CUST0127,Desk Lamp,Home & Kitchen,India,1,19.91,10.5,19.91,9.41,Debit Card,Marketplace
+ORD01210,2025-10-04,CUST0040,Headphones,Electronics,United States,3,60.9,38.99,182.7,65.73,Net Banking,Marketplace
+ORD01211,2025-06-05,CUST0302,Yoga Mat,Sports,UAE,1,32.79,22.38,32.79,10.41,Credit Card,Marketplace
+ORD01212,2025-11-06,CUST0104,Pen Set,Stationery,United States,3,6.83,5.07,20.49,5.28,Debit Card,Marketplace
+ORD01213,2026-02-21,CUST0248,Cookware Set,Home & Kitchen,Australia,2,72.04,39.47,144.08,65.14,Net Banking,Marketplace
+ORD01214,2026-01-17,CUST0366,Bookshelf,Furniture,United States,1,159.28,117.59,159.28,41.69,PayPal,Website
+ORD01215,2026-01-14,CUST0056,Cookware Set,Home & Kitchen,Australia,5,83.71,49.36,418.55,171.75,Debit Card,Website
+ORD01216,2026-05-17,CUST0043,Keyboard,Electronics,United Kingdom,1,29.31,22.85,29.31,6.46,PayPal,Marketplace
+ORD01217,2025-03-02,CUST0130,Desk Lamp,Home & Kitchen,UAE,2,39.39,29.47,78.78,19.84,Debit Card,Marketplace
+ORD01218,2026-09-06,CUST0003,Backpack,Accessories,Australia,3,19.72,14.33,59.16,16.17,Credit Card,Marketplace
+ORD01219,2025-11-26,CUST0248,Desk Lamp,Home & Kitchen,United States,2,20.96,15.0,41.92,11.92,UPI,Mobile App
+ORD01220,2025-05-05,CUST0225,Keyboard,Electronics,United States,1,61.63,35.04,61.63,26.59,UPI,Mobile App
+ORD01221,2026-07-15,CUST0005,Desk Lamp,Home & Kitchen,Australia,1,38.11,25.39,38.11,12.72,UPI,Mobile App
+ORD01222,2025-11-27,CUST0191,Pen Set,Stationery,United Kingdom,2,10.92,6.57,21.84,8.7,Credit Card,Mobile App
+ORD01223,2026-01-16,CUST0129,Phone Case,Accessories,Singapore,2,18.65,15.02,37.3,7.26,PayPal,Website
+ORD01224,2025-05-19,CUST0367,Backpack,Accessories,Singapore,4,51.85,40.22,207.4,46.52,UPI,Mobile App
+ORD01225,2025-01-06,CUST0097,Yoga Mat,Sports,Canada,1,25.17,20.59,25.17,4.58,UPI,Marketplace
+ORD01226,2025-06-10,CUST0326,Coffee Maker,Home & Kitchen,Canada,1,34.28,22.65,34.28,11.63,Debit Card,Marketplace
+ORD01227,2026-03-13,CUST0157,Laptop,Electronics,Germany,4,559.83,428.96,2239.32,523.48,Net Banking,Mobile App
+ORD01228,2026-08-30,CUST0375,Notebook Pack,Stationery,Canada,2,11.06,6.42,22.12,9.28,Debit Card,Website
+ORD01229,2026-01-28,CUST0396,Notebook Pack,Stationery,Australia,2,5.39,3.65,10.78,3.48,Net Banking,Marketplace
+ORD01230,2025-08-10,CUST0412,Desk Lamp,Home & Kitchen,United Kingdom,1,10.09,5.95,10.09,4.14,Credit Card,Website
+ORD01231,2025-02-23,CUST0414,Desk Lamp,Home & Kitchen,Singapore,3,21.32,16.82,63.96,13.5,PayPal,Marketplace
+ORD01232,2026-07-28,CUST0397,Desk Lamp,Home & Kitchen,UAE,1,27.51,15.27,27.51,12.24,PayPal,Mobile App
+ORD01233,2026-09-12,CUST0086,Pen Set,Stationery,Australia,3,5.85,3.18,17.55,8.01,Credit Card,Mobile App
+ORD01234,2025-05-04,CUST0223,USB Drive,Electronics,Germany,1,22.99,13.68,22.99,9.31,Credit Card,Website
+ORD01235,2026-03-11,CUST0287,Water Bottle,Accessories,Canada,3,20.64,12.88,61.92,23.28,PayPal,Mobile App
+ORD01236,2026-01-05,CUST0003,Office Chair,Furniture,Australia,4,219.34,126.94,877.36,369.6,Debit Card,Website
+ORD01237,2025-10-07,CUST0141,Water Bottle,Accessories,Singapore,4,15.55,8.15,62.2,29.6,PayPal,Website
+ORD01238,2025-02-01,CUST0242,Notebook Pack,Stationery,Singapore,1,4.63,3.2,4.63,1.43,PayPal,Website
+ORD01239,2025-04-17,CUST0015,Desk Lamp,Home & Kitchen,United Kingdom,3,32.66,22.33,97.98,30.99,Credit Card,Website
+ORD01240,2025-03-05,CUST0279,Keyboard,Electronics,Australia,1,66.52,35.71,66.52,30.81,Credit Card,Marketplace
+ORD01241,2025-11-21,CUST0087,Dumbbell Set,Sports,Germany,3,41.62,30.03,124.86,34.77,Net Banking,Website
+ORD01242,2025-07-17,CUST0257,Running Shoes,Sports,United Kingdom,1,85.08,45.81,85.08,39.27,Debit Card,Website
+ORD01243,2026-06-02,CUST0326,Office Chair,Furniture,India,1,114.95,66.63,114.95,48.32,Debit Card,Mobile App
+ORD01244,2025-03-30,CUST0238,USB Drive,Electronics,United States,1,14.85,10.25,14.85,4.6,UPI,Website
+ORD01245,2025-01-21,CUST0404,Office Chair,Furniture,India,2,101.92,71.07,203.84,61.7,Credit Card,Marketplace
+ORD01246,2025-11-12,CUST0329,Water Bottle,Accessories,Canada,2,22.67,18.2,45.34,8.94,Credit Card,Mobile App
+ORD01247,2026-08-02,CUST0116,Wireless Mouse,Electronics,Canada,1,18.6,11.23,18.6,7.37,Debit Card,Website
+ORD01248,2025-04-05,CUST0297,Office Chair,Furniture,Germany,5,112.61,73.41,563.05,196.0,Debit Card,Marketplace
+ORD01249,2025-02-07,CUST0198,Phone Case,Accessories,United Kingdom,1,15.73,12.1,15.73,3.63,Net Banking,Marketplace
+ORD01250,2025-10-23,CUST0359,Study Desk,Furniture,Australia,5,181.11,129.28,905.55,259.15,UPI,Marketplace
+ORD01251,2025-04-29,CUST0324,Study Desk,Furniture,United Kingdom,1,188.21,99.64,188.21,88.57,PayPal,Website
+ORD01252,2026-08-26,CUST0166,Coffee Maker,Home & Kitchen,United States,2,56.06,35.51,112.12,41.1,Debit Card,Website
+ORD01253,2025-04-13,CUST0184,Office Chair,Furniture,Australia,1,123.53,88.25,123.53,35.28,Credit Card,Mobile App
+ORD01254,2026-04-13,CUST0356,USB Drive,Electronics,UAE,1,7.5,5.72,7.5,1.78,PayPal,Mobile App
+ORD01255,2026-02-15,CUST0120,Bookshelf,Furniture,United States,1,94.19,58.53,94.19,35.66,PayPal,Mobile App
+ORD01256,2026-06-09,CUST0154,Notebook Pack,Stationery,Canada,4,8.41,4.45,33.64,15.84,Net Banking,Website
+ORD01257,2025-04-03,CUST0393,Monitor,Electronics,United Kingdom,2,244.06,130.85,488.12,226.42,Debit Card,Mobile App
+ORD01258,2025-06-26,CUST0042,Running Shoes,Sports,United Kingdom,1,35.06,19.78,35.06,15.28,Credit Card,Website
+ORD01259,2026-01-19,CUST0082,Yoga Mat,Sports,Germany,1,18.85,13.67,18.85,5.18,UPI,Mobile App
+ORD01260,2026-01-21,CUST0362,USB Drive,Electronics,Canada,2,23.07,18.31,46.14,9.52,UPI,Mobile App
+ORD01261,2025-12-01,CUST0420,Monitor,Electronics,UAE,1,268.99,172.14,268.99,96.85,Net Banking,Mobile App
+ORD01262,2026-08-24,CUST0312,USB Drive,Electronics,United Kingdom,1,18.23,13.53,18.23,4.7,Credit Card,Mobile App
+ORD01263,2026-02-12,CUST0331,Water Bottle,Accessories,Canada,1,21.64,15.22,21.64,6.42,Credit Card,Mobile App
+ORD01264,2026-01-29,CUST0218,Study Desk,Furniture,United Kingdom,1,153.41,84.05,153.41,69.36,Debit Card,Mobile App
+ORD01265,2026-03-08,CUST0204,Running Shoes,Sports,United States,2,71.05,42.51,142.1,57.08,PayPal,Website
+ORD01266,2025-01-13,CUST0066,Water Bottle,Accessories,UAE,2,7.93,6.18,15.86,3.5,PayPal,Website
+ORD01267,2025-02-25,CUST0133,Desk Lamp,Home & Kitchen,United States,2,33.46,21.64,66.92,23.64,Net Banking,Mobile App
+ORD01268,2026-07-02,CUST0403,Phone Case,Accessories,United Kingdom,1,13.05,8.1,13.05,4.95,PayPal,Marketplace
+ORD01269,2026-08-28,CUST0264,Running Shoes,Sports,Singapore,3,41.0,21.41,123.0,58.77,PayPal,Website
+ORD01270,2026-01-11,CUST0307,Coffee Maker,Home & Kitchen,Germany,1,38.51,25.68,38.51,12.83,Debit Card,Mobile App
+ORD01271,2025-10-01,CUST0183,Backpack,Accessories,UAE,2,54.04,28.48,108.08,51.12,UPI,Mobile App
+ORD01272,2025-02-07,CUST0203,Backpack,Accessories,Canada,1,19.67,10.89,19.67,8.78,Credit Card,Website
+ORD01273,2026-03-18,CUST0177,USB Drive,Electronics,Singapore,1,23.72,16.84,23.72,6.88,Net Banking,Website
+ORD01274,2025-02-09,CUST0371,Phone Case,Accessories,United States,2,5.69,3.52,11.38,4.34,PayPal,Marketplace
+ORD01275,2026-02-15,CUST0383,Keyboard,Electronics,Australia,1,55.02,33.59,55.02,21.43,UPI,Mobile App
+ORD01276,2026-09-23,CUST0407,Headphones,Electronics,Canada,3,79.24,64.86,237.72,43.14,UPI,Mobile App
+ORD01277,2025-07-10,CUST0344,Cookware Set,Home & Kitchen,India,2,123.68,80.53,247.36,86.3,Net Banking,Mobile App
+ORD01278,2025-01-20,CUST0337,Office Chair,Furniture,United Kingdom,2,114.54,73.55,229.08,81.98,Debit Card,Mobile App
+ORD01279,2025-08-15,CUST0364,Coffee Maker,Home & Kitchen,Germany,2,98.31,60.5,196.62,75.62,Credit Card,Website
+ORD01280,2026-08-26,CUST0305,Dumbbell Set,Sports,Germany,1,66.28,50.91,66.28,15.37,Net Banking,Mobile App
+ORD01281,2025-12-21,CUST0078,Desk Lamp,Home & Kitchen,Singapore,4,10.44,6.5,41.76,15.76,PayPal,Website
+ORD01282,2025-02-03,CUST0293,USB Drive,Electronics,United States,2,22.48,13.41,44.96,18.14,PayPal,Marketplace
+ORD01283,2025-11-08,CUST0162,Water Bottle,Accessories,Singapore,1,20.21,13.72,20.21,6.49,PayPal,Website
+ORD01284,2026-03-18,CUST0012,Monitor,Electronics,Australia,2,138.34,86.53,276.68,103.62,Net Banking,Marketplace
+ORD01285,2026-01-23,CUST0064,Desk Lamp,Home & Kitchen,United States,5,23.13,15.76,115.65,36.85,PayPal,Website
+ORD01286,2025-06-12,CUST0377,Study Desk,Furniture,UAE,5,209.86,120.37,1049.3,447.45,Net Banking,Mobile App
+ORD01287,2025-11-24,CUST0323,Water Bottle,Accessories,United States,3,13.95,9.76,41.85,12.57,Debit Card,Marketplace
+ORD01288,2026-04-21,CUST0231,USB Drive,Electronics,United Kingdom,2,12.18,7.81,24.36,8.74,Credit Card,Mobile App
+ORD01289,2025-06-26,CUST0051,Pen Set,Stationery,UAE,1,10.47,7.84,10.47,2.63,Net Banking,Marketplace
+ORD01290,2026-09-26,CUST0313,Yoga Mat,Sports,United States,5,23.49,16.7,117.45,33.95,Net Banking,Marketplace
+ORD01291,2026-08-06,CUST0351,Yoga Mat,Sports,United States,4,21.1,12.55,84.4,34.2,Debit Card,Website
+ORD01292,2025-07-17,CUST0083,Dumbbell Set,Sports,Singapore,4,62.52,42.86,250.08,78.64,Debit Card,Marketplace
+ORD01293,2025-11-27,CUST0034,Bookshelf,Furniture,India,1,153.4,122.17,153.4,31.23,Credit Card,Marketplace
+ORD01294,2025-09-05,CUST0237,Coffee Maker,Home & Kitchen,United States,2,77.86,50.85,155.72,54.02,Net Banking,Mobile App
+ORD01295,2025-02-03,CUST0209,Office Chair,Furniture,Singapore,1,179.7,97.21,179.7,82.49,PayPal,Website
+ORD01296,2026-09-14,CUST0366,Yoga Mat,Sports,India,4,36.73,25.02,146.92,46.84,PayPal,Mobile App
+ORD01297,2025-02-10,CUST0367,Wireless Mouse,Electronics,Singapore,1,21.16,16.22,21.16,4.94,PayPal,Website
+ORD01298,2025-04-25,CUST0188,Headphones,Electronics,UAE,1,49.94,38.33,49.94,11.61,Debit Card,Website
+ORD01299,2025-03-17,CUST0364,Bookshelf,Furniture,Singapore,3,77.06,42.32,231.18,104.22,Credit Card,Mobile App
+ORD01300,2025-09-22,CUST0305,Backpack,Accessories,India,1,38.9,29.42,38.9,9.48,Credit Card,Website
+ORD01301,2026-01-07,CUST0158,Phone Case,Accessories,United Kingdom,1,8.76,5.53,8.76,3.23,Net Banking,Marketplace
+ORD01302,2025-05-12,CUST0150,Pen Set,Stationery,UAE,2,6.96,4.23,13.92,5.46,Debit Card,Marketplace
+ORD01303,2026-08-22,CUST0187,Bookshelf,Furniture,UAE,1,77.22,47.17,77.22,30.05,PayPal,Marketplace
+ORD01304,2026-05-29,CUST0192,Office Chair,Furniture,UAE,5,168.36,117.2,841.8,255.8,PayPal,Marketplace
+ORD01305,2026-01-24,CUST0034,Office Chair,Furniture,Germany,3,144.9,96.39,434.7,145.53,Credit Card,Mobile App
+ORD01306,2025-05-03,CUST0183,Study Desk,Furniture,Singapore,1,148.45,111.84,148.45,36.61,PayPal,Marketplace
+ORD01307,2026-06-21,CUST0380,Laptop,Electronics,Canada,3,788.3,595.11,2364.9,579.57,Debit Card,Marketplace
+ORD01308,2025-03-10,CUST0274,Wireless Mouse,Electronics,United States,1,14.27,8.83,14.27,5.44,UPI,Mobile App
+ORD01309,2025-07-07,CUST0334,Cookware Set,Home & Kitchen,Canada,2,66.92,50.8,133.84,32.24,Credit Card,Marketplace
+ORD01310,2025-10-12,CUST0098,Coffee Maker,Home & Kitchen,United States,1,98.56,59.11,98.56,39.45,Credit Card,Marketplace
+ORD01311,2026-08-19,CUST0051,Pen Set,Stationery,India,1,5.05,3.51,5.05,1.54,Debit Card,Marketplace
+ORD01312,2025-07-22,CUST0302,Keyboard,Electronics,Canada,1,26.4,14.39,26.4,12.01,Net Banking,Mobile App
+ORD01313,2025-04-25,CUST0227,Pen Set,Stationery,Canada,2,8.24,6.41,16.48,3.66,Net Banking,Marketplace
+ORD01314,2026-02-21,CUST0253,Dumbbell Set,Sports,United Kingdom,3,84.5,50.32,253.5,102.54,Debit Card,Marketplace
+ORD01315,2026-06-29,CUST0141,Desk Lamp,Home & Kitchen,Australia,2,43.3,26.41,86.6,33.78,PayPal,Website
+ORD01316,2026-04-27,CUST0092,Office Chair,Furniture,United States,2,121.29,98.52,242.58,45.54,PayPal,Marketplace
+ORD01317,2026-07-06,CUST0100,Pen Set,Stationery,United States,1,10.76,6.7,10.76,4.06,Credit Card,Website
+ORD01318,2025-04-16,CUST0313,Pen Set,Stationery,Canada,2,5.88,3.99,11.76,3.78,Net Banking,Marketplace
+ORD01319,2025-06-25,CUST0313,Monitor,Electronics,United Kingdom,1,142.62,91.12,142.62,51.5,Debit Card,Marketplace
+ORD01320,2025-10-03,CUST0135,Desk Lamp,Home & Kitchen,Singapore,2,37.61,28.36,75.22,18.5,Debit Card,Mobile App
+ORD01321,2025-11-19,CUST0218,Monitor,Electronics,UAE,1,233.54,179.54,233.54,54.0,PayPal,Website
+ORD01322,2025-05-24,CUST0141,Running Shoes,Sports,India,1,65.66,46.86,65.66,18.8,Credit Card,Website
+ORD01323,2026-01-27,CUST0287,Notebook Pack,Stationery,Canada,1,8.11,5.0,8.11,3.11,Credit Card,Marketplace
+ORD01324,2025-06-14,CUST0246,Phone Case,Accessories,Singapore,1,9.66,5.24,9.66,4.42,UPI,Marketplace
+ORD01325,2025-10-14,CUST0193,Running Shoes,Sports,India,2,103.17,68.72,206.34,68.9,UPI,Website
+ORD01326,2025-04-24,CUST0384,Backpack,Accessories,United States,1,35.36,28.18,35.36,7.18,Debit Card,Marketplace
+ORD01327,2026-08-11,CUST0046,Yoga Mat,Sports,Singapore,3,36.47,25.42,109.41,33.15,Credit Card,Mobile App
+ORD01328,2025-10-26,CUST0072,Cookware Set,Home & Kitchen,United States,2,112.68,77.41,225.36,70.54,Debit Card,Mobile App
+ORD01329,2025-08-22,CUST0171,Coffee Maker,Home & Kitchen,Canada,3,45.04,27.76,135.12,51.84,Debit Card,Mobile App
+ORD01330,2026-02-25,CUST0413,Dumbbell Set,Sports,Singapore,3,21.5,11.95,64.5,28.65,UPI,Marketplace
+ORD01331,2026-03-24,CUST0409,Wireless Mouse,Electronics,Germany,4,23.78,12.48,95.12,45.2,Net Banking,Mobile App
+ORD01332,2026-08-02,CUST0400,Pen Set,Stationery,United States,2,8.71,6.45,17.42,4.52,Net Banking,Website
+ORD01333,2026-09-17,CUST0385,Phone Case,Accessories,United States,3,6.49,5.17,19.47,3.96,PayPal,Mobile App
+ORD01334,2025-12-05,CUST0332,Coffee Maker,Home & Kitchen,Germany,2,91.64,67.97,183.28,47.34,PayPal,Marketplace
+ORD01335,2026-10-01,CUST0010,Yoga Mat,Sports,India,4,23.24,14.13,92.96,36.44,Credit Card,Mobile App
+ORD01336,2025-12-01,CUST0335,Yoga Mat,Sports,Canada,1,35.96,25.0,35.96,10.96,Net Banking,Mobile App
+ORD01337,2025-07-05,CUST0274,Cookware Set,Home & Kitchen,India,1,125.03,72.75,125.03,52.28,Credit Card,Marketplace
+ORD01338,2025-08-24,CUST0104,Water Bottle,Accessories,Australia,4,12.22,7.51,48.88,18.84,Credit Card,Mobile App
+ORD01339,2025-01-28,CUST0226,Notebook Pack,Stationery,United States,1,14.12,10.61,14.12,3.51,PayPal,Website
+ORD01340,2025-02-20,CUST0205,Coffee Maker,Home & Kitchen,Canada,3,89.79,52.31,269.37,112.44,Credit Card,Mobile App
+ORD01341,2026-08-16,CUST0063,Cookware Set,Home & Kitchen,United Kingdom,3,50.21,28.75,150.63,64.38,Credit Card,Website
+ORD01342,2026-03-02,CUST0047,Desk Lamp,Home & Kitchen,Germany,3,22.54,18.45,67.62,12.27,PayPal,Mobile App
+ORD01343,2026-03-07,CUST0052,Phone Case,Accessories,Germany,1,12.77,6.67,12.77,6.1,Debit Card,Mobile App
+ORD01344,2025-03-28,CUST0415,Keyboard,Electronics,UAE,1,66.63,40.66,66.63,25.97,PayPal,Website
+ORD01345,2025-09-12,CUST0005,Notebook Pack,Stationery,United Kingdom,2,13.87,7.4,27.74,12.94,Net Banking,Website
+ORD01346,2025-08-03,CUST0339,Monitor,Electronics,Australia,2,239.59,128.98,479.18,221.22,Debit Card,Marketplace
+ORD01347,2026-06-16,CUST0415,Yoga Mat,Sports,United Kingdom,3,23.74,13.59,71.22,30.45,Debit Card,Website
+ORD01348,2026-01-18,CUST0136,Office Chair,Furniture,Germany,1,104.59,67.05,104.59,37.54,UPI,Website
+ORD01349,2025-05-28,CUST0024,Backpack,Accessories,UAE,1,40.11,29.7,40.11,10.41,Net Banking,Marketplace
+ORD01350,2025-08-17,CUST0034,Phone Case,Accessories,United States,1,6.7,4.18,6.7,2.52,PayPal,Mobile App
+ORD01351,2026-09-10,CUST0001,Yoga Mat,Sports,Australia,3,27.03,15.15,81.09,35.64,PayPal,Mobile App
+ORD01352,2026-09-21,CUST0050,Notebook Pack,Stationery,Singapore,1,11.22,7.06,11.22,4.16,PayPal,Marketplace
+ORD01353,2025-05-27,CUST0043,Cookware Set,Home & Kitchen,United States,1,64.12,35.84,64.12,28.28,PayPal,Mobile App
+ORD01354,2025-11-05,CUST0237,Dumbbell Set,Sports,Australia,1,34.7,19.97,34.7,14.73,Credit Card,Mobile App
+ORD01355,2025-02-05,CUST0410,Yoga Mat,Sports,UAE,1,16.07,11.91,16.07,4.16,UPI,Website
+ORD01356,2025-09-01,CUST0166,Office Chair,Furniture,India,1,167.02,128.71,167.02,38.31,Net Banking,Mobile App
+ORD01357,2026-08-15,CUST0110,Desk Lamp,Home & Kitchen,Singapore,3,16.57,12.94,49.71,10.89,Net Banking,Mobile App
+ORD01358,2026-06-11,CUST0173,USB Drive,Electronics,United Kingdom,1,24.13,17.29,24.13,6.84,Debit Card,Mobile App
+ORD01359,2025-12-17,CUST0135,Desk Lamp,Home & Kitchen,United States,3,25.97,14.26,77.91,35.13,Debit Card,Mobile App
+ORD01360,2026-04-14,CUST0062,Laptop,Electronics,Australia,5,500.49,294.36,2502.45,1030.65,Credit Card,Mobile App
+ORD01361,2026-06-01,CUST0420,Pen Set,Stationery,Canada,2,7.98,6.4,15.96,3.16,Credit Card,Marketplace
+ORD01362,2026-06-23,CUST0078,Bookshelf,Furniture,India,3,75.86,56.39,227.58,58.41,Net Banking,Mobile App
+ORD01363,2026-01-19,CUST0349,USB Drive,Electronics,United Kingdom,1,28.78,19.55,28.78,9.23,Net Banking,Website
+ORD01364,2025-07-27,CUST0206,Monitor,Electronics,Australia,2,272.37,176.28,544.74,192.18,PayPal,Marketplace
+ORD01365,2025-11-04,CUST0129,Yoga Mat,Sports,Australia,4,25.1,14.08,100.4,44.08,Credit Card,Marketplace
+ORD01366,2025-05-24,CUST0083,Dumbbell Set,Sports,Canada,2,24.34,18.17,48.68,12.34,PayPal,Website
+ORD01367,2025-03-14,CUST0072,Yoga Mat,Sports,UAE,1,17.41,13.41,17.41,4.0,UPI,Marketplace
+ORD01368,2025-10-10,CUST0006,Cookware Set,Home & Kitchen,United States,4,56.7,37.03,226.8,78.68,Net Banking,Mobile App
+ORD01369,2026-03-25,CUST0064,Phone Case,Accessories,Singapore,1,15.69,10.38,15.69,5.31,Credit Card,Website
+ORD01370,2025-09-19,CUST0239,Backpack,Accessories,UAE,3,62.63,33.34,187.89,87.87,Net Banking,Website
+ORD01371,2026-09-10,CUST0186,Desk Lamp,Home & Kitchen,Canada,3,17.86,9.84,53.58,24.06,PayPal,Marketplace
+ORD01372,2025-10-14,CUST0376,Yoga Mat,Sports,Australia,1,29.87,23.29,29.87,6.58,Debit Card,Marketplace
+ORD01373,2026-01-01,CUST0052,Phone Case,Accessories,Singapore,1,16.34,9.73,16.34,6.61,Credit Card,Marketplace
+ORD01374,2026-05-15,CUST0290,Desk Lamp,Home & Kitchen,UAE,1,25.18,15.1,25.18,10.08,Net Banking,Marketplace
+ORD01375,2025-04-11,CUST0061,Running Shoes,Sports,Canada,1,43.08,33.23,43.08,9.85,Debit Card,Marketplace
+ORD01376,2025-12-22,CUST0226,Dumbbell Set,Sports,Singapore,1,45.59,33.89,45.59,11.7,Net Banking,Marketplace
+ORD01377,2026-03-19,CUST0014,Wireless Mouse,Electronics,Canada,4,30.7,21.75,122.8,35.8,Net Banking,Website
+ORD01378,2026-02-27,CUST0374,Laptop,Electronics,Singapore,2,581.58,353.42,1163.16,456.32,Debit Card,Mobile App
+ORD01379,2025-02-18,CUST0358,Water Bottle,Accessories,Australia,1,24.35,14.68,24.35,9.67,Credit Card,Website
+ORD01380,2026-02-15,CUST0400,USB Drive,Electronics,United Kingdom,3,19.59,12.08,58.77,22.53,PayPal,Website
+ORD01381,2025-08-22,CUST0157,Backpack,Accessories,United States,1,43.3,32.97,43.3,10.33,UPI,Marketplace
+ORD01382,2026-01-27,CUST0363,Running Shoes,Sports,Singapore,1,72.29,41.63,72.29,30.66,Debit Card,Mobile App
+ORD01383,2025-11-27,CUST0098,Coffee Maker,Home & Kitchen,Australia,4,82.83,66.91,331.32,63.68,Net Banking,Marketplace
+ORD01384,2026-09-26,CUST0102,USB Drive,Electronics,United States,1,19.88,11.4,19.88,8.48,UPI,Marketplace
+ORD01385,2025-05-30,CUST0273,Dumbbell Set,Sports,Germany,4,63.11,48.95,252.44,56.64,PayPal,Website
+ORD01386,2025-10-28,CUST0043,Running Shoes,Sports,Germany,1,106.71,81.57,106.71,25.14,Credit Card,Mobile App
+ORD01387,2025-01-27,CUST0356,Wireless Mouse,Electronics,Canada,1,15.57,12.73,15.57,2.84,Credit Card,Website
+ORD01388,2025-09-07,CUST0314,Coffee Maker,Home & Kitchen,Singapore,2,45.12,23.63,90.24,42.98,PayPal,Mobile App
+ORD01389,2026-06-16,CUST0322,USB Drive,Electronics,UAE,2,20.07,12.92,40.14,14.3,Debit Card,Marketplace
+ORD01390,2025-08-29,CUST0183,Water Bottle,Accessories,United States,3,11.01,6.95,33.03,12.18,Credit Card,Mobile App
+ORD01391,2026-06-04,CUST0275,Bookshelf,Furniture,Germany,3,115.79,63.57,347.37,156.66,UPI,Marketplace
+ORD01392,2026-07-22,CUST0239,Bookshelf,Furniture,Australia,2,130.34,93.0,260.68,74.68,Net Banking,Website
+ORD01393,2025-06-25,CUST0230,Coffee Maker,Home & Kitchen,India,2,64.8,42.18,129.6,45.24,Debit Card,Mobile App
+ORD01394,2025-10-10,CUST0373,Monitor,Electronics,India,1,170.25,137.29,170.25,32.96,Net Banking,Mobile App
+ORD01395,2025-08-09,CUST0159,Yoga Mat,Sports,Australia,2,38.4,31.33,76.8,14.14,Debit Card,Website
+ORD01396,2026-07-07,CUST0162,Cookware Set,Home & Kitchen,India,3,95.88,61.57,287.64,102.93,Net Banking,Website
+ORD01397,2025-03-07,CUST0374,Water Bottle,Accessories,United Kingdom,2,20.72,11.22,41.44,19.0,Credit Card,Website
+ORD01398,2025-01-31,CUST0254,Dumbbell Set,Sports,United States,3,84.32,64.99,252.96,57.99,Debit Card,Website
+ORD01399,2026-02-01,CUST0196,Headphones,Electronics,Singapore,4,79.53,64.0,318.12,62.12,Credit Card,Mobile App
+ORD01400,2025-09-16,CUST0095,Office Chair,Furniture,Australia,1,126.5,92.62,126.5,33.88,PayPal,Website
+ORD01401,2026-04-08,CUST0269,Bookshelf,Furniture,Australia,1,122.96,66.95,122.96,56.01,UPI,Marketplace
+ORD01402,2025-06-22,CUST0007,Wireless Mouse,Electronics,India,5,13.36,8.44,66.8,24.6,Debit Card,Mobile App
+ORD01403,2025-03-13,CUST0326,Pen Set,Stationery,Singapore,1,11.15,7.68,11.15,3.47,Credit Card,Marketplace
+ORD01404,2025-06-08,CUST0294,Study Desk,Furniture,United Kingdom,5,110.36,80.01,551.8,151.75,PayPal,Marketplace
+ORD01405,2026-09-30,CUST0276,Office Chair,Furniture,United States,2,193.08,126.18,386.16,133.8,Debit Card,Mobile App
+ORD01406,2025-04-13,CUST0309,Headphones,Electronics,United Kingdom,1,42.14,28.47,42.14,13.67,Net Banking,Mobile App
+ORD01407,2026-04-04,CUST0284,Coffee Maker,Home & Kitchen,United States,4,68.36,43.52,273.44,99.36,Debit Card,Website
+ORD01408,2026-02-18,CUST0031,Water Bottle,Accessories,Singapore,1,24.25,16.18,24.25,8.07,Net Banking,Website
+ORD01409,2026-07-31,CUST0273,Phone Case,Accessories,UAE,1,16.13,12.8,16.13,3.33,Net Banking,Marketplace
+ORD01410,2025-10-27,CUST0207,Study Desk,Furniture,UAE,1,118.45,88.73,118.45,29.72,PayPal,Website
+ORD01411,2026-09-17,CUST0255,Desk Lamp,Home & Kitchen,Australia,1,13.65,9.4,13.65,4.25,UPI,Marketplace
+ORD01412,2026-08-08,CUST0329,Wireless Mouse,Electronics,Germany,1,14.05,11.07,14.05,2.98,UPI,Marketplace
+ORD01413,2026-07-05,CUST0351,Laptop,Electronics,UAE,1,571.18,329.27,571.18,241.91,Net Banking,Marketplace
+ORD01414,2025-08-08,CUST0096,Office Chair,Furniture,Canada,2,173.76,92.69,347.52,162.14,Debit Card,Website
+ORD01415,2025-02-16,CUST0106,Study Desk,Furniture,United States,2,209.94,147.78,419.88,124.32,Debit Card,Website
+ORD01416,2025-07-01,CUST0117,Bookshelf,Furniture,Germany,2,151.1,93.56,302.2,115.08,PayPal,Website
+ORD01417,2026-03-09,CUST0364,Monitor,Electronics,Australia,1,151.85,109.42,151.85,42.43,Credit Card,Marketplace
+ORD01418,2026-01-22,CUST0098,Notebook Pack,Stationery,Singapore,1,4.11,3.15,4.11,0.96,Debit Card,Marketplace
+ORD01419,2026-04-05,CUST0354,Laptop,Electronics,Canada,2,608.19,443.25,1216.38,329.88,UPI,Marketplace
+ORD01420,2025-07-07,CUST0086,Headphones,Electronics,Australia,1,110.71,73.79,110.71,36.92,PayPal,Mobile App
+ORD01421,2025-05-03,CUST0104,USB Drive,Electronics,United States,1,26.68,15.97,26.68,10.71,Net Banking,Mobile App
+ORD01422,2025-04-22,CUST0020,Study Desk,Furniture,UAE,1,299.07,197.59,299.07,101.48,Credit Card,Website
+ORD01423,2025-05-27,CUST0394,Keyboard,Electronics,India,1,53.84,35.07,53.84,18.77,Net Banking,Website
+ORD01424,2025-06-06,CUST0129,Study Desk,Furniture,United Kingdom,2,99.19,52.0,198.38,94.38,Debit Card,Mobile App
+ORD01425,2025-10-26,CUST0116,Study Desk,Furniture,United Kingdom,4,101.85,64.57,407.4,149.12,Credit Card,Mobile App
+ORD01426,2026-09-09,CUST0286,Coffee Maker,Home & Kitchen,United Kingdom,1,60.84,47.03,60.84,13.81,Credit Card,Marketplace
+ORD01427,2026-07-02,CUST0369,Backpack,Accessories,United Kingdom,1,50.18,32.26,50.18,17.92,Debit Card,Mobile App
+ORD01428,2026-01-26,CUST0030,Wireless Mouse,Electronics,UAE,1,14.39,8.49,14.39,5.9,Net Banking,Website
+ORD01429,2025-01-21,CUST0244,Bookshelf,Furniture,UAE,3,58.7,40.13,176.1,55.71,Debit Card,Marketplace
+ORD01430,2026-05-18,CUST0177,Dumbbell Set,Sports,Singapore,1,79.17,46.81,79.17,32.36,PayPal,Website
+ORD01431,2025-06-28,CUST0083,Coffee Maker,Home & Kitchen,Germany,2,55.21,31.1,110.42,48.22,UPI,Mobile App
+ORD01432,2026-07-09,CUST0206,Pen Set,Stationery,United Kingdom,1,7.14,5.24,7.14,1.9,Debit Card,Website
+ORD01433,2026-03-31,CUST0187,Running Shoes,Sports,Germany,1,66.33,49.09,66.33,17.24,Debit Card,Marketplace
+ORD01434,2025-07-15,CUST0374,Running Shoes,Sports,Germany,1,74.75,44.39,74.75,30.36,PayPal,Marketplace
+ORD01435,2026-04-27,CUST0334,Yoga Mat,Sports,Singapore,1,20.59,13.13,20.59,7.46,Debit Card,Marketplace
+ORD01436,2025-06-10,CUST0265,Yoga Mat,Sports,UAE,1,18.08,12.39,18.08,5.69,Credit Card,Mobile App
+ORD01437,2025-10-07,CUST0289,Laptop,Electronics,United Kingdom,2,604.39,435.22,1208.78,338.34,PayPal,Marketplace
+ORD01438,2025-05-14,CUST0250,Study Desk,Furniture,Germany,1,156.46,92.89,156.46,63.57,Net Banking,Marketplace
+ORD01439,2025-03-08,CUST0005,Phone Case,Accessories,India,3,19.89,14.38,59.67,16.53,Debit Card,Website
+ORD01440,2025-08-07,CUST0034,Backpack,Accessories,Germany,4,34.76,25.83,139.04,35.72,Net Banking,Mobile App
+ORD01441,2025-06-29,CUST0052,Cookware Set,Home & Kitchen,United Kingdom,4,89.13,55.4,356.52,134.92,Credit Card,Website
+ORD01442,2026-07-30,CUST0241,Yoga Mat,Sports,Australia,1,37.49,24.1,37.49,13.39,Credit Card,Website
+ORD01443,2026-01-26,CUST0245,Monitor,Electronics,United Kingdom,4,126.5,67.27,506.0,236.92,UPI,Marketplace
+ORD01444,2025-01-21,CUST0291,Water Bottle,Accessories,Germany,4,17.11,9.83,68.44,29.12,Debit Card,Website
+ORD01445,2026-02-08,CUST0057,Water Bottle,Accessories,Canada,1,8.56,5.22,8.56,3.34,Debit Card,Mobile App
+ORD01446,2026-09-29,CUST0214,Keyboard,Electronics,United Kingdom,1,74.1,49.53,74.1,24.57,Debit Card,Mobile App
+ORD01447,2025-01-25,CUST0086,Study Desk,Furniture,India,2,296.23,234.4,592.46,123.66,Credit Card,Marketplace
+ORD01448,2025-10-07,CUST0337,Pen Set,Stationery,Singapore,1,11.97,7.44,11.97,4.53,UPI,Mobile App
+ORD01449,2025-01-11,CUST0010,USB Drive,Electronics,Australia,1,27.06,21.59,27.06,5.47,PayPal,Website
+ORD01450,2026-01-20,CUST0412,Desk Lamp,Home & Kitchen,UAE,1,11.26,8.12,11.26,3.14,PayPal,Marketplace
+ORD01451,2025-07-17,CUST0137,Backpack,Accessories,United States,1,34.27,20.51,34.27,13.76,PayPal,Marketplace
+ORD01452,2025-04-27,CUST0066,Keyboard,Electronics,United States,3,70.23,54.67,210.69,46.68,Credit Card,Website
+ORD01453,2025-03-31,CUST0005,Office Chair,Furniture,India,1,97.33,74.01,97.33,23.32,Debit Card,Marketplace
+ORD01454,2026-04-17,CUST0170,Keyboard,Electronics,United States,1,54.44,42.54,54.44,11.9,Net Banking,Website
+ORD01455,2025-03-25,CUST0368,Wireless Mouse,Electronics,United States,2,16.59,12.34,33.18,8.5,UPI,Mobile App
+ORD01456,2026-10-03,CUST0244,Bookshelf,Furniture,Canada,1,130.28,82.87,130.28,47.41,PayPal,Marketplace
+ORD01457,2025-03-04,CUST0260,Office Chair,Furniture,India,2,181.08,126.31,362.16,109.54,UPI,Website
+ORD01458,2025-07-13,CUST0360,Study Desk,Furniture,United States,1,274.42,190.07,274.42,84.35,Credit Card,Website
+ORD01459,2026-08-30,CUST0212,Backpack,Accessories,Australia,3,28.7,18.32,86.1,31.14,Credit Card,Mobile App
+ORD01460,2025-09-15,CUST0083,Notebook Pack,Stationery,United States,3,12.09,8.21,36.27,11.64,UPI,Website
+ORD01461,2026-03-17,CUST0392,Desk Lamp,Home & Kitchen,Singapore,1,35.65,25.17,35.65,10.48,UPI,Marketplace
+ORD01462,2026-09-13,CUST0292,Keyboard,Electronics,Australia,1,62.43,49.59,62.43,12.84,Debit Card,Mobile App
+ORD01463,2026-05-16,CUST0382,Water Bottle,Accessories,Canada,3,15.13,10.14,45.39,14.97,Credit Card,Marketplace
+ORD01464,2026-04-18,CUST0408,Office Chair,Furniture,UAE,1,126.17,83.21,126.17,42.96,PayPal,Mobile App
+ORD01465,2025-01-26,CUST0404,Coffee Maker,Home & Kitchen,Germany,1,81.65,51.9,81.65,29.75,PayPal,Marketplace
+ORD01466,2025-06-26,CUST0095,Monitor,Electronics,Canada,1,112.37,85.11,112.37,27.26,UPI,Website
+ORD01467,2026-05-25,CUST0156,Running Shoes,Sports,Australia,2,55.32,32.05,110.64,46.54,Credit Card,Website
+ORD01468,2025-06-13,CUST0031,Desk Lamp,Home & Kitchen,Germany,2,27.47,17.87,54.94,19.2,UPI,Website
+ORD01469,2026-06-16,CUST0111,Backpack,Accessories,UAE,2,46.57,26.19,93.14,40.76,PayPal,Website
+ORD01470,2026-09-26,CUST0063,Pen Set,Stationery,United Kingdom,2,6.05,3.71,12.1,4.68,Net Banking,Mobile App
+ORD01471,2026-01-14,CUST0033,Backpack,Accessories,India,2,55.93,43.58,111.86,24.7,PayPal,Mobile App
+ORD01472,2025-11-17,CUST0244,Yoga Mat,Sports,Australia,1,38.45,27.93,38.45,10.52,Net Banking,Mobile App
+ORD01473,2025-11-26,CUST0294,Cookware Set,Home & Kitchen,Canada,3,116.82,92.35,350.46,73.41,Net Banking,Marketplace
+ORD01474,2025-01-20,CUST0049,Bookshelf,Furniture,UAE,3,81.16,55.92,243.48,75.72,Credit Card,Marketplace
+ORD01475,2025-09-30,CUST0200,Backpack,Accessories,Canada,1,41.07,28.78,41.07,12.29,Debit Card,Marketplace
+ORD01476,2025-08-17,CUST0168,Monitor,Electronics,Germany,1,242.22,160.38,242.22,81.84,Net Banking,Mobile App
+ORD01477,2025-11-18,CUST0275,USB Drive,Electronics,Canada,1,13.27,8.17,13.27,5.1,Credit Card,Marketplace
+ORD01478,2025-07-19,CUST0259,Dumbbell Set,Sports,Australia,1,67.67,50.12,67.67,17.55,Credit Card,Mobile App
+ORD01479,2025-07-29,CUST0013,Yoga Mat,Sports,India,2,35.88,21.87,71.76,28.02,PayPal,Website
+ORD01480,2026-10-03,CUST0081,Water Bottle,Accessories,Singapore,2,23.29,13.14,46.58,20.3,Debit Card,Website
+ORD01481,2025-10-19,CUST0066,Notebook Pack,Stationery,Germany,2,6.18,4.34,12.36,3.68,UPI,Website
+ORD01482,2025-11-19,CUST0193,Wireless Mouse,Electronics,India,3,24.71,15.58,74.13,27.39,PayPal,Marketplace
+ORD01483,2025-02-05,CUST0166,Backpack,Accessories,India,1,33.35,25.71,33.35,7.64,Net Banking,Website
+ORD01484,2025-04-15,CUST0366,Monitor,Electronics,Canada,2,267.58,150.37,535.16,234.42,UPI,Mobile App
+ORD01485,2026-05-20,CUST0032,Water Bottle,Accessories,UAE,1,13.84,10.31,13.84,3.53,PayPal,Marketplace
+ORD01486,2025-06-12,CUST0134,Monitor,Electronics,Canada,2,125.21,72.89,250.42,104.64,Credit Card,Website
+ORD01487,2026-05-06,CUST0113,USB Drive,Electronics,Canada,1,21.79,15.89,21.79,5.9,Credit Card,Website
+ORD01488,2026-02-10,CUST0392,Phone Case,Accessories,Australia,1,11.59,8.23,11.59,3.36,PayPal,Website
+ORD01489,2025-08-02,CUST0252,Yoga Mat,Sports,India,2,13.12,9.14,26.24,7.96,Debit Card,Marketplace
+ORD01490,2025-06-18,CUST0078,Keyboard,Electronics,India,2,40.25,31.78,80.5,16.94,Net Banking,Mobile App
+ORD01491,2025-07-26,CUST0132,Notebook Pack,Stationery,Germany,2,9.62,5.46,19.24,8.32,Credit Card,Mobile App
+ORD01492,2026-04-02,CUST0344,Notebook Pack,Stationery,UAE,1,11.16,7.32,11.16,3.84,Credit Card,Website
+ORD01493,2025-07-30,CUST0292,Headphones,Electronics,Australia,1,101.44,75.35,101.44,26.09,Credit Card,Marketplace
+ORD01494,2026-08-04,CUST0130,Pen Set,Stationery,Canada,1,3.49,2.47,3.49,1.02,Net Banking,Website
+ORD01495,2025-07-31,CUST0199,Pen Set,Stationery,Germany,1,10.47,8.15,10.47,2.32,PayPal,Mobile App
+ORD01496,2026-09-04,CUST0342,Dumbbell Set,Sports,Canada,3,79.85,53.02,239.55,80.49,UPI,Marketplace
+ORD01497,2025-01-12,CUST0001,Headphones,Electronics,Australia,4,106.0,74.81,424.0,124.76,PayPal,Mobile App
+ORD01498,2025-07-15,CUST0191,Cookware Set,Home & Kitchen,United States,5,50.7,31.96,253.5,93.7,Debit Card,Mobile App
+ORD01499,2025-05-26,CUST0410,Laptop,Electronics,Canada,1,464.0,257.99,464.0,206.01,UPI,Marketplace
+ORD01500,2025-04-26,CUST0121,Laptop,Electronics,Singapore,4,822.82,470.96,3291.28,1407.44,Net Banking,Marketplace

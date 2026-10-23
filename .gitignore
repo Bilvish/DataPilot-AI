@@ -1,0 +1,8 @@
+.venv/
+**pycache**/
+*.pyc
+.env
+shopsense.db
+app_backup.py
+app copy.py
+app copy 2.py
