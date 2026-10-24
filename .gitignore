@@ -5,3 +5,10 @@ __pycache__/
 *.duckdb.wal
 shopsense.db
 .pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
