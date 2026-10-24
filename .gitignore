@@ -1,8 +1,7 @@
-.venv/
-**pycache**/
+__pycache__/
 *.pyc
-.env
+.venv/
+*.duckdb
+*.duckdb.wal
 shopsense.db
-app_backup.py
-app copy.py
-app copy 2.py
+.pytest_cache/

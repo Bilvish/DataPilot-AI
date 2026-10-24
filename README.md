@@ -1,103 +1,68 @@
-# 🛍️ ShopSense — E-commerce Sales Analytics Dashboard
+# InsightFlow AI
 
-**ShopSense** is an interactive e-commerce analytics dashboard built with Python, Pandas, SQL, and Streamlit. It helps explore sales data, understand business performance, and discover useful insights through data visualization and SQL analysis.
+A local data-preparation and analytics workspace built with Streamlit, pandas, DuckDB and Plotly.
+Upload a dataset, profile and clean it, explore it with interactive charts, load it into DuckDB and query it with read-only SQL.
 
-🚀 **Live Dashboard:** https://shopsense-dashboard.streamlit.app/
+## Features
 
-## 📊 Features
+- **Overview** – dataset metadata, data-health KPIs, business KPIs (only when column names clearly match Sales, Profit, Quantity, Discount or OrderID), workflow progress.
+- **Data Preparation** – original profile, cleaning options with an impact warning, before/after summary, validation, audit log, CSV downloads. The upload is never modified; cleaning produces a separate copy.
+- **Visual Analytics** – executive overview, trends, category/segment comparison, relationships and correlation, distributions, data quality. Column roles are detected automatically; sums and shares are only shown where they are valid.
+- **SQL Workspace** – load the cleaned data into DuckDB, run read-only queries from a monospace editor with sample queries, download results as CSV.
+- **Data Quality** – missing values, duplicates, column types, distinct counts, warnings and validation results.
 
-* **Sales Analysis:** Explore sales performance and revenue trends.
-* **Category Analysis:** Compare sales and profit across product categories.
-* **Business Insights:** Explore data-driven findings and business recommendations.
-* **Interactive Dashboard:** Navigate analytics through an interactive Streamlit interface.
-* **SQL Analytics:** Analyze e-commerce data using SQL queries.
-* **Data Visualization:** Understand important metrics and trends through charts.
+"Completeness" (Overview) = 100 × (1 − missing cells ÷ total cells). No composite "quality score" is shown.
 
-## 🛠️ Tech Stack
+## Supported inputs
 
-* **Language:** Python
-* **Data Analysis:** Pandas
-* **Database:** SQLite
-* **Query Language:** SQL
-* **Dashboard:** Streamlit
-* **Visualization:** Matplotlib
+CSV, XLSX, JSON, Parquet. Upload limit: 200 MB (`.streamlit/config.toml`). Very large files are limited by available memory because they are loaded into pandas.
 
-## 📸 Dashboard Preview
+## Run (Windows PowerShell)
 
-![ShopSense Main Dashboard](Screenshot%202026-10-24%20115448.png)
-
-![ShopSense Sales Analysis](Screenshot%202026-10-24%20115615.png)
-
-![ShopSense Business Insights](Screenshot%202026-10-24%20115708.png)
-
-
-## 📁 Project Structure
-
-```text
-ShopSense/
-├── app.py
-├── main.py
-├── setup_database.py
-├── sql_analysis.py
-├── sql_analytics.py
-├── requirements.txt
-├── shopsense_sample_ecommerce.csv
-├── category_profit.csv
-├── category_sales.csv
-└── data.csv
-```
-
-## ⚙️ Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/gaganruhal/ShopSense.git
-cd ShopSense
-```
-
-### 2. Create a virtual environment
-
-```bash
+```powershell
 python -m venv .venv
-```
-
-Activate it on Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-### 3. Install dependencies
-
-```bash
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+streamlit run universal_app.py
 ```
 
-### 4. Set up the database
+## Tests
 
-```bash
-python setup_database.py
+```powershell
+pip install -r requirements-dev.txt
+python -m pytest -q
 ```
 
-### 5. Run the dashboard
+`tests/stubs/` contains stand-ins for `data_profiler`, `data_cleaner`, `data_validator` and `etl_pipeline`, used **only if those modules are not found in the project root**. When your real modules are present they are used instead.
 
-```bash
-streamlit run app.py
-```
+## Architecture
 
-The dashboard should open in your browser.
+| File | Role |
+|---|---|
+| `universal_app.py` | App shell: logo, navigation, sidebar uploader, page routing |
+| `views.py` | One function per page; presentation only |
+| `ui_theme.py` | Stylesheet and reusable UI helpers |
+| `visualization.py` | Analytics dashboard (Plotly) |
+| `sql_analytics.py` | Validated, read-only SQL execution |
+| `sql_samples.py` | Sample queries |
+| `universal_loader.py`, `data_profiler.py`, `data_cleaner.py`, `data_validator.py`, `etl_pipeline.py` | Existing data logic (unchanged by the redesign) |
+| `.streamlit/config.toml` | Theme and upload limit |
 
-## 🎯 Project Objectives
+Flow: upload → `load_uploaded_file` → profile → clean → validate → (charts) → `load_to_duckdb` → `execute_sql_query`.
 
-* Practice Python-based data analysis.
-* Use SQL to explore and analyze e-commerce data.
-* Visualize business performance through an interactive dashboard.
-* Present data-driven insights that can support business decisions.
+## SQL security notes
 
-## 👨‍💻 Author
+- The query is parsed by DuckDB; exactly one statement is accepted and it must be a SELECT-type (SELECT, WITH, DESCRIBE, SHOW, SUMMARIZE) or EXPLAIN statement. INSERT/UPDATE/DELETE/CREATE/DROP/ALTER/COPY/ATTACH/EXPORT/PRAGMA/SET/CALL/INSTALL/LOAD are rejected by statement type.
+- The database is opened read-only, external file and network access is disabled (`read_csv('/etc/passwd')` fails), and the configuration is locked.
+- Results are capped at 100,000 rows and queries stop after 30 seconds.
+- Covered by `tests/test_sql_analytics.py`. This protects the local database file and filesystem; it is not a multi-user sandbox, and every table in `insightflow.duckdb` is queryable.
 
-**Gagan Ruhal**
+## Known limitations
 
-* GitHub: https://github.com/gaganruhal
-* Live Project: https://shopsense-dashboard.streamlit.app/
+- No screenshots are included; none were captured.
+- Datasets are held in memory; the SQL editor is a plain text area (no syntax highlighting or autocomplete).
+- Single-user, local app: no accounts or authentication.
+
+## Future improvements
+
+Syntax-highlighted SQL editor, saved queries, chart export as images, background loading for very large files.

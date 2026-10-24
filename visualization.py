@@ -37,16 +37,16 @@ import streamlit as st
 # --------------------------------------------------------------------------- #
 # Design system
 # --------------------------------------------------------------------------- #
-PRIMARY = "#1F6FB2"
+PRIMARY = "#4F46E5"
 ACCENT = "#E9A23B"
 NEGATIVE = "#C0504D"
-TEXT = "#1F2937"
-GRID = "#E6E9EF"
+TEXT = "#0F172A"
+GRID = "#E2E8F0"
 PALETTE = [
-    "#1F6FB2", "#2A9D8F", "#E9A23B", "#8E7DBE",
-    "#E07A5F", "#5BA3D9", "#6B7C93", "#A3B18A",
+    "#4F46E5", "#0E9F8E", "#E9A23B", "#8B5CF6",
+    "#E07A5F", "#38BDF8", "#64748B", "#84A98C",
 ]
-DIVERGING = [[0.0, "#B83A3A"], [0.5, "#FFFFFF"], [1.0, "#1F6FB2"]]
+DIVERGING = [[0.0, "#B83A3A"], [0.5, "#FFFFFF"], [1.0, "#4F46E5"]]
 FONT = "Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
 CHART_HEIGHT = 420
 
@@ -1425,7 +1425,14 @@ def render_quality(ctx: Ctx) -> None:
 # Public entry point
 # --------------------------------------------------------------------------- #
 def _signature(df: pd.DataFrame) -> str:
+    """Stable id for widget keys. Includes a content fingerprint so two datasets with
+    the same schema and row count but different values never share widget state."""
     raw = "|".join(map(str, df.columns)) + f"#{df.shape[0]}x{df.shape[1]}"
+    try:
+        edge = pd.concat([df.head(100), df.tail(100)]).astype(str)
+        raw += "#" + str(int(pd.util.hash_pandas_object(edge, index=False).sum()))
+    except Exception:  # unusual cell types: fall back to schema + shape only
+        pass
     return hashlib.md5(raw.encode("utf-8", "ignore")).hexdigest()[:8]
 
 
@@ -1452,6 +1459,19 @@ def _render(df: pd.DataFrame) -> None:
                 st.error(f"This section could not be rendered: {exc}")
 
 
+def render_data_quality(df: pd.DataFrame) -> None:
+    """Render only the data-quality section (used by the Data Quality page)."""
+    if not isinstance(df, pd.DataFrame) or df.shape[1] == 0 or len(df) == 0:
+        st.info("The dataset is empty, so there is nothing to assess yet.")
+        return
+    try:
+        work, info = get_prepared(df)
+        ctx = Ctx(_signature(df), info, work, work, None, "count", None, 10, False)
+        render_quality(ctx)
+    except Exception as exc:
+        st.error(f"The quality report could not be rendered: {exc}")
+
+
 def render_visualization(df: pd.DataFrame) -> None:
     """Render the analytics dashboard for ``df`` (the cleaned DataFrame)."""
     if not isinstance(df, pd.DataFrame) or df.shape[1] == 0 or len(df) == 0:
@@ -1462,4 +1482,4 @@ def render_visualization(df: pd.DataFrame) -> None:
     except Exception as exc:
         st.error(f"The dashboard could not be rendered: {exc}")
         with st.expander("Technical details"):
-            st.exception(exc)
+            st.exception(exc)
