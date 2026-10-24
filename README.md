@@ -24,7 +24,12 @@
 
 ## 📸 Dashboard Preview
 
-<!-- Add dashboard screenshots here after uploading them to your repository. -->
+![ShopSense Main Dashboard](Screenshot%202026-10-24%20115448.png)
+
+![ShopSense Sales Analysis](Screenshot%202026-10-24%20115615.png)
+
+![ShopSense Business Insights](Screenshot%202026-10-24%20115708.png)
+
 
 ## 📁 Project Structure
 
