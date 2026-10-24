@@ -1,24 +1,30 @@
 # 🛍️ ShopSense — E-commerce Sales Analytics Dashboard
 
-ShopSense is a Python-based dashboard designed to explore e-commerce sales data and understand business performance through data analysis and visualizations.
+**ShopSense** is an interactive e-commerce analytics dashboard built with Python, Pandas, SQL, and Streamlit. It helps explore sales data, understand business performance, and discover useful insights through data visualization and SQL analysis.
 
-## 🚀 Features
+🚀 **Live Dashboard:** https://shopsense-dashboard.streamlit.app/
 
-* **Sales Analysis:** Explore sales and revenue trends.
+## 📊 Features
+
+* **Sales Analysis:** Explore sales performance and revenue trends.
 * **Category Analysis:** Compare sales and profit across product categories.
-* **Business Insights:** Review data-driven insights and recommendations.
-* **Interactive Dashboard:** Navigate analytics through a Streamlit interface.
-* **SQL Analysis:** Use SQL queries to analyze e-commerce data.
-* **Data Visualization:** Present key metrics and trends using charts.
+* **Business Insights:** Explore data-driven findings and business recommendations.
+* **Interactive Dashboard:** Navigate analytics through an interactive Streamlit interface.
+* **SQL Analytics:** Analyze e-commerce data using SQL queries.
+* **Data Visualization:** Understand important metrics and trends through charts.
 
 ## 🛠️ Tech Stack
 
-* Python
-* Pandas
-* SQL
-* SQLite
-* Streamlit
-* Matplotlib
+* **Language:** Python
+* **Data Analysis:** Pandas
+* **Database:** SQLite
+* **Query Language:** SQL
+* **Dashboard:** Streamlit
+* **Visualization:** Matplotlib
+
+## 📸 Dashboard Preview
+
+<!-- Add dashboard screenshots here after uploading them to your repository. -->
 
 ## 📁 Project Structure
 
@@ -45,7 +51,7 @@ git clone https://github.com/gaganruhal/ShopSense.git
 cd ShopSense
 ```
 
-### 2. Create a virtual environment (recommended)
+### 2. Create a virtual environment
 
 ```bash
 python -m venv .venv
@@ -77,12 +83,16 @@ streamlit run app.py
 
 The dashboard should open in your browser.
 
-## 🎯 Project Goal
+## 🎯 Project Objectives
 
-The goal of ShopSense is to practice Python programming, data analysis, SQL querying, and data visualization while turning raw e-commerce data into useful business insights.
+* Practice Python-based data analysis.
+* Use SQL to explore and analyze e-commerce data.
+* Visualize business performance through an interactive dashboard.
+* Present data-driven insights that can support business decisions.
 
 ## 👨‍💻 Author
 
 **Gagan Ruhal**
 
-GitHub: [@gaganruhal](https://github.com/gaganruhal)
+* GitHub: https://github.com/gaganruhal
+* Live Project: https://shopsense-dashboard.streamlit.app/
