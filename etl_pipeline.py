@@ -5,7 +5,7 @@ import duckdb
 import pandas as pd
 
 
-DATABASE_PATH = Path("insightflow.duckdb")
+DATABASE_PATH = Path("datapilot.duckdb")
 
 
 def load_to_duckdb(

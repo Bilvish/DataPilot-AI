@@ -1,7 +1,7 @@
 """
 ui_theme.py
 ===========
-Shared look-and-feel for InsightFlow AI: one stylesheet plus small, reusable UI helpers.
+Shared look-and-feel for DataPilot AI: one stylesheet plus small, reusable UI helpers.
 
 The stylesheet is deliberately narrow: it styles metrics, bordered containers,
 the sidebar, tabs, buttons, and the SQL editor (via its widget key class). It does

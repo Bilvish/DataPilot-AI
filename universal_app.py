@@ -1,7 +1,7 @@
 """
 universal_app.py
 ================
-InsightFlow AI - application shell (sidebar, navigation, upload, page routing).
+DataPilot AI - application shell (sidebar, navigation, upload, page routing).
 
 Run with:  streamlit run universal_app.py
 """
@@ -17,7 +17,7 @@ import views
 ASSETS = Path(__file__).parent / "assets"
 
 st.set_page_config(
-    page_title="InsightFlow AI",
+    page_title="DataPilot AI",
     page_icon=str(ASSETS / "icon.svg"),
     layout="wide",
     initial_sidebar_state="expanded",
@@ -56,7 +56,7 @@ with st.sidebar:
             f"{ui.status_chip(label, kind)}</div>",
             unsafe_allow_html=True,
         )
-    st.markdown('<div class="if-footer">InsightFlow AI · local workspace<br>Streamlit · pandas · DuckDB · Plotly</div>',
+    st.markdown('<div class="if-footer">DataPilot AI · local workspace<br>Streamlit · pandas · DuckDB · Plotly</div>',
                 unsafe_allow_html=True)
 
 navigation.run()

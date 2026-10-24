@@ -1,7 +1,7 @@
 """
 sql_analytics.py
 ================
-Read-only SQL execution against the local InsightFlow DuckDB database.
+Read-only SQL execution against the local DataPilot DuckDB database.
 
 Security model (defence in depth)
 ---------------------------------
@@ -34,7 +34,7 @@ import duckdb
 import pandas as pd
 import pyarrow as pa
 
-DATABASE_PATH = Path("insightflow.duckdb")
+DATABASE_PATH = Path("datapilot.duckdb")
 MAX_RESULT_ROWS = 100_000
 QUERY_TIMEOUT_SECONDS = 30
 

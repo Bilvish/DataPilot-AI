@@ -1,7 +1,7 @@
 """
 views.py
 ========
-Page renderers for the InsightFlow AI shell. Each ``page_*`` function renders one
+Page renderers for the DataPilot AI shell. Each ``page_*`` function renders one
 navigation page. Data logic is delegated to the existing modules (loader, profiler,
 cleaner, validator, ETL, SQL, visualization); this file only arranges and presents it.
 """
@@ -249,7 +249,7 @@ def page_overview() -> None:
 
     if ds is None:
         ui.empty_state(
-            "Welcome to InsightFlow AI",
+            "Welcome to DataPilot AI",
             f"Upload a dataset from the sidebar to begin. Supported formats: {FORMAT_LABEL}. "
             f"Maximum file size: {MAX_UPLOAD_MB} MB.",
         )

@@ -1,7 +1,7 @@
-"""
+﻿"""
 visualization.py
 ================
-InsightFlow AI - business analytics dashboard (Streamlit + Plotly).
+DataPilot AI - business analytics dashboard (Streamlit + Plotly).
 
 Public API
 ----------
@@ -139,13 +139,13 @@ class Ctx:
 def format_number(value, decimals: int = 2) -> str:
     """Format a number consistently (thousands separators, compact M/B/T)."""
     if value is None:
-        return "—"
+        return "â€”"
     try:
         v = float(value)
     except (TypeError, ValueError):
         return str(value)
     if not np.isfinite(v):
-        return "—"
+        return "â€”"
     a = abs(v)
     for limit, suffix in ((1e12, "T"), (1e9, "B"), (1e6, "M")):
         if a >= limit:
@@ -190,7 +190,7 @@ def _short_labels(labels, max_len: int = 42) -> list[str]:
     out: list[str] = []
     seen: set[str] = set()
     for lab in map(str, labels):
-        s = lab if len(lab) <= max_len else lab[: max_len - 1] + "…"
+        s = lab if len(lab) <= max_len else lab[: max_len - 1] + "â€¦"
         base, i = s, 2
         while s in seen:
             s = f"{base} ({i})"
@@ -530,7 +530,7 @@ def describe_series(s: pd.Series) -> Optional[dict]:
         "Max": s.max(),
         "Std dev": s.std() if len(s) > 1 else np.nan,
         "IQR": iqr,
-        "Outliers (1.5×IQR rule)": int(((s < lo) | (s > hi)).sum()),
+        "Outliers (1.5Ã—IQR rule)": int(((s < lo) | (s > hi)).sum()),
     }
 
 
@@ -809,7 +809,7 @@ def render_controls(work: pd.DataFrame, info: DatasetInfo, sig: str) -> Ctx:
             agg = "count"
         top_n = c4.slider("Top N", 3, 25, 10, key=key("topn"))
 
-        st.markdown("**Filters** · applied to every section except Data quality")
+        st.markdown("**Filters** Â· applied to every section except Data quality")
         mask = pd.Series(True, index=work.index)
         active: list[str] = []
 
@@ -855,7 +855,7 @@ def render_controls(work: pd.DataFrame, info: DatasetInfo, sig: str) -> Ctx:
     df = work[mask] if filtered else work
     st.caption(
         f"Showing **{len(df):,}** of {len(work):,} records"
-        + (f" · active filters: {_md('; '.join(active))}" if active else " · no filters active")
+        + (f" Â· active filters: {_md('; '.join(active))}" if active else " Â· no filters active")
     )
     ctx = Ctx(sig, info, work, df, measure, agg, dim, top_n, filtered)
     if dim is not None and len(df):
@@ -875,13 +875,13 @@ def render_overview(ctx: Ctx) -> None:
         [
             ("Records", f"{n:,}", f"{n / total_n:.0%} of dataset" if ctx.filtered else "Full dataset"),
             ("Columns", f"{info.n_cols:,}",
-             f"{len(info.dimensions)} categorical · {len(info.datetime)} date"),
+             f"{len(info.dimensions)} categorical Â· {len(info.datetime)} date"),
             ("Numeric fields", f"{len(info.numeric):,}",
              f"{len(info.id_like)} look like identifiers" if info.id_like else "Available as measures"),
             ("Missing cells", f"{info.total_missing:,}",
-             f"{100 * info.total_missing / cells:.1f}% of cells · full dataset"),
+             f"{100 * info.total_missing / cells:.1f}% of cells Â· full dataset"),
             ("Duplicate rows", f"{info.duplicate_rows:,}",
-             f"{100 * info.duplicate_rows / max(info.n_rows, 1):.1f}% of rows · full dataset"),
+             f"{100 * info.duplicate_rows / max(info.n_rows, 1):.1f}% of rows Â· full dataset"),
         ]
     )
 
@@ -893,9 +893,9 @@ def render_overview(ctx: Ctx) -> None:
         else:
             kpi_cards(
                 [
-                    (f"Sum · {m}", format_number(valid.sum()), "Missing values ignored"),
-                    (f"Average · {m}", format_number(valid.mean()), "Arithmetic mean"),
-                    (f"Median · {m}", format_number(valid.median()), "Middle value"),
+                    (f"Sum Â· {m}", format_number(valid.sum()), "Missing values ignored"),
+                    (f"Average Â· {m}", format_number(valid.mean()), "Arithmetic mean"),
+                    (f"Median Â· {m}", format_number(valid.median()), "Middle value"),
                     ("Valid values", f"{len(valid):,}", f"{len(valid) / max(n, 1):.1%} of records"),
                 ]
             )
@@ -1201,7 +1201,7 @@ def render_relationships(ctx: Ctx) -> None:
                                          line=dict(color=NEGATIVE, dash="dash", width=2)))
             sub = f"{len(plot):,} records with valid values"
             if len(plot) > MAX_SCATTER_POINTS:
-                sub += f" · {MAX_SCATTER_POINTS:,} randomly sampled points drawn"
+                sub += f" Â· {MAX_SCATTER_POINTS:,} randomly sampled points drawn"
             style_figure(fig, f"{y} vs {x}", legend=bool(color) or show_trend, subtitle=sub)
             fig.update_xaxes(title=x)
             fig.update_yaxes(title=y)
@@ -1209,14 +1209,14 @@ def render_relationships(ctx: Ctx) -> None:
 
             k1, k2, k3 = st.columns(3)
             k1.metric("Pearson r", f"{r:.3f}" if np.isfinite(r) else "n/a")
-            k2.metric("Spearman ρ", f"{rho:.3f}" if np.isfinite(rho) else "n/a")
+            k2.metric("Spearman Ï", f"{rho:.3f}" if np.isfinite(rho) else "n/a")
             k3.metric("Paired records", f"{len(plot):,}")
             if np.isfinite(r):
                 direction = "positive" if r > 0 else "negative"
                 st.markdown(
                     f"- The linear relationship between **{_md(x)}** and **{_md(y)}** is "
                     f"**{strength_label(r)} and {direction}** (r = {r:.2f}).\n"
-                    "- Pearson r is sensitive to outliers; Spearman ρ checks whether the *ranking* "
+                    "- Pearson r is sensitive to outliers; Spearman Ï checks whether the *ranking* "
                     "relationship agrees."
                 )
             else:
@@ -1270,7 +1270,7 @@ def render_relationships(ctx: Ctx) -> None:
         show_table(table)
         strong = [p for p in pairs if abs(p[2]) >= 0.5]
         if not strong:
-            st.caption("No pair reaches |r| ≥ 0.5 in the selected columns.")
+            st.caption("No pair reaches |r| â‰¥ 0.5 in the selected columns.")
 
 
 # --------------------------------------------------------------------------- #
@@ -1331,13 +1331,13 @@ def render_distribution(ctx: Ctx) -> None:
     obs = [f"Median **{format_number(overall['Median'])}**, middle 50% of values between "
            f"{format_number(overall['Q1'])} and {format_number(overall['Q3'])}; "
            f"range {format_number(overall['Min'])} to {format_number(overall['Max'])}."]
-    n_out = overall["Outliers (1.5×IQR rule)"]
+    n_out = overall["Outliers (1.5Ã—IQR rule)"]
     if n_out:
-        obs.append(f"{n_out:,} values ({100 * n_out / overall['Count']:.1f}%) fall outside the 1.5×IQR "
+        obs.append(f"{n_out:,} values ({100 * n_out / overall['Count']:.1f}%) fall outside the 1.5Ã—IQR "
                    "fences. Outliers are not necessarily errors - they may be legitimate large or "
                    "small transactions, so investigate before removing them.")
     else:
-        obs.append("No values fall outside the 1.5×IQR fences.")
+        obs.append("No values fall outside the 1.5Ã—IQR fences.")
     show_observations(obs)
 
 
@@ -1482,4 +1482,4 @@ def render_visualization(df: pd.DataFrame) -> None:
     except Exception as exc:
         st.error(f"The dashboard could not be rendered: {exc}")
         with st.expander("Technical details"):
-            st.exception(exc)
+            st.exception(exc)

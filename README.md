@@ -1,4 +1,4 @@
-# InsightFlow AI
+# DataPilot AI
 
 A local data-preparation and analytics workspace built with Streamlit, pandas, DuckDB and Plotly.
 Upload a dataset, profile and clean it, explore it with interactive charts, load it into DuckDB and query it with read-only SQL.
@@ -55,7 +55,7 @@ Flow: upload → `load_uploaded_file` → profile → clean → validate → (ch
 - The query is parsed by DuckDB; exactly one statement is accepted and it must be a SELECT-type (SELECT, WITH, DESCRIBE, SHOW, SUMMARIZE) or EXPLAIN statement. INSERT/UPDATE/DELETE/CREATE/DROP/ALTER/COPY/ATTACH/EXPORT/PRAGMA/SET/CALL/INSTALL/LOAD are rejected by statement type.
 - The database is opened read-only, external file and network access is disabled (`read_csv('/etc/passwd')` fails), and the configuration is locked.
 - Results are capped at 100,000 rows and queries stop after 30 seconds.
-- Covered by `tests/test_sql_analytics.py`. This protects the local database file and filesystem; it is not a multi-user sandbox, and every table in `insightflow.duckdb` is queryable.
+- Covered by `tests/test_sql_analytics.py`. This protects the local database file and filesystem; it is not a multi-user sandbox, and every table in `datapilot.duckdb` is queryable.
 
 ## Known limitations
 

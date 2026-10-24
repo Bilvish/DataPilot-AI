@@ -35,7 +35,7 @@ def run_page(page, df, state=None, cwd=None):
 
 @pytest.fixture(autouse=True)
 def _cwd(tmp_path, monkeypatch):
-    monkeypatch.chdir(tmp_path)  # isolates insightflow.duckdb
+    monkeypatch.chdir(tmp_path)  # isolates datapilot.duckdb
 
 
 def no_errors(at):
@@ -49,7 +49,7 @@ def test_overview_empty_state():
         views.page_overview()
     at = AppTest.from_function(script).run()
     assert not at.exception
-    assert any("Welcome to InsightFlow AI" in m.value for m in at.markdown)
+    assert any("Welcome to DataPilot AI" in m.value for m in at.markdown)
 
 
 def test_overview_with_data_shows_business_kpis():
